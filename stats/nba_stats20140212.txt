@@ -1,0 +1,4934 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/website" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en">
+<head>
+<meta charset="utf-8">
+<script>
+/*
+ * JS Redirection Mobile
+ *
+ * Developed by
+ * Sebastiano Armeli-Battana (@sebarmeli) - http://www.sebastianoarmelibattana.com
+ * Release under the MIT licence
+ */
+ if(!window.SA){window.SA={}}SA.redirection_mobile=function(d){var b=function(k){var j=new Date();j.setTime(j.getTime()+k);return j};var i=function(o){if(!o){return}var j=document.location.search,p=j&&j.substring(1).split("&"),l=0,n=p.length;for(;l<n;l++){var k=p[l],m=k&&k.substring(0,k.indexOf("="));if(m===o){return k.substring(k.indexOf("=")+1,k.length)}}};var f=navigator.userAgent.toLowerCase(),h="false",g="true",d=d||{};redirection_param=d.redirection_paramName||"mobile",redirection_param_long=d.redirection_paramName_long||"mobile_long",mobile_prefix=d.mobile_prefix||"m",mobile_url=d.mobile_url,mobile_protocol=d.mobile_scheme?d.mobile_scheme+":":document.location.protocol,host=document.location.host,queryValue=i(redirection_param),queryValue_long=i(redirection_param_long),mobile_host=mobile_url||(mobile_prefix+"."+(!!host.match(/^www./i)?host.substring(4):host)),cookie_hours=d.cookie_hours||1,isUAMobile=!!(f.match(/(iPhone|iPod|blackberry|android|googlebot-mobile|googlebotmobile|htc|kindle|lg|midp|mmp|nokia|opera mini|palm|pocket|psp|sgh|smartphone|symbian|treo mini|Playstation Portable|SonyEricsson|Samsung|MobileExplorer|PalmSource|Benq|Windows Phone|Windows Mobile|IEMobile|Windows CE|Nintendo Wii)/i));if(queryValue_long===h){if(window.localStorage){window.localStorage.setItem(redirection_param_long,h)}else{document.cookie=redirection_param+"="+h+";expires="+b(3600*1000*cookie_hours*7*24*31).toUTCString()}}else{if((queryValue_long===g)||(queryValue===g)){if(window.localStorage){window.localStorage.setItem(redirection_param_long,g)}else{document.cookie=redirection_param+"="+h+";expires="+b(-3600*1000*cookie_hours*7*24*31).toUTCString()}if(window.localStorage){window.sessionStorage.setItem(redirection_param,g)}else{document.cookie=redirection_param+"="+h+";expires="+b(-3600*1000*cookie_hours*7*24*31).toUTCString()}}else{if(document.referrer.indexOf(mobile_host)>=0||queryValue===h){if(window.sessionStorage){window.sessionStorage.setItem(redirection_param,h)}else{document.cookie=redirection_param+"="+h+";expires="+b(3600*1000*cookie_hours).toUTCString()}}}}var a=(window.sessionStorage)?(window.sessionStorage.getItem(redirection_param)===h):false,e=(window.localStorage)?(window.localStorage.getItem(redirection_param_long)===h):false,c=document.cookie?(document.cookie.indexOf(redirection_param)>=0):false;if(isUAMobile&&!(c||a||e)){document.location.href=mobile_protocol+"//"+mobile_host}};
+	SA.redirection_mobile({mobile_url:"m.bkref.com/m?p=XXleaguesXXNBA_2014.html",redirection_paramName:"mobile",redirection_paramName_long:"mobile_long",cookie_hours:6});
+</script> 
+
+<title>2013-14 NBA Season Summary | Basketball-Reference.com</title>
+<script type="text/javascript">var sr_gzipEnabled = false;</script>
+<script type="text/javascript" src="http://d2ft4b0ve1aur1.cloudfront.net/js-352/sr.gzipcheck.js.jgz"></script>
+
+<noscript>
+  <link type="text/css" rel="stylesheet" href="http://d2ft4b0ve1aur1.cloudfront.net/css-352/sr-bbr-min.css">
+</noscript>
+<script type="text/javascript">
+(function () {
+    var sr_css_file = 'http://d2ft4b0ve1aur1.cloudfront.net/css-352/sr-bbr-min.css';
+    if (sr_gzipEnabled) {
+       sr_css_file = 'http://d2ft4b0ve1aur1.cloudfront.net/css-352/sr-bbr-min-gz.css';
+    }
+    var head = document.getElementsByTagName("head")[0];
+    if (head) {
+	var scriptStyles = document.createElement("link");
+	scriptStyles.rel = "stylesheet";
+	scriptStyles.type = "text/css";
+	scriptStyles.href = sr_css_file;
+	head.appendChild(scriptStyles);
+	//alert('adding css to header:'+sr_css_file);
+    }
+}());
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="nba, aba, basketball, stats, statistics, history, 2013-14, standings, playoffs, awards, leaders">
+<meta property="fb:admins" content="1016660168">
+<meta property="fb:page_id" content="35120246404">
+<meta property="og:site_name" content="Basketball-Reference.com"> 
+<meta property="og:image" content="http://d2ft4b0ve1aur1.cloudfront.net/images-352/Basketball-Ref.png">
+
+<div></div><!-- to prevent hangs on some browsers -->
+<meta itemprop="image" content="http://d2ft4b0ve1aur1.cloudfront.net/images-352/Basketball-Ref.png">
+  
+  <link rel="icon"          type="image/vnd.microsoft.icon" href="http://d2ft4b0ve1aur1.cloudfront.net/images-352/favicon-bbr.ico">
+  <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://d2ft4b0ve1aur1.cloudfront.net/images-352/favicon-bbr.ico">
+<link rel="search"        type="application/opensearchdescription+xml" href="http://d2ft4b0ve1aur1.cloudfront.net/os-352/opensearch-bbr.xml" title="BkRef Search">
+<!--[if lte IE 6]>
+<style type="text/css">
+.hovermenu,.hovermenu_ajax,.sub_index,#quick_index {display:none!important}
+</style>
+<![endif]-->
+<!--  ASYNCHRONOUS:googletag -->
+<script type='text/javascript'>
+   var googletag = googletag || {};
+   googletag.cmd = googletag.cmd || [];
+   (function() {
+      var gads = document.createElement('script');
+      gads.async = true;
+      gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+   })();
+</script>
+
+</head>
+
+<body>
+
+<div id="page_container">
+<div id="top_nav">
+<div id="site_header">
+
+    <div id="sr_header">
+
+        <div class="float_right logged_in margin_left width100">
+            <span id="welcome" class="like_a"></span> |
+            <span class="acct_external"><a href="/my/auth.cgi?do=edit">Account</a></span> |
+            <span><a href="/my/auth.cgi?do=logout" onclick="return sr_logout()">Logout</a></span>
+        </div>
+
+        <div class="float_right logged_out width100">
+            <span id="login_placeholder" style="display:none;"><a href="/my/auth.cgi" onclick="return sr_login_popup();">Login</a><span id="loginform_container"></span></span>
+        </div>
+
+        <div class="float_right">
+            <a href="http://www.sports-reference.com">S-R</a>:
+            <a href="http://www.baseball-reference.com">MLB</a> |
+            <span class="bold_text">NBA</span> &#183;
+            <a href="http://www.sports-reference.com/cbb/">CBB</a> |
+            <a href="http://www.pro-football-reference.com">NFL</a> &#183;
+            <a href="http://www.sports-reference.com/cfb/">CFB</a> |
+            <a href="http://www.hockey-reference.com/">NHL</a> |
+            <a href="http://www.sports-reference.com/olympics/">Oly</a> |
+            <a href="http://www.sports-reference.com/blog/">Blog</a> &#183;
+            <a href="http://www.sports-reference.com/feedback/">Q?</a>
+        </div>
+
+        <div class="clear_both clearfix float_right margin_left padding_top_half">
+            <a class="sprite-twitter" title="Follow us on Twitter" href="http://twitter.com/bball_ref"></a>&nbsp;<a class="sprite-facebook" title="Become a Fan on Facebook" href="http://www.facebook.com/Basketball.Reference"></a>
+        </div>
+  
+        <div class="float_right">
+            <form method="get" id="f" name="f" action="/player_search.cgi">
+                <input type="hidden" name="pid" value="" data-search-id>
+                <input x-webkit-speech type="search" placeholder="" id="search" name="search" class="search long typeahead"> 
+                <input type="submit" value="Search" class="submit">
+            </form>
+        </div>
+
+    </div>
+ 
+    <div class="float_left padding_bottom_half">
+        <a href="/"><img src="http://d2ft4b0ve1aur1.cloudfront.net/images-325/Basketball-Ref.png" width="464" height="73" class="border0" alt="NBA & ABA Basketball Statistics & History | Basketball-Reference.com"></a>
+    </div>
+
+</div>
+
+<div id="quick_index">
+<ul class="hovermenu_ajax navbar">
+<li class=""><a href="/play-index/">play index</a><ul class="li_margin" id="header_playindex"></ul></li>
+ <li class=""><a href="/boxscores/">box scores</a><ul id="header_boxscores"></ul></li>
+ <li class=""><a href="/players/">players</a><ul class="li_margin" id="header_players"></ul></li>
+ <li class=""><a href="/teams/">teams</a><ul id="header_teams"></ul></li>
+ <li class="active"><a href="/leagues/">seasons</a><ul class="li_margin" id="header_leagues"></ul></li>
+ <li class=""><a href="/coaches/">coaches</a><ul class="li_margin" id="header_coaches"></ul></li>
+ <li class=""><a href="/leaders/">leaders</a><ul class="li_margin" id="header_leaders"></ul></li>
+ <li class=""><a href="/awards/">awards</a><ul class="li_margin" id="header_awards"></ul></li>
+ <li class=""><a href="/playoffs/">playoffs</a><ul class="li_margin" id="header_playoffs"></ul></li>
+ <li class=""><a href="/draft/">draft</a><ul class="li_margin" id="header_draft"></ul></li>
+ <li class=""><a href="/olympics/">olympics</a><ul class="li_margin" id="header_olympics"></ul></li>
+ <li class=""><a href="#">more [+]</a><ul class="li_margin" id="header_more_links"></ul>
+</li>
+
+</ul>
+</div>
+<div id="you_are_here">
+<p class="padding_left0"><a class="mobile_link margin0" href="http://m.bkref.com/m?p=XXleaguesXXNBA_2014.html">Mobile Site</a> <span class="bold_text">You Are Here</span>&nbsp;&gt;&nbsp;<a href="/">BBR</a>&nbsp;&gt;&nbsp;<a href="/leagues/">Leagues</a>&nbsp;&gt;&nbsp;<a href="/leagues/NBA_2014.html">2013-14 NBA</a>&nbsp;&gt;&nbsp;<span class="bold_text">Season Summary</span></p>
+</div>
+<div class="site_news"><p><span class="bold_text">News:</span> <span class="poptip" tip="Though we've been quietly updating these data sets for several weeks, consider this our formal announcement of 2014 play-by-play and shooting data. You can find this data in several places on our site. For example, our boxscores now include links for play logs, shot charts, and plus minus summaries. You can find these links on [&#8230;]">s-r blog:<a onClick="try { pageTracker._trackEvent('blog','click','area-yah'); } catch (err) {};"
+ href="http://www.sports-reference.com/blog/2014/02/nba-play-by-play-and-shooting-data-for-2014/">NBA Play-by-Play and Shooting Data for 2014</a> <span class="small_text"></span></span></p></div>
+
+</div>
+
+<div id="info_box">
+<!-- div.#restofsite_300x250_atf1.advert300x250 -->
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/5702/yb_Sports_Reference', [[300,250]], 'restofsite_300x250_atf1').addService(googletag.pubads());
+
+googletag.enableServices();
+});
+</script>
+<div id="restofsite_300x250_atf1" class="advert300x250">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('restofsite_300x250_atf1'); });
+</script>
+</div>
+<!-- /div.#restofsite_300x250_atf1.advert300x250 -->
+
+<h1>2013-14 NBA Season Summary</h1>
+<p><a href="/leagues/NBA_2013.html">Previous Season</a></p>
+<div class="clearfix freeze_bar margin_bottom margin_left sub_index">
+<ul class="hovermenu large_text menu">
+<li><span class="like_a">NBA&nbsp;Seasons<span class="arrowsprite_bottom"></span></span>
+<ul>
+<li class="small_text narrow active"><a href="/leagues/NBA_2014.html">2013-14</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2013.html">2012-13</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2012.html">2011-12</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2011.html">2010-11</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2010.html">2009-10</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2009.html">2008-09</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2008.html">2007-08</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2007.html">2006-07</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2006.html">2005-06</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2005.html">2004-05</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2004.html">2003-04</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2003.html">2002-03</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2002.html">2001-02</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2001.html">2000-01</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_2000.html">1999-00</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1999.html">1998-99</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1998.html">1997-98</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1997.html">1996-97</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1996.html">1995-96</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1995.html">1994-95</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1994.html">1993-94</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1993.html">1992-93</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1992.html">1991-92</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1991.html">1990-91</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1990.html">1989-90</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1989.html">1988-89</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1988.html">1987-88</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1987.html">1986-87</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1986.html">1985-86</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1985.html">1984-85</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1984.html">1983-84</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1983.html">1982-83</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1982.html">1981-82</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1981.html">1980-81</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1980.html">1979-80</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1979.html">1978-79</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1978.html">1977-78</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1977.html">1976-77</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1976.html">1975-76</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1975.html">1974-75</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1974.html">1973-74</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1973.html">1972-73</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1972.html">1971-72</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1971.html">1970-71</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1970.html">1969-70</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1969.html">1968-69</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1968.html">1967-68</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1967.html">1966-67</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1966.html">1965-66</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1965.html">1964-65</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1964.html">1963-64</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1963.html">1962-63</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1962.html">1961-62</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1961.html">1960-61</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1960.html">1959-60</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1959.html">1958-59</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1958.html">1957-58</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1957.html">1956-57</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1956.html">1955-56</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1955.html">1954-55</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1954.html">1953-54</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1953.html">1952-53</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1952.html">1951-52</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1951.html">1950-51</a></li>
+<li class="small_text narrow"><a href="/leagues/NBA_1950.html">1949-50</a></li>
+<li class="small_text narrow"><a href="/leagues/BAA_1949.html">1948-49</a></li>
+<li class="small_text narrow"><a href="/leagues/BAA_1948.html">1947-48</a></li>
+<li class="small_text narrow"><a href="/leagues/BAA_1947.html">1946-47</a></li>
+</ul>
+</li>
+<li class="active"><a href="/leagues/NBA_2014.html">Summary<span class="arrowsprite_bottom"></span></a>
+<ul>
+<li><a href="#all_standings">Standings</a></li>
+<li><a href="#all_team_stats">Team Stats</a></li>
+<li><a href="#all_opp_stats">Opponent Stats</a></li>
+<li><a href="#all_misc_stats">Miscellaneous Stats</a></li>
+<li><a href="#all_leaders">Leaders</a></li>
+</ul>
+</li>
+<li><a href="/leagues/NBA_2014_standings.html">Standings</a></li><li><a href="/leagues/NBA_2014_games.html">Schedule &amp; Results</a></li><li><a href="/leagues/NBA_2014_leaders.html">Leaders</a></li><li><span class="like_a">Stats<span class="arrowsprite_bottom"></span></span>
+<ul>
+<li><a href="/leagues/NBA_2014_totals.html">Totals</a></li>
+<li><a href="/leagues/NBA_2014_per_game.html">Per Game</a></li>
+<li><a href="/leagues/NBA_2014_per_minute.html">Per 36 Minutes</a></li>
+<li><a href="/leagues/NBA_2014_advanced.html">Advanced</a></li>
+</ul>
+</li>
+<li><span class="like_a">Other<span class="arrowsprite_bottom"></span></span>
+<ul>
+<li><a href="/leagues/NBA_2014_debut.html">Debuts</a></li><li><a href="/leagues/NBA_2014_ratings.html">Team Ratings</a></li><li><a href="/leagues/NBA_2014_numbers.html">Uniform Numbers</a></li><li><a href="/leagues/NBA_2014_transactions.html">Transactions</a></li></ul>
+</li>
+</ul>
+</div>
+<p><span class="bold_text">PPG Leader:</span> <a href="/players/d/duranke01.html">Kevin Durant</a> (31.2)<br><span class="bold_text">RPG Leader:</span> <a href="/players/j/jordade01.html">DeAndre Jordan</a> (14.1)<br><span class="bold_text">APG Leader:</span> <a href="/players/p/paulch01.html">Chris Paul</a> (11.1)<br><span class="bold_text">WS Leader:</span> <a href="/players/d/duranke01.html">Kevin Durant</a> (13.5)<br></div>
+<!-- div.#restofsite_728x90_atf1.advert728x90 -->
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/5702/yb_Sports_Reference', [728,90], 'restofsite_728x90_atf1').addService(googletag.pubads());
+
+googletag.enableServices();
+});
+</script>
+<div id="restofsite_728x90_atf1" class="advert728x90">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('restofsite_728x90_atf1'); });
+</script>
+</div>
+<!-- /div.#restofsite_728x90_atf1.advert728x90 -->
+
+<div id="page_content">
+<div id="all_standings">
+<div id="" class="table_heading">
+<h2 style="">League Standings</h2>
+<div class="table_heading_text">Playoff teams are marked with an asterisk (*)&nbsp;&#9642;&nbsp;Click conference name for conference standings</div>
+</div>
+
+<table>
+<tr class="valign_top">
+<td>
+<div class="stw" id="all_standings_E">
+<div class="table_container p402_hide " id="div_E_standings">
+<table data-freeze="1" data-mobile-leave-headers="1" class="sortable  no_highlight stats_table wide_table" id="E_standings">
+<colgroup><col><col><col><col><col><col><col><col></colgroup>
+<thead>
+<tr class="">
+  <th data-stat="team_name" align="left"  class="tooltip sort_default_asc" >Eastern Conference</th>
+  <th data-stat="wins" align="right"  class="tooltip"  tip="Wins">W</th>
+  <th data-stat="losses" align="right"  class="tooltip"  tip="Losses">L</th>
+  <th data-stat="win_loss_pct" align="right"  class="tooltip"  tip="Win-Loss Percentage">W-L%</th>
+  <th data-stat="gb" align="right"  class="tooltip sort_default_asc"  tip="Games Behind">GB</th>
+  <th data-stat="pts_per_g" align="right"  class="tooltip"  tip="Points scored per game">PS/G</th>
+  <th data-stat="opp_pts_per_g" align="right"  class="tooltip"  tip="Points allowed per game">PA/G</th>
+  <th data-stat="srs" align="right"  class="tooltip"  tip="Simple Rating System; a team rating that takes into account average point differential and strength of schedule. The rating is denominated in points above/below average, where zero is average.">SRS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="partial_table bold_text">
+<td class="black_text">Atlantic Division</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="3.1"><a href="/teams/TOR/2014.html">Toronto Raptors</a>&nbsp;<span class="light_text">(3)</span></td>
+   <td align="right" >27</td>
+   <td align="right" >24</td>
+   <td align="right" >.529</td>
+   <td align="right" >&mdash;</td>
+   <td align="right" >99.6</td>
+   <td align="right" >97.1</td>
+   <td align="right" >2.19</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="7.2"><a href="/teams/BRK/2014.html">Brooklyn Nets</a>&nbsp;<span class="light_text">(7)</span></td>
+   <td align="right" >23</td>
+   <td align="right" >26</td>
+   <td align="right" >.469</td>
+   <td align="right" >3.0</td>
+   <td align="right" >97.5</td>
+   <td align="right" >99.9</td>
+   <td align="right" >-2.36</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="10.3"><a href="/teams/NYK/2014.html">New York Knicks</a>&nbsp;<span class="light_text">(10)</span></td>
+   <td align="right" >20</td>
+   <td align="right" >31</td>
+   <td align="right" >.392</td>
+   <td align="right" >7.0</td>
+   <td align="right" >97.2</td>
+   <td align="right" >99.0</td>
+   <td align="right" >-2.09</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="12.4"><a href="/teams/BOS/2014.html">Boston Celtics</a>&nbsp;<span class="light_text">(12)</span></td>
+   <td align="right" >19</td>
+   <td align="right" >34</td>
+   <td align="right" >.358</td>
+   <td align="right" >9.0</td>
+   <td align="right" >95.1</td>
+   <td align="right" >98.5</td>
+   <td align="right" >-3.97</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="14.5"><a href="/teams/PHI/2014.html">Philadelphia 76ers</a>&nbsp;<span class="light_text">(14)</span></td>
+   <td align="right" >15</td>
+   <td align="right" >38</td>
+   <td align="right" >.283</td>
+   <td align="right" >13.0</td>
+   <td align="right" >100.3</td>
+   <td align="right" >110.5</td>
+   <td align="right" >-10.41</td>
+</tr>
+<tr class="partial_table bold_text">
+<td class="black_text">Central Division</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="1.1"><a href="/teams/IND/2014.html">Indiana Pacers</a>&nbsp;<span class="light_text">(1)</span></td>
+   <td align="right" >40</td>
+   <td align="right" >11</td>
+   <td align="right" >.784</td>
+   <td align="right" >&mdash;</td>
+   <td align="right" >99.0</td>
+   <td align="right" >90.5</td>
+   <td align="right" >7.84</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="4.2"><a href="/teams/CHI/2014.html">Chicago Bulls</a>&nbsp;<span class="light_text">(4)</span></td>
+   <td align="right" >26</td>
+   <td align="right" >25</td>
+   <td align="right" >.510</td>
+   <td align="right" >14.0</td>
+   <td align="right" >92.3</td>
+   <td align="right" >92.7</td>
+   <td align="right" >-1.36</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="9.3"><a href="/teams/DET/2014.html">Detroit Pistons</a>&nbsp;<span class="light_text">(9)</span></td>
+   <td align="right" >22</td>
+   <td align="right" >29</td>
+   <td align="right" >.431</td>
+   <td align="right" >18.0</td>
+   <td align="right" >100.8</td>
+   <td align="right" >102.8</td>
+   <td align="right" >-2.87</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="11.4"><a href="/teams/CLE/2014.html">Cleveland Cavaliers</a>&nbsp;<span class="light_text">(11)</span></td>
+   <td align="right" >19</td>
+   <td align="right" >33</td>
+   <td align="right" >.365</td>
+   <td align="right" >21.5</td>
+   <td align="right" >96.8</td>
+   <td align="right" >102.3</td>
+   <td align="right" >-6.36</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="15.5"><a href="/teams/MIL/2014.html">Milwaukee Bucks</a>&nbsp;<span class="light_text">(15)</span></td>
+   <td align="right" >9</td>
+   <td align="right" >42</td>
+   <td align="right" >.176</td>
+   <td align="right" >31.0</td>
+   <td align="right" >92.2</td>
+   <td align="right" >101.8</td>
+   <td align="right" >-10.05</td>
+</tr>
+<tr class="partial_table bold_text">
+<td class="black_text">Southeast Division</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="2.1"><a href="/teams/MIA/2014.html">Miami Heat</a>&nbsp;<span class="light_text">(2)</span></td>
+   <td align="right" >36</td>
+   <td align="right" >14</td>
+   <td align="right" >.720</td>
+   <td align="right" >&mdash;</td>
+   <td align="right" >104.0</td>
+   <td align="right" >98.8</td>
+   <td align="right" >4.24</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="5.2"><a href="/teams/ATL/2014.html">Atlanta Hawks</a>&nbsp;<span class="light_text">(5)</span></td>
+   <td align="right" >25</td>
+   <td align="right" >25</td>
+   <td align="right" >.500</td>
+   <td align="right" >11.0</td>
+   <td align="right" >101.8</td>
+   <td align="right" >100.8</td>
+   <td align="right" >0.41</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="6.3"><a href="/teams/WAS/2014.html">Washington Wizards</a>&nbsp;<span class="light_text">(6)</span></td>
+   <td align="right" >25</td>
+   <td align="right" >26</td>
+   <td align="right" >.490</td>
+   <td align="right" >11.5</td>
+   <td align="right" >99.1</td>
+   <td align="right" >99.2</td>
+   <td align="right" >-0.46</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="8.4"><a href="/teams/CHA/2014.html">Charlotte Bobcats</a>&nbsp;<span class="light_text">(8)</span></td>
+   <td align="right" >23</td>
+   <td align="right" >29</td>
+   <td align="right" >.442</td>
+   <td align="right" >14.0</td>
+   <td align="right" >94.8</td>
+   <td align="right" >96.9</td>
+   <td align="right" >-2.63</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="13.5"><a href="/teams/ORL/2014.html">Orlando Magic</a>&nbsp;<span class="light_text">(13)</span></td>
+   <td align="right" >16</td>
+   <td align="right" >37</td>
+   <td align="right" >.302</td>
+   <td align="right" >21.5</td>
+   <td align="right" >96.3</td>
+   <td align="right" >101.6</td>
+   <td align="right" >-5.52</td>
+</tr>
+</tbody>
+</table>
+</div><!-- div.table_container.p402_hide#div_xxxx -->
+</div>
+</td>
+<td>
+<div class="stw" id="all_standings_W">
+<div class="table_container p402_hide " id="div_W_standings">
+<table data-freeze="1" data-mobile-leave-headers="1" class="sortable  no_highlight stats_table wide_table" id="W_standings">
+<colgroup><col><col><col><col><col><col><col><col></colgroup>
+<thead>
+<tr class="">
+  <th data-stat="team_name" align="left"  class="tooltip sort_default_asc" >Western Conference</th>
+  <th data-stat="wins" align="right"  class="tooltip"  tip="Wins">W</th>
+  <th data-stat="losses" align="right"  class="tooltip"  tip="Losses">L</th>
+  <th data-stat="win_loss_pct" align="right"  class="tooltip"  tip="Win-Loss Percentage">W-L%</th>
+  <th data-stat="gb" align="right"  class="tooltip sort_default_asc"  tip="Games Behind">GB</th>
+  <th data-stat="pts_per_g" align="right"  class="tooltip"  tip="Points scored per game">PS/G</th>
+  <th data-stat="opp_pts_per_g" align="right"  class="tooltip"  tip="Points allowed per game">PA/G</th>
+  <th data-stat="srs" align="right"  class="tooltip"  tip="Simple Rating System; a team rating that takes into account average point differential and strength of schedule. The rating is denominated in points above/below average, where zero is average.">SRS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="partial_table bold_text">
+<td class="black_text">Northwest Division</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="1.1"><a href="/teams/OKC/2014.html">Oklahoma City Thunder</a>&nbsp;<span class="light_text">(1)</span></td>
+   <td align="right" >42</td>
+   <td align="right" >12</td>
+   <td align="right" >.778</td>
+   <td align="right" >&mdash;</td>
+   <td align="right" >104.9</td>
+   <td align="right" >97.5</td>
+   <td align="right" >7.92</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="3.2"><a href="/teams/POR/2014.html">Portland Trail Blazers</a>&nbsp;<span class="light_text">(3)</span></td>
+   <td align="right" >36</td>
+   <td align="right" >16</td>
+   <td align="right" >.692</td>
+   <td align="right" >5.0</td>
+   <td align="right" >107.7</td>
+   <td align="right" >103.4</td>
+   <td align="right" >4.90</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="10.3"><a href="/teams/DEN/2014.html">Denver Nuggets</a>&nbsp;<span class="light_text">(10)</span></td>
+   <td align="right" >24</td>
+   <td align="right" >26</td>
+   <td align="right" >.480</td>
+   <td align="right" >16.0</td>
+   <td align="right" >103.3</td>
+   <td align="right" >104.2</td>
+   <td align="right" >-0.62</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="11.4"><a href="/teams/MIN/2014.html">Minnesota Timberwolves</a>&nbsp;<span class="light_text">(11)</span></td>
+   <td align="right" >24</td>
+   <td align="right" >28</td>
+   <td align="right" >.462</td>
+   <td align="right" >17.0</td>
+   <td align="right" >105.3</td>
+   <td align="right" >102.0</td>
+   <td align="right" >3.78</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="13.5"><a href="/teams/UTA/2014.html">Utah Jazz</a>&nbsp;<span class="light_text">(13)</span></td>
+   <td align="right" >18</td>
+   <td align="right" >33</td>
+   <td align="right" >.353</td>
+   <td align="right" >22.5</td>
+   <td align="right" >94.1</td>
+   <td align="right" >100.3</td>
+   <td align="right" >-4.74</td>
+</tr>
+<tr class="partial_table bold_text">
+<td class="black_text">Pacific Division</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="4.1"><a href="/teams/LAC/2014.html">Los Angeles Clippers</a>&nbsp;<span class="light_text">(4)</span></td>
+   <td align="right" >36</td>
+   <td align="right" >18</td>
+   <td align="right" >.667</td>
+   <td align="right" >&mdash;</td>
+   <td align="right" >106.7</td>
+   <td align="right" >100.3</td>
+   <td align="right" >6.49</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="6.2"><a href="/teams/GSW/2014.html">Golden State Warriors</a>&nbsp;<span class="light_text">(6)</span></td>
+   <td align="right" >31</td>
+   <td align="right" >21</td>
+   <td align="right" >.596</td>
+   <td align="right" >4.0</td>
+   <td align="right" >103.4</td>
+   <td align="right" >98.7</td>
+   <td align="right" >5.07</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="7.3"><a href="/teams/PHO/2014.html">Phoenix Suns</a>&nbsp;<span class="light_text">(7)</span></td>
+   <td align="right" >30</td>
+   <td align="right" >21</td>
+   <td align="right" >.588</td>
+   <td align="right" >4.5</td>
+   <td align="right" >104.9</td>
+   <td align="right" >101.8</td>
+   <td align="right" >3.06</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="14.4"><a href="/teams/LAL/2014.html">Los Angeles Lakers</a>&nbsp;<span class="light_text">(14)</span></td>
+   <td align="right" >18</td>
+   <td align="right" >34</td>
+   <td align="right" >.346</td>
+   <td align="right" >17.0</td>
+   <td align="right" >100.4</td>
+   <td align="right" >105.6</td>
+   <td align="right" >-4.94</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="15.5"><a href="/teams/SAC/2014.html">Sacramento Kings</a>&nbsp;<span class="light_text">(15)</span></td>
+   <td align="right" >17</td>
+   <td align="right" >35</td>
+   <td align="right" >.327</td>
+   <td align="right" >18.0</td>
+   <td align="right" >101.2</td>
+   <td align="right" >103.6</td>
+   <td align="right" >-1.33</td>
+</tr>
+<tr class="partial_table bold_text">
+<td class="black_text">Southwest Division</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="2.1"><a href="/teams/SAS/2014.html">San Antonio Spurs</a>&nbsp;<span class="light_text">(2)</span></td>
+   <td align="right" >37</td>
+   <td align="right" >15</td>
+   <td align="right" >.712</td>
+   <td align="right" >&mdash;</td>
+   <td align="right" >103.8</td>
+   <td align="right" >97.6</td>
+   <td align="right" >6.62</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="5.2"><a href="/teams/HOU/2014.html">Houston Rockets</a>&nbsp;<span class="light_text">(5)</span></td>
+   <td align="right" >35</td>
+   <td align="right" >17</td>
+   <td align="right" >.673</td>
+   <td align="right" >2.0</td>
+   <td align="right" >105.3</td>
+   <td align="right" >101.2</td>
+   <td align="right" >4.55</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="8.3"><a href="/teams/DAL/2014.html">Dallas Mavericks</a>&nbsp;<span class="light_text">(8)</span></td>
+   <td align="right" >31</td>
+   <td align="right" >22</td>
+   <td align="right" >.585</td>
+   <td align="right" >6.5</td>
+   <td align="right" >104.3</td>
+   <td align="right" >102.3</td>
+   <td align="right" >2.08</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="9.4"><a href="/teams/MEM/2014.html">Memphis Grizzlies</a>&nbsp;<span class="light_text">(9)</span></td>
+   <td align="right" >28</td>
+   <td align="right" >23</td>
+   <td align="right" >.549</td>
+   <td align="right" >8.5</td>
+   <td align="right" >94.9</td>
+   <td align="right" >94.7</td>
+   <td align="right" >1.17</td>
+</tr>
+<tr  class="full_table">
+   <td align="left"  csk="12.5"><a href="/teams/NOP/2014.html">New Orleans Pelicans</a>&nbsp;<span class="light_text">(12)</span></td>
+   <td align="right" >22</td>
+   <td align="right" >29</td>
+   <td align="right" >.431</td>
+   <td align="right" >14.5</td>
+   <td align="right" >99.6</td>
+   <td align="right" >101.3</td>
+   <td align="right" >-1.09</td>
+</tr>
+</tbody>
+</table>
+</div><!-- div.table_container.p402_hide#div_xxxx -->
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="stw" id="all_playoffs">
+</table>
+</div>
+<div class="stw" id="all_team_stats">
+<div id="" class="table_heading">
+<h2 style="">Team Stats</h2>
+<div class="table_heading_text">Playoff teams are marked with an asterisk (*)</div>
+</div>
+
+<div class="table_container p402_hide " id="div_team">
+<table class="sortable  stats_table" id="team">
+<colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup>
+<thead>
+<tr class="">
+  <th data-stat="ranker" align="right"  class="ranker sort_default_asc show_partial_when_sorting"  tip="Rank">Rk</th>
+  <th data-stat="team_name" align="left"  class="tooltip sort_default_asc" >Team</th>
+  <th data-stat="g" align="right"  class="tooltip"  tip="Games">G</th>
+  <th data-stat="mp" align="right"  class="tooltip"  tip="Minutes Played">MP</th>
+  <th data-stat="fg" align="right"  class="tooltip"  tip="Field Goals">FG</th>
+  <th data-stat="fga" align="right"  class="tooltip"  tip="Field Goal Attempts">FGA</th>
+  <th data-stat="fg_pct" align="right"  class="tooltip"  tip="Field Goal Percentage">FG%</th>
+  <th data-stat="fg3" align="right"  class="tooltip"  tip="3-Point Field Goals">3P</th>
+  <th data-stat="fg3a" align="right"  class="tooltip"  tip="3-Point Field Goal Attempts">3PA</th>
+  <th data-stat="fg3_pct" align="right"  class="tooltip"  tip="3-Point Field Goal Percentage">3P%</th>
+  <th data-stat="fg2" align="right"  class="tooltip"  tip="2-Point Field Goals">2P</th>
+  <th data-stat="fg2a" align="right"  class="tooltip"  tip="2-point Field Goal Attempts">2PA</th>
+  <th data-stat="fg2_pct" align="right"  class="tooltip"  tip="2-Point Field Goal Percentage">2P%</th>
+  <th data-stat="ft" align="right"  class="tooltip"  tip="Free Throws">FT</th>
+  <th data-stat="fta" align="right"  class="tooltip"  tip="Free Throw Attempts">FTA</th>
+  <th data-stat="ft_pct" align="right"  class="tooltip"  tip="Free Throw Percentage">FT%</th>
+  <th data-stat="orb" align="right"  class="tooltip"  tip="Offensive Rebounds">ORB</th>
+  <th data-stat="drb" align="right"  class="tooltip"  tip="Defensive Rebounds">DRB</th>
+  <th data-stat="trb" align="right"  class="tooltip"  tip="Total Rebounds">TRB</th>
+  <th data-stat="ast" align="right"  class="tooltip"  tip="Assists">AST</th>
+  <th data-stat="stl" align="right"  class="tooltip"  tip="Steals">STL</th>
+  <th data-stat="blk" align="right"  class="tooltip"  tip="Blocks">BLK</th>
+  <th data-stat="tov" align="right"  class="tooltip"  tip="Turnovers">TOV</th>
+  <th data-stat="pf" align="right"  class="tooltip"  tip="Personal Fouls">PF</th>
+  <th data-stat="pts" align="right"  class="tooltip"  tip="Points">PTS</th>
+  <th data-stat="pts_per_g" align="right"  class="tooltip"  tip="Points Per Game">PTS/G</th>
+</tr>
+</thead>
+<tbody>
+<tr  class="">
+   <td align="right"  csk="1">1</td>
+   <td align="left" ><a href="/teams/POR/2014.html">Portland Trail Blazers</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12580</td>
+   <td align="right" >2062</td>
+   <td align="right" >4577</td>
+   <td align="right" >.451</td>
+   <td align="right" >485</td>
+   <td align="right" >1277</td>
+   <td align="right" >.380</td>
+   <td align="right" >1577</td>
+   <td align="right" >3300</td>
+   <td align="right" >.478</td>
+   <td align="right" >992</td>
+   <td align="right" >1210</td>
+   <td align="right" >.820</td>
+   <td align="right" >666</td>
+   <td align="right" >1746</td>
+   <td align="right" >2412</td>
+   <td align="right" >1243</td>
+   <td align="right" >294</td>
+   <td align="right" >245</td>
+   <td align="right" >714</td>
+   <td align="right" >992</td>
+   <td align="right" >5601</td>
+   <td align="right" >107.7</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="2">2</td>
+   <td align="left" ><a href="/teams/LAC/2014.html">Los Angeles Clippers</a></td>
+   <td align="right" >54</td>
+   <td align="right" >13035</td>
+   <td align="right" >2080</td>
+   <td align="right" >4414</td>
+   <td align="right" >.471</td>
+   <td align="right" >441</td>
+   <td align="right" >1282</td>
+   <td align="right" >.344</td>
+   <td align="right" >1639</td>
+   <td align="right" >3132</td>
+   <td align="right" >.523</td>
+   <td align="right" >1162</td>
+   <td align="right" >1596</td>
+   <td align="right" >.728</td>
+   <td align="right" >564</td>
+   <td align="right" >1767</td>
+   <td align="right" >2331</td>
+   <td align="right" >1301</td>
+   <td align="right" >447</td>
+   <td align="right" >247</td>
+   <td align="right" >760</td>
+   <td align="right" >1166</td>
+   <td align="right" >5763</td>
+   <td align="right" >106.7</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="3">3</td>
+   <td align="left" ><a href="/teams/MIN/2014.html">Minnesota Timberwolves</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12530</td>
+   <td align="right" >1989</td>
+   <td align="right" >4577</td>
+   <td align="right" >.435</td>
+   <td align="right" >388</td>
+   <td align="right" >1139</td>
+   <td align="right" >.341</td>
+   <td align="right" >1601</td>
+   <td align="right" >3438</td>
+   <td align="right" >.466</td>
+   <td align="right" >1108</td>
+   <td align="right" >1409</td>
+   <td align="right" >.786</td>
+   <td align="right" >676</td>
+   <td align="right" >1708</td>
+   <td align="right" >2384</td>
+   <td align="right" >1202</td>
+   <td align="right" >454</td>
+   <td align="right" >187</td>
+   <td align="right" >722</td>
+   <td align="right" >931</td>
+   <td align="right" >5474</td>
+   <td align="right" >105.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="4">4</td>
+   <td align="left" ><a href="/teams/HOU/2014.html">Houston Rockets</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12555</td>
+   <td align="right" >1947</td>
+   <td align="right" >4113</td>
+   <td align="right" >.473</td>
+   <td align="right" >469</td>
+   <td align="right" >1347</td>
+   <td align="right" >.348</td>
+   <td align="right" >1478</td>
+   <td align="right" >2766</td>
+   <td align="right" >.534</td>
+   <td align="right" >1115</td>
+   <td align="right" >1612</td>
+   <td align="right" >.692</td>
+   <td align="right" >566</td>
+   <td align="right" >1762</td>
+   <td align="right" >2328</td>
+   <td align="right" >1062</td>
+   <td align="right" >386</td>
+   <td align="right" >301</td>
+   <td align="right" >836</td>
+   <td align="right" >1047</td>
+   <td align="right" >5478</td>
+   <td align="right" >105.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="5">5</td>
+   <td align="left" ><a href="/teams/PHO/2014.html">Phoenix Suns</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12290</td>
+   <td align="right" >1970</td>
+   <td align="right" >4294</td>
+   <td align="right" >.459</td>
+   <td align="right" >479</td>
+   <td align="right" >1294</td>
+   <td align="right" >.370</td>
+   <td align="right" >1491</td>
+   <td align="right" >3000</td>
+   <td align="right" >.497</td>
+   <td align="right" >932</td>
+   <td align="right" >1220</td>
+   <td align="right" >.764</td>
+   <td align="right" >588</td>
+   <td align="right" >1621</td>
+   <td align="right" >2209</td>
+   <td align="right" >973</td>
+   <td align="right" >423</td>
+   <td align="right" >249</td>
+   <td align="right" >771</td>
+   <td align="right" >1118</td>
+   <td align="right" >5351</td>
+   <td align="right" >104.9</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="6">6</td>
+   <td align="left" ><a href="/teams/OKC/2014.html">Oklahoma City Thunder</a></td>
+   <td align="right" >54</td>
+   <td align="right" >13010</td>
+   <td align="right" >2113</td>
+   <td align="right" >4438</td>
+   <td align="right" >.476</td>
+   <td align="right" >397</td>
+   <td align="right" >1103</td>
+   <td align="right" >.360</td>
+   <td align="right" >1716</td>
+   <td align="right" >3335</td>
+   <td align="right" >.515</td>
+   <td align="right" >1044</td>
+   <td align="right" >1301</td>
+   <td align="right" >.802</td>
+   <td align="right" >597</td>
+   <td align="right" >1858</td>
+   <td align="right" >2455</td>
+   <td align="right" >1167</td>
+   <td align="right" >435</td>
+   <td align="right" >333</td>
+   <td align="right" >850</td>
+   <td align="right" >1169</td>
+   <td align="right" >5667</td>
+   <td align="right" >104.9</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="7">7</td>
+   <td align="left" ><a href="/teams/DAL/2014.html">Dallas Mavericks</a></td>
+   <td align="right" >53</td>
+   <td align="right" >12745</td>
+   <td align="right" >2092</td>
+   <td align="right" >4415</td>
+   <td align="right" >.474</td>
+   <td align="right" >444</td>
+   <td align="right" >1174</td>
+   <td align="right" >.378</td>
+   <td align="right" >1648</td>
+   <td align="right" >3241</td>
+   <td align="right" >.508</td>
+   <td align="right" >900</td>
+   <td align="right" >1125</td>
+   <td align="right" >.800</td>
+   <td align="right" >517</td>
+   <td align="right" >1602</td>
+   <td align="right" >2119</td>
+   <td align="right" >1238</td>
+   <td align="right" >468</td>
+   <td align="right" >217</td>
+   <td align="right" >711</td>
+   <td align="right" >1072</td>
+   <td align="right" >5528</td>
+   <td align="right" >104.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="8">8</td>
+   <td align="left" ><a href="/teams/MIA/2014.html">Miami Heat</a></td>
+   <td align="right" >50</td>
+   <td align="right" >12125</td>
+   <td align="right" >1944</td>
+   <td align="right" >3834</td>
+   <td align="right" >.507</td>
+   <td align="right" >403</td>
+   <td align="right" >1094</td>
+   <td align="right" >.368</td>
+   <td align="right" >1541</td>
+   <td align="right" >2740</td>
+   <td align="right" >.562</td>
+   <td align="right" >909</td>
+   <td align="right" >1198</td>
+   <td align="right" >.759</td>
+   <td align="right" >366</td>
+   <td align="right" >1472</td>
+   <td align="right" >1838</td>
+   <td align="right" >1168</td>
+   <td align="right" >456</td>
+   <td align="right" >216</td>
+   <td align="right" >757</td>
+   <td align="right" >1008</td>
+   <td align="right" >5200</td>
+   <td align="right" >104.0</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="9">9</td>
+   <td align="left" ><a href="/teams/SAS/2014.html">San Antonio Spurs</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12555</td>
+   <td align="right" >2092</td>
+   <td align="right" >4270</td>
+   <td align="right" >.490</td>
+   <td align="right" >416</td>
+   <td align="right" >1063</td>
+   <td align="right" >.391</td>
+   <td align="right" >1676</td>
+   <td align="right" >3207</td>
+   <td align="right" >.523</td>
+   <td align="right" >797</td>
+   <td align="right" >1031</td>
+   <td align="right" >.773</td>
+   <td align="right" >464</td>
+   <td align="right" >1737</td>
+   <td align="right" >2201</td>
+   <td align="right" >1286</td>
+   <td align="right" >384</td>
+   <td align="right" >263</td>
+   <td align="right" >769</td>
+   <td align="right" >933</td>
+   <td align="right" >5397</td>
+   <td align="right" >103.8</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="10">10</td>
+   <td align="left" ><a href="/teams/GSW/2014.html">Golden State Warriors</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12555</td>
+   <td align="right" >2026</td>
+   <td align="right" >4417</td>
+   <td align="right" >.459</td>
+   <td align="right" >485</td>
+   <td align="right" >1271</td>
+   <td align="right" >.382</td>
+   <td align="right" >1541</td>
+   <td align="right" >3146</td>
+   <td align="right" >.490</td>
+   <td align="right" >842</td>
+   <td align="right" >1138</td>
+   <td align="right" >.740</td>
+   <td align="right" >587</td>
+   <td align="right" >1806</td>
+   <td align="right" >2393</td>
+   <td align="right" >1183</td>
+   <td align="right" >403</td>
+   <td align="right" >269</td>
+   <td align="right" >842</td>
+   <td align="right" >1143</td>
+   <td align="right" >5379</td>
+   <td align="right" >103.4</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="11">11</td>
+   <td align="left" ><a href="/teams/DEN/2014.html">Denver Nuggets</a></td>
+   <td align="right" >50</td>
+   <td align="right" >12000</td>
+   <td align="right" >1903</td>
+   <td align="right" >4238</td>
+   <td align="right" >.449</td>
+   <td align="right" >416</td>
+   <td align="right" >1154</td>
+   <td align="right" >.360</td>
+   <td align="right" >1487</td>
+   <td align="right" >3084</td>
+   <td align="right" >.482</td>
+   <td align="right" >943</td>
+   <td align="right" >1297</td>
+   <td align="right" >.727</td>
+   <td align="right" >611</td>
+   <td align="right" >1654</td>
+   <td align="right" >2265</td>
+   <td align="right" >1106</td>
+   <td align="right" >355</td>
+   <td align="right" >283</td>
+   <td align="right" >771</td>
+   <td align="right" >1132</td>
+   <td align="right" >5165</td>
+   <td align="right" >103.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="12">12</td>
+   <td align="left" ><a href="/teams/ATL/2014.html">Atlanta Hawks</a></td>
+   <td align="right" >50</td>
+   <td align="right" >12125</td>
+   <td align="right" >1899</td>
+   <td align="right" >4125</td>
+   <td align="right" >.460</td>
+   <td align="right" >466</td>
+   <td align="right" >1246</td>
+   <td align="right" >.374</td>
+   <td align="right" >1433</td>
+   <td align="right" >2879</td>
+   <td align="right" >.498</td>
+   <td align="right" >825</td>
+   <td align="right" >1060</td>
+   <td align="right" >.778</td>
+   <td align="right" >453</td>
+   <td align="right" >1577</td>
+   <td align="right" >2030</td>
+   <td align="right" >1281</td>
+   <td align="right" >448</td>
+   <td align="right" >222</td>
+   <td align="right" >769</td>
+   <td align="right" >937</td>
+   <td align="right" >5089</td>
+   <td align="right" >101.8</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="13">13</td>
+   <td align="left" ><a href="/teams/SAC/2014.html">Sacramento Kings</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12580</td>
+   <td align="right" >1928</td>
+   <td align="right" >4323</td>
+   <td align="right" >.446</td>
+   <td align="right" >344</td>
+   <td align="right" >1008</td>
+   <td align="right" >.341</td>
+   <td align="right" >1584</td>
+   <td align="right" >3315</td>
+   <td align="right" >.478</td>
+   <td align="right" >1060</td>
+   <td align="right" >1368</td>
+   <td align="right" >.775</td>
+   <td align="right" >627</td>
+   <td align="right" >1648</td>
+   <td align="right" >2275</td>
+   <td align="right" >1016</td>
+   <td align="right" >380</td>
+   <td align="right" >210</td>
+   <td align="right" >774</td>
+   <td align="right" >1196</td>
+   <td align="right" >5260</td>
+   <td align="right" >101.2</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="14">14</td>
+   <td align="left" ><a href="/teams/DET/2014.html">Detroit Pistons</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12315</td>
+   <td align="right" >1975</td>
+   <td align="right" >4388</td>
+   <td align="right" >.450</td>
+   <td align="right" >308</td>
+   <td align="right" >987</td>
+   <td align="right" >.312</td>
+   <td align="right" >1667</td>
+   <td align="right" >3401</td>
+   <td align="right" >.490</td>
+   <td align="right" >883</td>
+   <td align="right" >1325</td>
+   <td align="right" >.666</td>
+   <td align="right" >748</td>
+   <td align="right" >1549</td>
+   <td align="right" >2297</td>
+   <td align="right" >1045</td>
+   <td align="right" >460</td>
+   <td align="right" >265</td>
+   <td align="right" >791</td>
+   <td align="right" >1037</td>
+   <td align="right" >5141</td>
+   <td align="right" >100.8</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="15">15</td>
+   <td align="left" ><a href="/teams/LAL/2014.html">Los Angeles Lakers</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12505</td>
+   <td align="right" >1930</td>
+   <td align="right" >4370</td>
+   <td align="right" >.442</td>
+   <td align="right" >475</td>
+   <td align="right" >1281</td>
+   <td align="right" >.371</td>
+   <td align="right" >1455</td>
+   <td align="right" >3089</td>
+   <td align="right" >.471</td>
+   <td align="right" >887</td>
+   <td align="right" >1170</td>
+   <td align="right" >.758</td>
+   <td align="right" >495</td>
+   <td align="right" >1708</td>
+   <td align="right" >2203</td>
+   <td align="right" >1200</td>
+   <td align="right" >344</td>
+   <td align="right" >289</td>
+   <td align="right" >784</td>
+   <td align="right" >1047</td>
+   <td align="right" >5222</td>
+   <td align="right" >100.4</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="16">16</td>
+   <td align="left" ><a href="/teams/PHI/2014.html">Philadelphia 76ers</a></td>
+   <td align="right" >53</td>
+   <td align="right" >12895</td>
+   <td align="right" >2037</td>
+   <td align="right" >4688</td>
+   <td align="right" >.435</td>
+   <td align="right" >362</td>
+   <td align="right" >1158</td>
+   <td align="right" >.313</td>
+   <td align="right" >1675</td>
+   <td align="right" >3530</td>
+   <td align="right" >.475</td>
+   <td align="right" >879</td>
+   <td align="right" >1230</td>
+   <td align="right" >.715</td>
+   <td align="right" >632</td>
+   <td align="right" >1732</td>
+   <td align="right" >2364</td>
+   <td align="right" >1178</td>
+   <td align="right" >482</td>
+   <td align="right" >216</td>
+   <td align="right" >926</td>
+   <td align="right" >1153</td>
+   <td align="right" >5315</td>
+   <td align="right" >100.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="17">17</td>
+   <td align="left" ><a href="/teams/TOR/2014.html">Toronto Raptors</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12365</td>
+   <td align="right" >1840</td>
+   <td align="right" >4202</td>
+   <td align="right" >.438</td>
+   <td align="right" >425</td>
+   <td align="right" >1166</td>
+   <td align="right" >.364</td>
+   <td align="right" >1415</td>
+   <td align="right" >3036</td>
+   <td align="right" >.466</td>
+   <td align="right" >973</td>
+   <td align="right" >1259</td>
+   <td align="right" >.773</td>
+   <td align="right" >615</td>
+   <td align="right" >1595</td>
+   <td align="right" >2210</td>
+   <td align="right" >1067</td>
+   <td align="right" >353</td>
+   <td align="right" >221</td>
+   <td align="right" >721</td>
+   <td align="right" >1160</td>
+   <td align="right" >5078</td>
+   <td align="right" >99.6</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="18">18</td>
+   <td align="left" ><a href="/teams/NOP/2014.html">New Orleans Pelicans</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12340</td>
+   <td align="right" >1942</td>
+   <td align="right" >4268</td>
+   <td align="right" >.455</td>
+   <td align="right" >304</td>
+   <td align="right" >795</td>
+   <td align="right" >.382</td>
+   <td align="right" >1638</td>
+   <td align="right" >3473</td>
+   <td align="right" >.472</td>
+   <td align="right" >890</td>
+   <td align="right" >1164</td>
+   <td align="right" >.765</td>
+   <td align="right" >625</td>
+   <td align="right" >1547</td>
+   <td align="right" >2172</td>
+   <td align="right" >1090</td>
+   <td align="right" >423</td>
+   <td align="right" >328</td>
+   <td align="right" >707</td>
+   <td align="right" >1157</td>
+   <td align="right" >5078</td>
+   <td align="right" >99.6</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="19">19</td>
+   <td align="left" ><a href="/teams/WAS/2014.html">Washington Wizards</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12465</td>
+   <td align="right" >1931</td>
+   <td align="right" >4297</td>
+   <td align="right" >.449</td>
+   <td align="right" >392</td>
+   <td align="right" >1043</td>
+   <td align="right" >.376</td>
+   <td align="right" >1539</td>
+   <td align="right" >3254</td>
+   <td align="right" >.473</td>
+   <td align="right" >799</td>
+   <td align="right" >1090</td>
+   <td align="right" >.733</td>
+   <td align="right" >548</td>
+   <td align="right" >1622</td>
+   <td align="right" >2170</td>
+   <td align="right" >1171</td>
+   <td align="right" >441</td>
+   <td align="right" >247</td>
+   <td align="right" >764</td>
+   <td align="right" >1042</td>
+   <td align="right" >5053</td>
+   <td align="right" >99.1</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="20">20</td>
+   <td align="left" ><a href="/teams/IND/2014.html">Indiana Pacers</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12315</td>
+   <td align="right" >1883</td>
+   <td align="right" >4130</td>
+   <td align="right" >.456</td>
+   <td align="right" >350</td>
+   <td align="right" >994</td>
+   <td align="right" >.352</td>
+   <td align="right" >1533</td>
+   <td align="right" >3136</td>
+   <td align="right" >.489</td>
+   <td align="right" >935</td>
+   <td align="right" >1198</td>
+   <td align="right" >.780</td>
+   <td align="right" >525</td>
+   <td align="right" >1800</td>
+   <td align="right" >2325</td>
+   <td align="right" >1048</td>
+   <td align="right" >361</td>
+   <td align="right" >292</td>
+   <td align="right" >779</td>
+   <td align="right" >1021</td>
+   <td align="right" >5051</td>
+   <td align="right" >99.0</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="21">21</td>
+   <td align="left" ><a href="/teams/BRK/2014.html">Brooklyn Nets</a></td>
+   <td align="right" >49</td>
+   <td align="right" >11885</td>
+   <td align="right" >1731</td>
+   <td align="right" >3844</td>
+   <td align="right" >.450</td>
+   <td align="right" >391</td>
+   <td align="right" >1068</td>
+   <td align="right" >.366</td>
+   <td align="right" >1340</td>
+   <td align="right" >2776</td>
+   <td align="right" >.483</td>
+   <td align="right" >925</td>
+   <td align="right" >1212</td>
+   <td align="right" >.763</td>
+   <td align="right" >458</td>
+   <td align="right" >1467</td>
+   <td align="right" >1925</td>
+   <td align="right" >1020</td>
+   <td align="right" >393</td>
+   <td align="right" >205</td>
+   <td align="right" >718</td>
+   <td align="right" >1094</td>
+   <td align="right" >4778</td>
+   <td align="right" >97.5</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="22">22</td>
+   <td align="left" ><a href="/teams/NYK/2014.html">New York Knicks</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12340</td>
+   <td align="right" >1874</td>
+   <td align="right" >4220</td>
+   <td align="right" >.444</td>
+   <td align="right" >455</td>
+   <td align="right" >1239</td>
+   <td align="right" >.367</td>
+   <td align="right" >1419</td>
+   <td align="right" >2981</td>
+   <td align="right" >.476</td>
+   <td align="right" >756</td>
+   <td align="right" >1010</td>
+   <td align="right" >.749</td>
+   <td align="right" >551</td>
+   <td align="right" >1521</td>
+   <td align="right" >2072</td>
+   <td align="right" >1038</td>
+   <td align="right" >400</td>
+   <td align="right" >234</td>
+   <td align="right" >662</td>
+   <td align="right" >1137</td>
+   <td align="right" >4959</td>
+   <td align="right" >97.2</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="23">23</td>
+   <td align="left" ><a href="/teams/CLE/2014.html">Cleveland Cavaliers</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12705</td>
+   <td align="right" >1894</td>
+   <td align="right" >4457</td>
+   <td align="right" >.425</td>
+   <td align="right" >374</td>
+   <td align="right" >1043</td>
+   <td align="right" >.359</td>
+   <td align="right" >1520</td>
+   <td align="right" >3414</td>
+   <td align="right" >.445</td>
+   <td align="right" >869</td>
+   <td align="right" >1173</td>
+   <td align="right" >.741</td>
+   <td align="right" >656</td>
+   <td align="right" >1635</td>
+   <td align="right" >2291</td>
+   <td align="right" >1048</td>
+   <td align="right" >382</td>
+   <td align="right" >206</td>
+   <td align="right" >756</td>
+   <td align="right" >1062</td>
+   <td align="right" >5031</td>
+   <td align="right" >96.8</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="24">24</td>
+   <td align="left" ><a href="/teams/ORL/2014.html">Orlando Magic</a></td>
+   <td align="right" >53</td>
+   <td align="right" >12895</td>
+   <td align="right" >1925</td>
+   <td align="right" >4359</td>
+   <td align="right" >.442</td>
+   <td align="right" >371</td>
+   <td align="right" >1063</td>
+   <td align="right" >.349</td>
+   <td align="right" >1554</td>
+   <td align="right" >3296</td>
+   <td align="right" >.471</td>
+   <td align="right" >881</td>
+   <td align="right" >1155</td>
+   <td align="right" >.763</td>
+   <td align="right" >490</td>
+   <td align="right" >1744</td>
+   <td align="right" >2234</td>
+   <td align="right" >1091</td>
+   <td align="right" >408</td>
+   <td align="right" >215</td>
+   <td align="right" >788</td>
+   <td align="right" >1043</td>
+   <td align="right" >5102</td>
+   <td align="right" >96.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="25">25</td>
+   <td align="left" ><a href="/teams/BOS/2014.html">Boston Celtics</a></td>
+   <td align="right" >53</td>
+   <td align="right" >12745</td>
+   <td align="right" >1925</td>
+   <td align="right" >4412</td>
+   <td align="right" >.436</td>
+   <td align="right" >344</td>
+   <td align="right" >1039</td>
+   <td align="right" >.331</td>
+   <td align="right" >1581</td>
+   <td align="right" >3373</td>
+   <td align="right" >.469</td>
+   <td align="right" >848</td>
+   <td align="right" >1105</td>
+   <td align="right" >.767</td>
+   <td align="right" >611</td>
+   <td align="right" >1678</td>
+   <td align="right" >2289</td>
+   <td align="right" >1075</td>
+   <td align="right" >380</td>
+   <td align="right" >251</td>
+   <td align="right" >823</td>
+   <td align="right" >1140</td>
+   <td align="right" >5042</td>
+   <td align="right" >95.1</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="26">26</td>
+   <td align="left" ><a href="/teams/MEM/2014.html">Memphis Grizzlies</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12340</td>
+   <td align="right" >1906</td>
+   <td align="right" >4191</td>
+   <td align="right" >.455</td>
+   <td align="right" >251</td>
+   <td align="right" >727</td>
+   <td align="right" >.345</td>
+   <td align="right" >1655</td>
+   <td align="right" >3464</td>
+   <td align="right" >.478</td>
+   <td align="right" >775</td>
+   <td align="right" >1031</td>
+   <td align="right" >.752</td>
+   <td align="right" >598</td>
+   <td align="right" >1577</td>
+   <td align="right" >2175</td>
+   <td align="right" >1095</td>
+   <td align="right" >388</td>
+   <td align="right" >233</td>
+   <td align="right" >694</td>
+   <td align="right" >996</td>
+   <td align="right" >4838</td>
+   <td align="right" >94.9</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="27">27</td>
+   <td align="left" ><a href="/teams/CHA/2014.html">Charlotte Bobcats</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12580</td>
+   <td align="right" >1849</td>
+   <td align="right" >4231</td>
+   <td align="right" >.437</td>
+   <td align="right" >295</td>
+   <td align="right" >837</td>
+   <td align="right" >.352</td>
+   <td align="right" >1554</td>
+   <td align="right" >3394</td>
+   <td align="right" >.458</td>
+   <td align="right" >938</td>
+   <td align="right" >1287</td>
+   <td align="right" >.729</td>
+   <td align="right" >469</td>
+   <td align="right" >1715</td>
+   <td align="right" >2184</td>
+   <td align="right" >1088</td>
+   <td align="right" >327</td>
+   <td align="right" >263</td>
+   <td align="right" >661</td>
+   <td align="right" >953</td>
+   <td align="right" >4931</td>
+   <td align="right" >94.8</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="28">28</td>
+   <td align="left" ><a href="/teams/UTA/2014.html">Utah Jazz</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12290</td>
+   <td align="right" >1818</td>
+   <td align="right" >4141</td>
+   <td align="right" >.439</td>
+   <td align="right" >343</td>
+   <td align="right" >972</td>
+   <td align="right" >.353</td>
+   <td align="right" >1475</td>
+   <td align="right" >3169</td>
+   <td align="right" >.465</td>
+   <td align="right" >821</td>
+   <td align="right" >1101</td>
+   <td align="right" >.746</td>
+   <td align="right" >562</td>
+   <td align="right" >1566</td>
+   <td align="right" >2128</td>
+   <td align="right" >1025</td>
+   <td align="right" >352</td>
+   <td align="right" >235</td>
+   <td align="right" >750</td>
+   <td align="right" >1068</td>
+   <td align="right" >4800</td>
+   <td align="right" >94.1</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="29">29</td>
+   <td align="left" ><a href="/teams/CHI/2014.html">Chicago Bulls</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12440</td>
+   <td align="right" >1748</td>
+   <td align="right" >4122</td>
+   <td align="right" >.424</td>
+   <td align="right" >301</td>
+   <td align="right" >897</td>
+   <td align="right" >.336</td>
+   <td align="right" >1447</td>
+   <td align="right" >3225</td>
+   <td align="right" >.449</td>
+   <td align="right" >909</td>
+   <td align="right" >1183</td>
+   <td align="right" >.768</td>
+   <td align="right" >617</td>
+   <td align="right" >1668</td>
+   <td align="right" >2285</td>
+   <td align="right" >1127</td>
+   <td align="right" >375</td>
+   <td align="right" >266</td>
+   <td align="right" >799</td>
+   <td align="right" >970</td>
+   <td align="right" >4706</td>
+   <td align="right" >92.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="30">30</td>
+   <td align="left" ><a href="/teams/MIL/2014.html">Milwaukee Bucks</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12415</td>
+   <td align="right" >1780</td>
+   <td align="right" >4222</td>
+   <td align="right" >.422</td>
+   <td align="right" >368</td>
+   <td align="right" >1048</td>
+   <td align="right" >.351</td>
+   <td align="right" >1412</td>
+   <td align="right" >3174</td>
+   <td align="right" >.445</td>
+   <td align="right" >773</td>
+   <td align="right" >1026</td>
+   <td align="right" >.753</td>
+   <td align="right" >588</td>
+   <td align="right" >1517</td>
+   <td align="right" >2105</td>
+   <td align="right" >1063</td>
+   <td align="right" >354</td>
+   <td align="right" >276</td>
+   <td align="right" >798</td>
+   <td align="right" >1067</td>
+   <td align="right" >4701</td>
+   <td align="right" >92.2</td>
+</tr>
+<tr  class="stat_average no_ranker">
+   <td align="right" ></td>
+   <td align="left"  csk="Zzz">League Average</td>
+   <td align="right" >52</td>
+   <td align="right" >12484</td>
+   <td align="right" >1934</td>
+   <td align="right" >4286</td>
+   <td align="right" >.451</td>
+   <td align="right" >391</td>
+   <td align="right" >1094</td>
+   <td align="right" >.358</td>
+   <td align="right" >1543</td>
+   <td align="right" >3192</td>
+   <td align="right" >.483</td>
+   <td align="right" >912</td>
+   <td align="right" >1209</td>
+   <td align="right" >.754</td>
+   <td align="right" >569</td>
+   <td align="right" >1653</td>
+   <td align="right" >2222</td>
+   <td align="right" >1123</td>
+   <td align="right" >399</td>
+   <td align="right" >249</td>
+   <td align="right" >766</td>
+   <td align="right" >1066</td>
+   <td align="right" >5173</td>
+   <td align="right" >100.2</td>
+</tr>
+</tbody>
+</table>
+</div><!-- div.table_container.p402_hide#div_xxxx -->
+</div>
+<div class="stw" id="all_opp_stats">
+<div id="" class="table_heading">
+<h2 style="">Opponent Stats</h2>
+<div class="table_heading_text">Playoff teams are marked with an asterisk (*)</div>
+</div>
+
+<div class="table_container" id="div_opponent">
+<table class="sortable  stats_table" id="opponent">
+<colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup>
+<thead>
+<tr class="">
+  <th data-stat="ranker" align="right"  class="ranker sort_default_asc show_partial_when_sorting"  tip="Rank">Rk</th>
+  <th data-stat="team_name" align="left"  class="tooltip sort_default_asc" >Team</th>
+  <th data-stat="g" align="right"  class="tooltip"  tip="Games">G</th>
+  <th data-stat="mp" align="right"  class="tooltip"  tip="Minutes Played">MP</th>
+  <th data-stat="opp_fg" align="right"  class="tooltip"  tip="Opponent Field Goals">FG</th>
+  <th data-stat="opp_fga" align="right"  class="tooltip"  tip="Opponent Field Goal Attempts">FGA</th>
+  <th data-stat="opp_fg_pct" align="right"  class="tooltip"  tip="Opponent Field Goal Percentage">FG%</th>
+  <th data-stat="opp_fg3" align="right"  class="tooltip"  tip="Opponent 3-Point Field Goals">3P</th>
+  <th data-stat="opp_fg3a" align="right"  class="tooltip"  tip="Opponent 3-Point Field Goal Attempts">3PA</th>
+  <th data-stat="opp_fg3_pct" align="right"  class="tooltip"  tip="Opponent 3-Point Field Goal Percentage">3P%</th>
+  <th data-stat="opp_fg2" align="right"  class="tooltip"  tip="Opponent 2-Point Field Goals">2P</th>
+  <th data-stat="opp_fg2a" align="right"  class="tooltip"  tip="Opponent 2-Point Field Goal Attempts">2PA</th>
+  <th data-stat="opp_fg2_pct" align="right"  class="tooltip"  tip="Opponent 2-Point Field Goal Percentage">2P%</th>
+  <th data-stat="opp_ft" align="right"  class="tooltip"  tip="Opponent Free Throws">FT</th>
+  <th data-stat="opp_fta" align="right"  class="tooltip"  tip="Opponent Free Throw Attempts">FTA</th>
+  <th data-stat="opp_ft_pct" align="right"  class="tooltip"  tip="Opponent Free Throw Percentage">FT%</th>
+  <th data-stat="opp_orb" align="right"  class="tooltip"  tip="Opponent Offensive Rebounds">ORB</th>
+  <th data-stat="opp_drb" align="right"  class="tooltip"  tip="Opponent Defensive Rebounds">DRB</th>
+  <th data-stat="opp_trb" align="right"  class="tooltip"  tip="Opponent Total Rebounds">TRB</th>
+  <th data-stat="opp_ast" align="right"  class="tooltip"  tip="Opponent Assists">AST</th>
+  <th data-stat="opp_stl" align="right"  class="tooltip"  tip="Opponent Steals">STL</th>
+  <th data-stat="opp_blk" align="right"  class="tooltip"  tip="Opponent Blocks">BLK</th>
+  <th data-stat="opp_tov" align="right"  class="tooltip"  tip="Opponent Turnovers">TOV</th>
+  <th data-stat="opp_pf" align="right"  class="tooltip"  tip="Opponent Personal Fouls">PF</th>
+  <th data-stat="opp_pts" align="right"  class="tooltip"  tip="Opponent Points">PTS</th>
+  <th data-stat="opp_pts_per_g" align="right"  class="tooltip"  tip="Opponent Points Per Game">PTS/G</th>
+</tr>
+</thead>
+<tbody>
+<tr  class="">
+   <td align="right"  csk="1">1</td>
+   <td align="left" ><a href="/teams/IND/2014.html">Indiana Pacers</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12315</td>
+   <td align="right" >1745</td>
+   <td align="right" >4240</td>
+   <td align="right" >.412</td>
+   <td align="right" >311</td>
+   <td align="right" >941</td>
+   <td align="right" >.330</td>
+   <td align="right" >1434</td>
+   <td align="right" >3299</td>
+   <td align="right" >.435</td>
+   <td align="right" >816</td>
+   <td align="right" >1076</td>
+   <td align="right" >.758</td>
+   <td align="right" >530</td>
+   <td align="right" >1549</td>
+   <td align="right" >2079</td>
+   <td align="right" >896</td>
+   <td align="right" >366</td>
+   <td align="right" >222</td>
+   <td align="right" >738</td>
+   <td align="right" >1112</td>
+   <td align="right" >4617</td>
+   <td align="right" >90.5</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="2">2</td>
+   <td align="left" ><a href="/teams/CHI/2014.html">Chicago Bulls</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12440</td>
+   <td align="right" >1817</td>
+   <td align="right" >4179</td>
+   <td align="right" >.435</td>
+   <td align="right" >338</td>
+   <td align="right" >923</td>
+   <td align="right" >.366</td>
+   <td align="right" >1479</td>
+   <td align="right" >3256</td>
+   <td align="right" >.454</td>
+   <td align="right" >754</td>
+   <td align="right" >997</td>
+   <td align="right" >.756</td>
+   <td align="right" >546</td>
+   <td align="right" >1574</td>
+   <td align="right" >2120</td>
+   <td align="right" >1034</td>
+   <td align="right" >404</td>
+   <td align="right" >325</td>
+   <td align="right" >750</td>
+   <td align="right" >1076</td>
+   <td align="right" >4726</td>
+   <td align="right" >92.7</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="3">3</td>
+   <td align="left" ><a href="/teams/MEM/2014.html">Memphis Grizzlies</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12340</td>
+   <td align="right" >1812</td>
+   <td align="right" >4027</td>
+   <td align="right" >.450</td>
+   <td align="right" >383</td>
+   <td align="right" >1090</td>
+   <td align="right" >.351</td>
+   <td align="right" >1429</td>
+   <td align="right" >2937</td>
+   <td align="right" >.487</td>
+   <td align="right" >825</td>
+   <td align="right" >1087</td>
+   <td align="right" >.759</td>
+   <td align="right" >500</td>
+   <td align="right" >1525</td>
+   <td align="right" >2025</td>
+   <td align="right" >1008</td>
+   <td align="right" >350</td>
+   <td align="right" >272</td>
+   <td align="right" >718</td>
+   <td align="right" >964</td>
+   <td align="right" >4832</td>
+   <td align="right" >94.7</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="4">4</td>
+   <td align="left" ><a href="/teams/CHA/2014.html">Charlotte Bobcats</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12580</td>
+   <td align="right" >1906</td>
+   <td align="right" >4325</td>
+   <td align="right" >.441</td>
+   <td align="right" >424</td>
+   <td align="right" >1146</td>
+   <td align="right" >.370</td>
+   <td align="right" >1482</td>
+   <td align="right" >3179</td>
+   <td align="right" >.466</td>
+   <td align="right" >804</td>
+   <td align="right" >1046</td>
+   <td align="right" >.769</td>
+   <td align="right" >513</td>
+   <td align="right" >1799</td>
+   <td align="right" >2312</td>
+   <td align="right" >1093</td>
+   <td align="right" >340</td>
+   <td align="right" >283</td>
+   <td align="right" >720</td>
+   <td align="right" >1097</td>
+   <td align="right" >5040</td>
+   <td align="right" >96.9</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="5">5</td>
+   <td align="left" ><a href="/teams/TOR/2014.html">Toronto Raptors</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12365</td>
+   <td align="right" >1830</td>
+   <td align="right" >4094</td>
+   <td align="right" >.447</td>
+   <td align="right" >365</td>
+   <td align="right" >986</td>
+   <td align="right" >.370</td>
+   <td align="right" >1465</td>
+   <td align="right" >3108</td>
+   <td align="right" >.471</td>
+   <td align="right" >929</td>
+   <td align="right" >1236</td>
+   <td align="right" >.752</td>
+   <td align="right" >528</td>
+   <td align="right" >1594</td>
+   <td align="right" >2122</td>
+   <td align="right" >1084</td>
+   <td align="right" >372</td>
+   <td align="right" >235</td>
+   <td align="right" >783</td>
+   <td align="right" >1115</td>
+   <td align="right" >4954</td>
+   <td align="right" >97.1</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="6">6</td>
+   <td align="left" ><a href="/teams/OKC/2014.html">Oklahoma City Thunder</a></td>
+   <td align="right" >54</td>
+   <td align="right" >13010</td>
+   <td align="right" >1944</td>
+   <td align="right" >4531</td>
+   <td align="right" >.429</td>
+   <td align="right" >436</td>
+   <td align="right" >1280</td>
+   <td align="right" >.341</td>
+   <td align="right" >1508</td>
+   <td align="right" >3251</td>
+   <td align="right" >.464</td>
+   <td align="right" >940</td>
+   <td align="right" >1299</td>
+   <td align="right" >.724</td>
+   <td align="right" >607</td>
+   <td align="right" >1579</td>
+   <td align="right" >2186</td>
+   <td align="right" >1164</td>
+   <td align="right" >452</td>
+   <td align="right" >204</td>
+   <td align="right" >802</td>
+   <td align="right" >1083</td>
+   <td align="right" >5264</td>
+   <td align="right" >97.5</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="7">7</td>
+   <td align="left" ><a href="/teams/SAS/2014.html">San Antonio Spurs</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12555</td>
+   <td align="right" >1976</td>
+   <td align="right" >4429</td>
+   <td align="right" >.446</td>
+   <td align="right" >346</td>
+   <td align="right" >938</td>
+   <td align="right" >.369</td>
+   <td align="right" >1630</td>
+   <td align="right" >3491</td>
+   <td align="right" >.467</td>
+   <td align="right" >775</td>
+   <td align="right" >1025</td>
+   <td align="right" >.756</td>
+   <td align="right" >563</td>
+   <td align="right" >1636</td>
+   <td align="right" >2199</td>
+   <td align="right" >1057</td>
+   <td align="right" >397</td>
+   <td align="right" >251</td>
+   <td align="right" >736</td>
+   <td align="right" >1014</td>
+   <td align="right" >5073</td>
+   <td align="right" >97.6</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="8">8</td>
+   <td align="left" ><a href="/teams/BOS/2014.html">Boston Celtics</a></td>
+   <td align="right" >53</td>
+   <td align="right" >12745</td>
+   <td align="right" >1943</td>
+   <td align="right" >4330</td>
+   <td align="right" >.449</td>
+   <td align="right" >347</td>
+   <td align="right" >991</td>
+   <td align="right" >.350</td>
+   <td align="right" >1596</td>
+   <td align="right" >3339</td>
+   <td align="right" >.478</td>
+   <td align="right" >987</td>
+   <td align="right" >1316</td>
+   <td align="right" >.750</td>
+   <td align="right" >605</td>
+   <td align="right" >1685</td>
+   <td align="right" >2290</td>
+   <td align="right" >1144</td>
+   <td align="right" >388</td>
+   <td align="right" >238</td>
+   <td align="right" >762</td>
+   <td align="right" >996</td>
+   <td align="right" >5220</td>
+   <td align="right" >98.5</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="9">9</td>
+   <td align="left" ><a href="/teams/GSW/2014.html">Golden State Warriors</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12555</td>
+   <td align="right" >1899</td>
+   <td align="right" >4371</td>
+   <td align="right" >.434</td>
+   <td align="right" >355</td>
+   <td align="right" >1012</td>
+   <td align="right" >.351</td>
+   <td align="right" >1544</td>
+   <td align="right" >3359</td>
+   <td align="right" >.460</td>
+   <td align="right" >981</td>
+   <td align="right" >1287</td>
+   <td align="right" >.762</td>
+   <td align="right" >560</td>
+   <td align="right" >1683</td>
+   <td align="right" >2243</td>
+   <td align="right" >1016</td>
+   <td align="right" >441</td>
+   <td align="right" >227</td>
+   <td align="right" >798</td>
+   <td align="right" >1035</td>
+   <td align="right" >5134</td>
+   <td align="right" >98.7</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="10">10</td>
+   <td align="left" ><a href="/teams/MIA/2014.html">Miami Heat</a></td>
+   <td align="right" >50</td>
+   <td align="right" >12125</td>
+   <td align="right" >1814</td>
+   <td align="right" >3943</td>
+   <td align="right" >.460</td>
+   <td align="right" >434</td>
+   <td align="right" >1179</td>
+   <td align="right" >.368</td>
+   <td align="right" >1380</td>
+   <td align="right" >2764</td>
+   <td align="right" >.499</td>
+   <td align="right" >878</td>
+   <td align="right" >1179</td>
+   <td align="right" >.745</td>
+   <td align="right" >535</td>
+   <td align="right" >1477</td>
+   <td align="right" >2012</td>
+   <td align="right" >1062</td>
+   <td align="right" >413</td>
+   <td align="right" >153</td>
+   <td align="right" >869</td>
+   <td align="right" >1050</td>
+   <td align="right" >4940</td>
+   <td align="right" >98.8</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="11">11</td>
+   <td align="left" ><a href="/teams/NYK/2014.html">New York Knicks</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12340</td>
+   <td align="right" >1805</td>
+   <td align="right" >3932</td>
+   <td align="right" >.459</td>
+   <td align="right" >433</td>
+   <td align="right" >1177</td>
+   <td align="right" >.368</td>
+   <td align="right" >1372</td>
+   <td align="right" >2755</td>
+   <td align="right" >.498</td>
+   <td align="right" >1005</td>
+   <td align="right" >1302</td>
+   <td align="right" >.772</td>
+   <td align="right" >492</td>
+   <td align="right" >1656</td>
+   <td align="right" >2148</td>
+   <td align="right" >1003</td>
+   <td align="right" >315</td>
+   <td align="right" >185</td>
+   <td align="right" >761</td>
+   <td align="right" >1006</td>
+   <td align="right" >5048</td>
+   <td align="right" >99.0</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="12">12</td>
+   <td align="left" ><a href="/teams/WAS/2014.html">Washington Wizards</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12465</td>
+   <td align="right" >1894</td>
+   <td align="right" >4123</td>
+   <td align="right" >.459</td>
+   <td align="right" >379</td>
+   <td align="right" >1085</td>
+   <td align="right" >.349</td>
+   <td align="right" >1515</td>
+   <td align="right" >3038</td>
+   <td align="right" >.499</td>
+   <td align="right" >894</td>
+   <td align="right" >1181</td>
+   <td align="right" >.757</td>
+   <td align="right" >513</td>
+   <td align="right" >1664</td>
+   <td align="right" >2177</td>
+   <td align="right" >1148</td>
+   <td align="right" >398</td>
+   <td align="right" >203</td>
+   <td align="right" >833</td>
+   <td align="right" >991</td>
+   <td align="right" >5061</td>
+   <td align="right" >99.2</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="13">13</td>
+   <td align="left" ><a href="/teams/BRK/2014.html">Brooklyn Nets</a></td>
+   <td align="right" >49</td>
+   <td align="right" >11885</td>
+   <td align="right" >1766</td>
+   <td align="right" >3899</td>
+   <td align="right" >.453</td>
+   <td align="right" >406</td>
+   <td align="right" >1065</td>
+   <td align="right" >.381</td>
+   <td align="right" >1360</td>
+   <td align="right" >2834</td>
+   <td align="right" >.480</td>
+   <td align="right" >956</td>
+   <td align="right" >1251</td>
+   <td align="right" >.764</td>
+   <td align="right" >538</td>
+   <td align="right" >1548</td>
+   <td align="right" >2086</td>
+   <td align="right" >1035</td>
+   <td align="right" >369</td>
+   <td align="right" >201</td>
+   <td align="right" >763</td>
+   <td align="right" >1034</td>
+   <td align="right" >4894</td>
+   <td align="right" >99.9</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="14">14</td>
+   <td align="left" ><a href="/teams/LAC/2014.html">Los Angeles Clippers</a></td>
+   <td align="right" >54</td>
+   <td align="right" >13035</td>
+   <td align="right" >2015</td>
+   <td align="right" >4566</td>
+   <td align="right" >.441</td>
+   <td align="right" >372</td>
+   <td align="right" >1152</td>
+   <td align="right" >.323</td>
+   <td align="right" >1643</td>
+   <td align="right" >3414</td>
+   <td align="right" >.481</td>
+   <td align="right" >1016</td>
+   <td align="right" >1365</td>
+   <td align="right" >.744</td>
+   <td align="right" >669</td>
+   <td align="right" >1713</td>
+   <td align="right" >2382</td>
+   <td align="right" >1262</td>
+   <td align="right" >379</td>
+   <td align="right" >176</td>
+   <td align="right" >826</td>
+   <td align="right" >1282</td>
+   <td align="right" >5418</td>
+   <td align="right" >100.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="15">15</td>
+   <td align="left" ><a href="/teams/UTA/2014.html">Utah Jazz</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12290</td>
+   <td align="right" >1912</td>
+   <td align="right" >4140</td>
+   <td align="right" >.462</td>
+   <td align="right" >338</td>
+   <td align="right" >965</td>
+   <td align="right" >.350</td>
+   <td align="right" >1574</td>
+   <td align="right" >3175</td>
+   <td align="right" >.496</td>
+   <td align="right" >951</td>
+   <td align="right" >1241</td>
+   <td align="right" >.766</td>
+   <td align="right" >562</td>
+   <td align="right" >1650</td>
+   <td align="right" >2212</td>
+   <td align="right" >1049</td>
+   <td align="right" >393</td>
+   <td align="right" >245</td>
+   <td align="right" >636</td>
+   <td align="right" >1047</td>
+   <td align="right" >5113</td>
+   <td align="right" >100.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="16">16</td>
+   <td align="left" ><a href="/teams/ATL/2014.html">Atlanta Hawks</a></td>
+   <td align="right" >50</td>
+   <td align="right" >12125</td>
+   <td align="right" >1940</td>
+   <td align="right" >4216</td>
+   <td align="right" >.460</td>
+   <td align="right" >384</td>
+   <td align="right" >1059</td>
+   <td align="right" >.363</td>
+   <td align="right" >1556</td>
+   <td align="right" >3157</td>
+   <td align="right" >.493</td>
+   <td align="right" >777</td>
+   <td align="right" >1037</td>
+   <td align="right" >.749</td>
+   <td align="right" >549</td>
+   <td align="right" >1639</td>
+   <td align="right" >2188</td>
+   <td align="right" >1158</td>
+   <td align="right" >395</td>
+   <td align="right" >232</td>
+   <td align="right" >791</td>
+   <td align="right" >962</td>
+   <td align="right" >5041</td>
+   <td align="right" >100.8</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="17">17</td>
+   <td align="left" ><a href="/teams/HOU/2014.html">Houston Rockets</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12555</td>
+   <td align="right" >1995</td>
+   <td align="right" >4571</td>
+   <td align="right" >.436</td>
+   <td align="right" >397</td>
+   <td align="right" >1163</td>
+   <td align="right" >.341</td>
+   <td align="right" >1598</td>
+   <td align="right" >3408</td>
+   <td align="right" >.469</td>
+   <td align="right" >875</td>
+   <td align="right" >1159</td>
+   <td align="right" >.755</td>
+   <td align="right" >651</td>
+   <td align="right" >1541</td>
+   <td align="right" >2192</td>
+   <td align="right" >1108</td>
+   <td align="right" >433</td>
+   <td align="right" >285</td>
+   <td align="right" >731</td>
+   <td align="right" >1282</td>
+   <td align="right" >5262</td>
+   <td align="right" >101.2</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="18">18</td>
+   <td align="left" ><a href="/teams/NOP/2014.html">New Orleans Pelicans</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12340</td>
+   <td align="right" >1882</td>
+   <td align="right" >4080</td>
+   <td align="right" >.461</td>
+   <td align="right" >394</td>
+   <td align="right" >1134</td>
+   <td align="right" >.347</td>
+   <td align="right" >1488</td>
+   <td align="right" >2946</td>
+   <td align="right" >.505</td>
+   <td align="right" >1006</td>
+   <td align="right" >1357</td>
+   <td align="right" >.741</td>
+   <td align="right" >552</td>
+   <td align="right" >1603</td>
+   <td align="right" >2155</td>
+   <td align="right" >1109</td>
+   <td align="right" >366</td>
+   <td align="right" >311</td>
+   <td align="right" >746</td>
+   <td align="right" >1017</td>
+   <td align="right" >5164</td>
+   <td align="right" >101.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="19">19</td>
+   <td align="left" ><a href="/teams/ORL/2014.html">Orlando Magic</a></td>
+   <td align="right" >53</td>
+   <td align="right" >12895</td>
+   <td align="right" >2033</td>
+   <td align="right" >4492</td>
+   <td align="right" >.453</td>
+   <td align="right" >432</td>
+   <td align="right" >1154</td>
+   <td align="right" >.374</td>
+   <td align="right" >1601</td>
+   <td align="right" >3338</td>
+   <td align="right" >.480</td>
+   <td align="right" >888</td>
+   <td align="right" >1148</td>
+   <td align="right" >.774</td>
+   <td align="right" >567</td>
+   <td align="right" >1808</td>
+   <td align="right" >2375</td>
+   <td align="right" >1205</td>
+   <td align="right" >381</td>
+   <td align="right" >314</td>
+   <td align="right" >741</td>
+   <td align="right" >1003</td>
+   <td align="right" >5386</td>
+   <td align="right" >101.6</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="20">20</td>
+   <td align="left" ><a href="/teams/MIL/2014.html">Milwaukee Bucks</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12415</td>
+   <td align="right" >1918</td>
+   <td align="right" >4196</td>
+   <td align="right" >.457</td>
+   <td align="right" >428</td>
+   <td align="right" >1126</td>
+   <td align="right" >.380</td>
+   <td align="right" >1490</td>
+   <td align="right" >3070</td>
+   <td align="right" >.485</td>
+   <td align="right" >928</td>
+   <td align="right" >1250</td>
+   <td align="right" >.742</td>
+   <td align="right" >616</td>
+   <td align="right" >1706</td>
+   <td align="right" >2322</td>
+   <td align="right" >1144</td>
+   <td align="right" >406</td>
+   <td align="right" >268</td>
+   <td align="right" >750</td>
+   <td align="right" >1026</td>
+   <td align="right" >5192</td>
+   <td align="right" >101.8</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="21">21</td>
+   <td align="left" ><a href="/teams/PHO/2014.html">Phoenix Suns</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12290</td>
+   <td align="right" >1921</td>
+   <td align="right" >4263</td>
+   <td align="right" >.451</td>
+   <td align="right" >329</td>
+   <td align="right" >974</td>
+   <td align="right" >.338</td>
+   <td align="right" >1592</td>
+   <td align="right" >3289</td>
+   <td align="right" >.484</td>
+   <td align="right" >1023</td>
+   <td align="right" >1330</td>
+   <td align="right" >.769</td>
+   <td align="right" >606</td>
+   <td align="right" >1624</td>
+   <td align="right" >2230</td>
+   <td align="right" >1007</td>
+   <td align="right" >354</td>
+   <td align="right" >216</td>
+   <td align="right" >787</td>
+   <td align="right" >1073</td>
+   <td align="right" >5194</td>
+   <td align="right" >101.8</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="22">22</td>
+   <td align="left" ><a href="/teams/MIN/2014.html">Minnesota Timberwolves</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12530</td>
+   <td align="right" >2073</td>
+   <td align="right" >4419</td>
+   <td align="right" >.469</td>
+   <td align="right" >404</td>
+   <td align="right" >1115</td>
+   <td align="right" >.362</td>
+   <td align="right" >1669</td>
+   <td align="right" >3304</td>
+   <td align="right" >.505</td>
+   <td align="right" >753</td>
+   <td align="right" >983</td>
+   <td align="right" >.766</td>
+   <td align="right" >542</td>
+   <td align="right" >1724</td>
+   <td align="right" >2266</td>
+   <td align="right" >1184</td>
+   <td align="right" >407</td>
+   <td align="right" >299</td>
+   <td align="right" >849</td>
+   <td align="right" >1199</td>
+   <td align="right" >5303</td>
+   <td align="right" >102.0</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="23">23</td>
+   <td align="left" ><a href="/teams/DAL/2014.html">Dallas Mavericks</a></td>
+   <td align="right" >53</td>
+   <td align="right" >12745</td>
+   <td align="right" >1982</td>
+   <td align="right" >4273</td>
+   <td align="right" >.464</td>
+   <td align="right" >426</td>
+   <td align="right" >1178</td>
+   <td align="right" >.362</td>
+   <td align="right" >1556</td>
+   <td align="right" >3095</td>
+   <td align="right" >.503</td>
+   <td align="right" >1031</td>
+   <td align="right" >1353</td>
+   <td align="right" >.762</td>
+   <td align="right" >595</td>
+   <td align="right" >1686</td>
+   <td align="right" >2281</td>
+   <td align="right" >1167</td>
+   <td align="right" >410</td>
+   <td align="right" >190</td>
+   <td align="right" >850</td>
+   <td align="right" >1036</td>
+   <td align="right" >5421</td>
+   <td align="right" >102.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="24">24</td>
+   <td align="left" ><a href="/teams/CLE/2014.html">Cleveland Cavaliers</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12705</td>
+   <td align="right" >1984</td>
+   <td align="right" >4321</td>
+   <td align="right" >.459</td>
+   <td align="right" >462</td>
+   <td align="right" >1264</td>
+   <td align="right" >.366</td>
+   <td align="right" >1522</td>
+   <td align="right" >3057</td>
+   <td align="right" >.498</td>
+   <td align="right" >888</td>
+   <td align="right" >1156</td>
+   <td align="right" >.768</td>
+   <td align="right" >527</td>
+   <td align="right" >1715</td>
+   <td align="right" >2242</td>
+   <td align="right" >1303</td>
+   <td align="right" >371</td>
+   <td align="right" >316</td>
+   <td align="right" >749</td>
+   <td align="right" >1032</td>
+   <td align="right" >5318</td>
+   <td align="right" >102.3</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="25">25</td>
+   <td align="left" ><a href="/teams/DET/2014.html">Detroit Pistons</a></td>
+   <td align="right" >51</td>
+   <td align="right" >12315</td>
+   <td align="right" >1956</td>
+   <td align="right" >4184</td>
+   <td align="right" >.467</td>
+   <td align="right" >416</td>
+   <td align="right" >1129</td>
+   <td align="right" >.368</td>
+   <td align="right" >1540</td>
+   <td align="right" >3055</td>
+   <td align="right" >.504</td>
+   <td align="right" >913</td>
+   <td align="right" >1191</td>
+   <td align="right" >.767</td>
+   <td align="right" >549</td>
+   <td align="right" >1606</td>
+   <td align="right" >2155</td>
+   <td align="right" >1205</td>
+   <td align="right" >445</td>
+   <td align="right" >238</td>
+   <td align="right" >843</td>
+   <td align="right" >1058</td>
+   <td align="right" >5241</td>
+   <td align="right" >102.8</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="26">26</td>
+   <td align="left" ><a href="/teams/POR/2014.html">Portland Trail Blazers</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12580</td>
+   <td align="right" >2079</td>
+   <td align="right" >4556</td>
+   <td align="right" >.456</td>
+   <td align="right" >327</td>
+   <td align="right" >896</td>
+   <td align="right" >.365</td>
+   <td align="right" >1752</td>
+   <td align="right" >3660</td>
+   <td align="right" >.479</td>
+   <td align="right" >891</td>
+   <td align="right" >1156</td>
+   <td align="right" >.771</td>
+   <td align="right" >582</td>
+   <td align="right" >1657</td>
+   <td align="right" >2239</td>
+   <td align="right" >1034</td>
+   <td align="right" >394</td>
+   <td align="right" >195</td>
+   <td align="right" >624</td>
+   <td align="right" >1072</td>
+   <td align="right" >5376</td>
+   <td align="right" >103.4</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="27">27</td>
+   <td align="left" ><a href="/teams/SAC/2014.html">Sacramento Kings</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12580</td>
+   <td align="right" >1983</td>
+   <td align="right" >4274</td>
+   <td align="right" >.464</td>
+   <td align="right" >433</td>
+   <td align="right" >1154</td>
+   <td align="right" >.375</td>
+   <td align="right" >1550</td>
+   <td align="right" >3120</td>
+   <td align="right" >.497</td>
+   <td align="right" >987</td>
+   <td align="right" >1360</td>
+   <td align="right" >.726</td>
+   <td align="right" >548</td>
+   <td align="right" >1634</td>
+   <td align="right" >2182</td>
+   <td align="right" >1206</td>
+   <td align="right" >416</td>
+   <td align="right" >298</td>
+   <td align="right" >736</td>
+   <td align="right" >1178</td>
+   <td align="right" >5386</td>
+   <td align="right" >103.6</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="28">28</td>
+   <td align="left" ><a href="/teams/DEN/2014.html">Denver Nuggets</a></td>
+   <td align="right" >50</td>
+   <td align="right" >12000</td>
+   <td align="right" >1950</td>
+   <td align="right" >4326</td>
+   <td align="right" >.451</td>
+   <td align="right" >342</td>
+   <td align="right" >1014</td>
+   <td align="right" >.337</td>
+   <td align="right" >1608</td>
+   <td align="right" >3312</td>
+   <td align="right" >.486</td>
+   <td align="right" >970</td>
+   <td align="right" >1288</td>
+   <td align="right" >.753</td>
+   <td align="right" >594</td>
+   <td align="right" >1610</td>
+   <td align="right" >2204</td>
+   <td align="right" >1090</td>
+   <td align="right" >390</td>
+   <td align="right" >272</td>
+   <td align="right" >690</td>
+   <td align="right" >1062</td>
+   <td align="right" >5212</td>
+   <td align="right" >104.2</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="29">29</td>
+   <td align="left" ><a href="/teams/LAL/2014.html">Los Angeles Lakers</a></td>
+   <td align="right" >52</td>
+   <td align="right" >12505</td>
+   <td align="right" >2106</td>
+   <td align="right" >4645</td>
+   <td align="right" >.453</td>
+   <td align="right" >395</td>
+   <td align="right" >1152</td>
+   <td align="right" >.343</td>
+   <td align="right" >1711</td>
+   <td align="right" >3493</td>
+   <td align="right" >.490</td>
+   <td align="right" >885</td>
+   <td align="right" >1236</td>
+   <td align="right" >.716</td>
+   <td align="right" >690</td>
+   <td align="right" >1849</td>
+   <td align="right" >2539</td>
+   <td align="right" >1306</td>
+   <td align="right" >506</td>
+   <td align="right" >234</td>
+   <td align="right" >692</td>
+   <td align="right" >997</td>
+   <td align="right" >5492</td>
+   <td align="right" >105.6</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="30">30</td>
+   <td align="left" ><a href="/teams/PHI/2014.html">Philadelphia 76ers</a></td>
+   <td align="right" >53</td>
+   <td align="right" >12895</td>
+   <td align="right" >2153</td>
+   <td align="right" >4632</td>
+   <td align="right" >.465</td>
+   <td align="right" >506</td>
+   <td align="right" >1367</td>
+   <td align="right" >.370</td>
+   <td align="right" >1647</td>
+   <td align="right" >3265</td>
+   <td align="right" >.504</td>
+   <td align="right" >1044</td>
+   <td align="right" >1392</td>
+   <td align="right" >.750</td>
+   <td align="right" >641</td>
+   <td align="right" >1865</td>
+   <td align="right" >2506</td>
+   <td align="right" >1414</td>
+   <td align="right" >505</td>
+   <td align="right" >396</td>
+   <td align="right" >893</td>
+   <td align="right" >1092</td>
+   <td align="right" >5856</td>
+   <td align="right" >110.5</td>
+</tr>
+<tr  class="stat_average no_ranker">
+   <td align="right" ></td>
+   <td align="left"  csk="Zzz">League Average</td>
+   <td align="right" >52</td>
+   <td align="right" >12484</td>
+   <td align="right" >1934</td>
+   <td align="right" >4286</td>
+   <td align="right" >.451</td>
+   <td align="right" >391</td>
+   <td align="right" >1094</td>
+   <td align="right" >.358</td>
+   <td align="right" >1543</td>
+   <td align="right" >3192</td>
+   <td align="right" >.483</td>
+   <td align="right" >912</td>
+   <td align="right" >1209</td>
+   <td align="right" >.754</td>
+   <td align="right" >569</td>
+   <td align="right" >1653</td>
+   <td align="right" >2222</td>
+   <td align="right" >1123</td>
+   <td align="right" >399</td>
+   <td align="right" >249</td>
+   <td align="right" >766</td>
+   <td align="right" >1066</td>
+   <td align="right" >5173</td>
+   <td align="right" >100.2</td>
+</tr>
+</tbody>
+</table>
+</div><!-- div.table_container#div_xxxx -->
+</div>
+<div class="stw" id="all_misc_stats">
+<div id="" class="table_heading">
+<h2 style="">Miscellaneous Stats</h2>
+<div class="table_heading_text">Playoff teams are marked with an asterisk (*)</div>
+</div>
+
+<div class="table_container" id="div_misc">
+<table class="sortable  stats_table" id="misc">
+<colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup>
+<thead>
+<tr class=" over_header">
+  <th data-stat="" align="CENTER" colspan=13  class="tooltip over_header" ></th>
+  <th data-stat="header_team" align="center" colspan=4  class="bold_text over_header" >Offense Four Factors</th>
+  <th data-stat="header_opp" align="center" colspan=4  class="bold_text over_header" >Defense Four Factors</th>
+  <th data-stat="" align="CENTER" colspan=2  class="tooltip over_header" ></th>
+</tr>
+<tr class="">
+  <th data-stat="ranker" align="right"  class="ranker sort_default_asc show_partial_when_sorting"  tip="Rank">Rk</th>
+  <th data-stat="team_name" align="left"  class="tooltip sort_default_asc" >Team</th>
+  <th data-stat="age" align="center"  class="tooltip sort_default_asc"  tip="Age of Player at the start of February 1st of that season.">Age</th>
+  <th data-stat="wins_pyth" align="right"  class="tooltip"  tip="Pythagorean wins, i.e., expected wins based on points scored and allowed">PW</th>
+  <th data-stat="losses_pyth" align="right"  class="tooltip"  tip="Pythagorean losses, i.e., expected losses based on points scored and allowed">PL</th>
+  <th data-stat="mov" align="right"  class="tooltip"  tip="Margin of Victory">MOV</th>
+  <th data-stat="sos" align="right"  class="tooltip"  tip="Strength of Schedule; a rating of strength of schedule. The rating is denominated in points above/below average, where zero is average.">SOS</th>
+  <th data-stat="srs" align="right"  class="tooltip"  tip="Simple Rating System; a team rating that takes into account average point differential and strength of schedule. The rating is denominated in points above/below average, where zero is average.">SRS</th>
+  <th data-stat="off_rtg" align="right"  class="tooltip"  tip="<b>Offensive Rating</b>: An estimate of points produced (players) or scored (teams) per 100 possessions">ORtg</th>
+  <th data-stat="def_rtg" align="right"  class="tooltip sort_default_asc"  tip="<b>Defensive Rating</b>: An estimate of points allowed per 100 possessions">DRtg</th>
+  <th data-stat="pace" align="right"  class="tooltip"  tip="<b>Pace Factor</b>: An estimate of possessions per 48 minutes">Pace</th>
+  <th data-stat="fta_per_fga_pct" align="right"  class="tooltip"  tip="<strong>Free Throw Attempt Rate</strong><br>Number of FT Attempts Per FG Attempt">FTr</th>
+  <th data-stat="fg3a_per_fga_pct" align="right"  class="tooltip"  tip="<strong>3-Point Attempt Rate</strong><br>Percentage of FG Attempts from 3-Point Range">3PAr</th>
+  <th data-stat="efg_pct" align="right"  class="tooltip"  tip="Effective Field Goal Percentage; this statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.">eFG%</th>
+  <th data-stat="tov_pct" align="right"  class="tooltip sort_default_asc"  tip="Turnover Percentage; an estimate of turnovers per 100 plays.">TOV%</th>
+  <th data-stat="orb_pct" align="right"  class="tooltip"  tip="Offensive Rebound Percentage; an estimate of the percentage of available offensive rebounds a player grabbed while he was on the floor.">ORB%</th>
+  <th data-stat="ft_rate" align="right"  class="tooltip"  tip="Free Throws Per Field Goal Attempt">FT/FGA</th>
+  <th data-stat="opp_efg_pct" align="right"  class="tooltip sort_default_asc"  tip="Opponent Effective Field Goal Percentage">eFG%</th>
+  <th data-stat="opp_tov_pct" align="right"  class="tooltip"  tip="Opponent Turnover Percentage">TOV%</th>
+  <th data-stat="drb_pct" align="right"  class="tooltip"  tip="Defensive Rebound Percentage; an estimate of the percentage of available defensive rebounds a player grabbed while he was on the floor.">DRB%</th>
+  <th data-stat="opp_ft_rate" align="right"  class="tooltip sort_default_asc"  tip="Opponent Free Throws Per Field Goal Attempt">FT/FGA</th>
+  <th data-stat="arena_name" align="left"  class="tooltip sort_default_asc" >Arena</th>
+  <th data-stat="attendance" align="right"  class="tooltip" >Attendance</th>
+</tr>
+</thead>
+<tbody>
+<tr  class="">
+   <td align="right"  csk="1">1</td>
+   <td align="left" ><a href="/teams/OKC/2014.html">Oklahoma City Thunder</a></td>
+   <td align="right" >26.1</td>
+   <td align="right" >40</td>
+   <td align="right" >14</td>
+   <td align="right" >7.46</td>
+   <td align="right" >0.46</td>
+   <td align="right" >7.92</td>
+   <td align="right" >110.1</td>
+   <td align="right" >102.2</td>
+   <td align="right" >95.0</td>
+   <td align="right" >.293</td>
+   <td align="right" >.249</td>
+   <td align="right" >.521</td>
+   <td align="right" >14.5</td>
+   <td align="right" >27.4</td>
+   <td align="right" >.235</td>
+   <td align="right" >.477</td>
+   <td align="right" >13.6</td>
+   <td align="right" >75.4</td>
+   <td align="right" >.207</td>
+   <td align="left" >Chesapeake Energy Arena</td>
+   <td align="right" >473,278</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="2">2</td>
+   <td align="left" ><a href="/teams/IND/2014.html">Indiana Pacers</a></td>
+   <td align="right" >27.3</td>
+   <td align="right" >40</td>
+   <td align="right" >11</td>
+   <td align="right" >8.51</td>
+   <td align="right" >-0.67</td>
+   <td align="right" >7.84</td>
+   <td align="right" >105.4</td>
+   <td align="right" >96.4</td>
+   <td align="right" >93.4</td>
+   <td align="right" >.290</td>
+   <td align="right" >.241</td>
+   <td align="right" >.498</td>
+   <td align="right" >14.3</td>
+   <td align="right" >25.3</td>
+   <td align="right" >.226</td>
+   <td align="right" >.448</td>
+   <td align="right" >13.5</td>
+   <td align="right" >77.3</td>
+   <td align="right" >.192</td>
+   <td align="left" >Bankers Life Fieldhouse</td>
+   <td align="right" >464,007</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="3">3</td>
+   <td align="left" ><a href="/teams/SAS/2014.html">San Antonio Spurs</a></td>
+   <td align="right" >29.1</td>
+   <td align="right" >37</td>
+   <td align="right" >15</td>
+   <td align="right" >6.23</td>
+   <td align="right" >0.39</td>
+   <td align="right" >6.62</td>
+   <td align="right" >109.4</td>
+   <td align="right" >102.8</td>
+   <td align="right" >94.3</td>
+   <td align="right" >.241</td>
+   <td align="right" >.249</td>
+   <td align="right" >.539</td>
+   <td align="right" >14.0</td>
+   <td align="right" >22.1</td>
+   <td align="right" >.187</td>
+   <td align="right" >.485</td>
+   <td align="right" >13.1</td>
+   <td align="right" >75.5</td>
+   <td align="right" >.175</td>
+   <td align="left" >AT&amp;T Center</td>
+   <td align="right" >478,070</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="4">4</td>
+   <td align="left" ><a href="/teams/LAC/2014.html">Los Angeles Clippers</a></td>
+   <td align="right" >28.1</td>
+   <td align="right" >38</td>
+   <td align="right" >16</td>
+   <td align="right" >6.39</td>
+   <td align="right" >0.11</td>
+   <td align="right" >6.49</td>
+   <td align="right" >111.0</td>
+   <td align="right" >104.4</td>
+   <td align="right" >95.6</td>
+   <td align="right" >.362</td>
+   <td align="right" >.290</td>
+   <td align="right" >.521</td>
+   <td align="right" >12.9</td>
+   <td align="right" >24.8</td>
+   <td align="right" >.263</td>
+   <td align="right" >.482</td>
+   <td align="right" >13.8</td>
+   <td align="right" >72.5</td>
+   <td align="right" >.223</td>
+   <td align="left" >STAPLES Center</td>
+   <td align="right" >499,110</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="5">5</td>
+   <td align="left" ><a href="/teams/GSW/2014.html">Golden State Warriors</a></td>
+   <td align="right" >26.0</td>
+   <td align="right" >34</td>
+   <td align="right" >18</td>
+   <td align="right" >4.71</td>
+   <td align="right" >0.36</td>
+   <td align="right" >5.07</td>
+   <td align="right" >106.4</td>
+   <td align="right" >101.6</td>
+   <td align="right" >96.6</td>
+   <td align="right" >.258</td>
+   <td align="right" >.288</td>
+   <td align="right" >.514</td>
+   <td align="right" >14.6</td>
+   <td align="right" >25.9</td>
+   <td align="right" >.191</td>
+   <td align="right" >.475</td>
+   <td align="right" >13.9</td>
+   <td align="right" >76.3</td>
+   <td align="right" >.224</td>
+   <td align="left" >Oracle Arena</td>
+   <td align="right" >489,900</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="6">6</td>
+   <td align="left" ><a href="/teams/POR/2014.html">Portland Trail Blazers</a></td>
+   <td align="right" >26.0</td>
+   <td align="right" >33</td>
+   <td align="right" >19</td>
+   <td align="right" >4.33</td>
+   <td align="right" >0.57</td>
+   <td align="right" >4.90</td>
+   <td align="right" >112.2</td>
+   <td align="right" >107.7</td>
+   <td align="right" >95.2</td>
+   <td align="right" >.264</td>
+   <td align="right" >.279</td>
+   <td align="right" >.503</td>
+   <td align="right" >12.3</td>
+   <td align="right" >28.7</td>
+   <td align="right" >.217</td>
+   <td align="right" >.492</td>
+   <td align="right" >11.0</td>
+   <td align="right" >75.0</td>
+   <td align="right" >.196</td>
+   <td align="left" >Moda Center</td>
+   <td align="right" >490,617</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="7">7</td>
+   <td align="left" ><a href="/teams/HOU/2014.html">Houston Rockets</a></td>
+   <td align="right" >25.7</td>
+   <td align="right" >33</td>
+   <td align="right" >19</td>
+   <td align="right" >4.15</td>
+   <td align="right" >0.40</td>
+   <td align="right" >4.55</td>
+   <td align="right" >109.6</td>
+   <td align="right" >105.3</td>
+   <td align="right" >95.5</td>
+   <td align="right" >.392</td>
+   <td align="right" >.327</td>
+   <td align="right" >.530</td>
+   <td align="right" >14.8</td>
+   <td align="right" >26.9</td>
+   <td align="right" >.271</td>
+   <td align="right" >.480</td>
+   <td align="right" >12.6</td>
+   <td align="right" >73.0</td>
+   <td align="right" >.191</td>
+   <td align="left" >Toyota Center</td>
+   <td align="right" >504,610</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="8">8</td>
+   <td align="left" ><a href="/teams/MIA/2014.html">Miami Heat</a></td>
+   <td align="right" >30.8</td>
+   <td align="right" >34</td>
+   <td align="right" >16</td>
+   <td align="right" >5.20</td>
+   <td align="right" >-0.96</td>
+   <td align="right" >4.24</td>
+   <td align="right" >111.3</td>
+   <td align="right" >105.7</td>
+   <td align="right" >92.5</td>
+   <td align="right" >.312</td>
+   <td align="right" >.285</td>
+   <td align="right" >.560</td>
+   <td align="right" >14.8</td>
+   <td align="right" >19.9</td>
+   <td align="right" >.237</td>
+   <td align="right" >.515</td>
+   <td align="right" >16.3</td>
+   <td align="right" >73.3</td>
+   <td align="right" >.223</td>
+   <td align="left" >AmericanAirlines Arena</td>
+   <td align="right" >474,419</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="9">9</td>
+   <td align="left" ><a href="/teams/MIN/2014.html">Minnesota Timberwolves</a></td>
+   <td align="right" >26.5</td>
+   <td align="right" >32</td>
+   <td align="right" >20</td>
+   <td align="right" >3.29</td>
+   <td align="right" >0.49</td>
+   <td align="right" >3.78</td>
+   <td align="right" >108.0</td>
+   <td align="right" >104.6</td>
+   <td align="right" >97.1</td>
+   <td align="right" >.308</td>
+   <td align="right" >.249</td>
+   <td align="right" >.477</td>
+   <td align="right" >12.2</td>
+   <td align="right" >28.2</td>
+   <td align="right" >.242</td>
+   <td align="right" >.515</td>
+   <td align="right" >14.9</td>
+   <td align="right" >75.9</td>
+   <td align="right" >.170</td>
+   <td align="left" >Target Center</td>
+   <td align="right" >376,084</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="10">10</td>
+   <td align="left" ><a href="/teams/PHO/2014.html">Phoenix Suns</a></td>
+   <td align="right" >26.3</td>
+   <td align="right" >31</td>
+   <td align="right" >20</td>
+   <td align="right" >3.08</td>
+   <td align="right" >-0.02</td>
+   <td align="right" >3.06</td>
+   <td align="right" >109.3</td>
+   <td align="right" >106.1</td>
+   <td align="right" >95.6</td>
+   <td align="right" >.284</td>
+   <td align="right" >.301</td>
+   <td align="right" >.515</td>
+   <td align="right" >13.8</td>
+   <td align="right" >26.6</td>
+   <td align="right" >.217</td>
+   <td align="right" >.489</td>
+   <td align="right" >14.0</td>
+   <td align="right" >72.8</td>
+   <td align="right" >.240</td>
+   <td align="left" >US Airways Center</td>
+   <td align="right" >394,305</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="11">11</td>
+   <td align="left" ><a href="/teams/TOR/2014.html">Toronto Raptors</a></td>
+   <td align="right" >25.5</td>
+   <td align="right" >30</td>
+   <td align="right" >21</td>
+   <td align="right" >2.43</td>
+   <td align="right" >-0.24</td>
+   <td align="right" >2.19</td>
+   <td align="right" >107.0</td>
+   <td align="right" >104.4</td>
+   <td align="right" >92.1</td>
+   <td align="right" >.300</td>
+   <td align="right" >.277</td>
+   <td align="right" >.488</td>
+   <td align="right" >13.2</td>
+   <td align="right" >27.8</td>
+   <td align="right" >.232</td>
+   <td align="right" >.492</td>
+   <td align="right" >14.4</td>
+   <td align="right" >75.1</td>
+   <td align="right" >.227</td>
+   <td align="left" >Air Canada Centre</td>
+   <td align="right" >413,948</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="12">12</td>
+   <td align="left" ><a href="/teams/DAL/2014.html">Dallas Mavericks</a></td>
+   <td align="right" >30.3</td>
+   <td align="right" >30</td>
+   <td align="right" >23</td>
+   <td align="right" >2.02</td>
+   <td align="right" >0.06</td>
+   <td align="right" >2.08</td>
+   <td align="right" >110.6</td>
+   <td align="right" >108.5</td>
+   <td align="right" >94.1</td>
+   <td align="right" >.255</td>
+   <td align="right" >.266</td>
+   <td align="right" >.524</td>
+   <td align="right" >12.6</td>
+   <td align="right" >23.5</td>
+   <td align="right" >.204</td>
+   <td align="right" >.514</td>
+   <td align="right" >14.9</td>
+   <td align="right" >72.9</td>
+   <td align="right" >.241</td>
+   <td align="left" >American Airlines Center</td>
+   <td align="right" >515,870</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="13">13</td>
+   <td align="left" ><a href="/teams/MEM/2014.html">Memphis Grizzlies</a></td>
+   <td align="right" >28.2</td>
+   <td align="right" >26</td>
+   <td align="right" >25</td>
+   <td align="right" >0.12</td>
+   <td align="right" >1.05</td>
+   <td align="right" >1.17</td>
+   <td align="right" >105.0</td>
+   <td align="right" >104.8</td>
+   <td align="right" >89.6</td>
+   <td align="right" >.246</td>
+   <td align="right" >.173</td>
+   <td align="right" >.485</td>
+   <td align="right" >13.0</td>
+   <td align="right" >28.2</td>
+   <td align="right" >.185</td>
+   <td align="right" >.498</td>
+   <td align="right" >13.7</td>
+   <td align="right" >75.9</td>
+   <td align="right" >.205</td>
+   <td align="left" >FedEx Forum</td>
+   <td align="right" >458,666</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="14">14</td>
+   <td align="left" ><a href="/teams/ATL/2014.html">Atlanta Hawks</a></td>
+   <td align="right" >27.6</td>
+   <td align="right" >27</td>
+   <td align="right" >23</td>
+   <td align="right" >0.96</td>
+   <td align="right" >-0.55</td>
+   <td align="right" >0.41</td>
+   <td align="right" >106.1</td>
+   <td align="right" >105.1</td>
+   <td align="right" >95.0</td>
+   <td align="right" >.257</td>
+   <td align="right" >.302</td>
+   <td align="right" >.517</td>
+   <td align="right" >14.3</td>
+   <td align="right" >21.7</td>
+   <td align="right" >.200</td>
+   <td align="right" >.506</td>
+   <td align="right" >14.5</td>
+   <td align="right" >74.2</td>
+   <td align="right" >.184</td>
+   <td align="left" >Philips Arena</td>
+   <td align="right" >360,762</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="15">15</td>
+   <td align="left" ><a href="/teams/WAS/2014.html">Washington Wizards</a></td>
+   <td align="right" >26.0</td>
+   <td align="right" >25</td>
+   <td align="right" >26</td>
+   <td align="right" >-0.16</td>
+   <td align="right" >-0.30</td>
+   <td align="right" >-0.46</td>
+   <td align="right" >103.9</td>
+   <td align="right" >104.1</td>
+   <td align="right" >93.6</td>
+   <td align="right" >.254</td>
+   <td align="right" >.243</td>
+   <td align="right" >.495</td>
+   <td align="right" >13.8</td>
+   <td align="right" >24.8</td>
+   <td align="right" >.186</td>
+   <td align="right" >.505</td>
+   <td align="right" >15.2</td>
+   <td align="right" >76.0</td>
+   <td align="right" >.217</td>
+   <td align="left" >Verizon Center</td>
+   <td align="right" >435,843</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="16">16</td>
+   <td align="left" ><a href="/teams/DEN/2014.html">Denver Nuggets</a></td>
+   <td align="right" >26.3</td>
+   <td align="right" >23</td>
+   <td align="right" >27</td>
+   <td align="right" >-0.94</td>
+   <td align="right" >0.32</td>
+   <td align="right" >-0.62</td>
+   <td align="right" >106.5</td>
+   <td align="right" >107.5</td>
+   <td align="right" >97.0</td>
+   <td align="right" >.306</td>
+   <td align="right" >.272</td>
+   <td align="right" >.498</td>
+   <td align="right" >13.8</td>
+   <td align="right" >27.5</td>
+   <td align="right" >.223</td>
+   <td align="right" >.490</td>
+   <td align="right" >12.4</td>
+   <td align="right" >73.6</td>
+   <td align="right" >.224</td>
+   <td align="left" >Pepsi Center</td>
+   <td align="right" >429,819</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="17">17</td>
+   <td align="left" ><a href="/teams/NOP/2014.html">New Orleans Pelicans</a></td>
+   <td align="right" >24.3</td>
+   <td align="right" >23</td>
+   <td align="right" >28</td>
+   <td align="right" >-1.69</td>
+   <td align="right" >0.60</td>
+   <td align="right" >-1.09</td>
+   <td align="right" >107.0</td>
+   <td align="right" >108.8</td>
+   <td align="right" >92.3</td>
+   <td align="right" >.273</td>
+   <td align="right" >.186</td>
+   <td align="right" >.491</td>
+   <td align="right" >12.9</td>
+   <td align="right" >28.1</td>
+   <td align="right" >.209</td>
+   <td align="right" >.510</td>
+   <td align="right" >13.8</td>
+   <td align="right" >73.7</td>
+   <td align="right" >.247</td>
+   <td align="left" >New Orleans Arena</td>
+   <td align="right" >407,320</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="18">18</td>
+   <td align="left" ><a href="/teams/SAC/2014.html">Sacramento Kings</a></td>
+   <td align="right" >25.0</td>
+   <td align="right" >22</td>
+   <td align="right" >30</td>
+   <td align="right" >-2.42</td>
+   <td align="right" >1.10</td>
+   <td align="right" >-1.33</td>
+   <td align="right" >106.5</td>
+   <td align="right" >109.1</td>
+   <td align="right" >94.2</td>
+   <td align="right" >.316</td>
+   <td align="right" >.233</td>
+   <td align="right" >.486</td>
+   <td align="right" >13.6</td>
+   <td align="right" >27.7</td>
+   <td align="right" >.245</td>
+   <td align="right" >.515</td>
+   <td align="right" >13.1</td>
+   <td align="right" >75.0</td>
+   <td align="right" >.231</td>
+   <td align="left" >Sleep Train Arena</td>
+   <td align="right" >433,294</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="19">19</td>
+   <td align="left" ><a href="/teams/CHI/2014.html">Chicago Bulls</a></td>
+   <td align="right" >28.6</td>
+   <td align="right" >25</td>
+   <td align="right" >26</td>
+   <td align="right" >-0.39</td>
+   <td align="right" >-0.96</td>
+   <td align="right" >-1.36</td>
+   <td align="right" >100.3</td>
+   <td align="right" >100.7</td>
+   <td align="right" >90.5</td>
+   <td align="right" >.287</td>
+   <td align="right" >.218</td>
+   <td align="right" >.461</td>
+   <td align="right" >14.7</td>
+   <td align="right" >28.2</td>
+   <td align="right" >.221</td>
+   <td align="right" >.475</td>
+   <td align="right" >14.0</td>
+   <td align="right" >75.3</td>
+   <td align="right" >.180</td>
+   <td align="left" >United Center</td>
+   <td align="right" >519,356</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="20">20</td>
+   <td align="left" ><a href="/teams/NYK/2014.html">New York Knicks</a></td>
+   <td align="right" >28.5</td>
+   <td align="right" >22</td>
+   <td align="right" >29</td>
+   <td align="right" >-1.75</td>
+   <td align="right" >-0.35</td>
+   <td align="right" >-2.09</td>
+   <td align="right" >106.5</td>
+   <td align="right" >108.4</td>
+   <td align="right" >90.6</td>
+   <td align="right" >.239</td>
+   <td align="right" >.294</td>
+   <td align="right" >.498</td>
+   <td align="right" >12.4</td>
+   <td align="right" >25.0</td>
+   <td align="right" >.179</td>
+   <td align="right" >.514</td>
+   <td align="right" >14.5</td>
+   <td align="right" >75.6</td>
+   <td align="right" >.256</td>
+   <td align="left" >Madison Square Garden (IV)</td>
+   <td align="right" >574,548</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="21">21</td>
+   <td align="left" ><a href="/teams/BRK/2014.html">Brooklyn Nets</a></td>
+   <td align="right" >30.4</td>
+   <td align="right" >20</td>
+   <td align="right" >29</td>
+   <td align="right" >-2.37</td>
+   <td align="right" >0.01</td>
+   <td align="right" >-2.36</td>
+   <td align="right" >105.2</td>
+   <td align="right" >107.8</td>
+   <td align="right" >91.7</td>
+   <td align="right" >.315</td>
+   <td align="right" >.278</td>
+   <td align="right" >.501</td>
+   <td align="right" >14.1</td>
+   <td align="right" >22.8</td>
+   <td align="right" >.241</td>
+   <td align="right" >.505</td>
+   <td align="right" >14.6</td>
+   <td align="right" >73.2</td>
+   <td align="right" >.245</td>
+   <td align="left" >Barclays Center</td>
+   <td align="right" >445,100</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="22">22</td>
+   <td align="left" ><a href="/teams/CHA/2014.html">Charlotte Bobcats</a></td>
+   <td align="right" >25.3</td>
+   <td align="right" >22</td>
+   <td align="right" >30</td>
+   <td align="right" >-2.10</td>
+   <td align="right" >-0.53</td>
+   <td align="right" >-2.63</td>
+   <td align="right" >101.2</td>
+   <td align="right" >103.4</td>
+   <td align="right" >93.0</td>
+   <td align="right" >.304</td>
+   <td align="right" >.198</td>
+   <td align="right" >.472</td>
+   <td align="right" >12.1</td>
+   <td align="right" >20.7</td>
+   <td align="right" >.222</td>
+   <td align="right" >.490</td>
+   <td align="right" >13.1</td>
+   <td align="right" >77.0</td>
+   <td align="right" >.186</td>
+   <td align="left" >Time Warner Cable Arena</td>
+   <td align="right" >393,381</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="23">23</td>
+   <td align="left" ><a href="/teams/DET/2014.html">Detroit Pistons</a></td>
+   <td align="right" >24.7</td>
+   <td align="right" >22</td>
+   <td align="right" >29</td>
+   <td align="right" >-1.96</td>
+   <td align="right" >-0.91</td>
+   <td align="right" >-2.87</td>
+   <td align="right" >105.3</td>
+   <td align="right" >107.3</td>
+   <td align="right" >95.2</td>
+   <td align="right" >.302</td>
+   <td align="right" >.225</td>
+   <td align="right" >.485</td>
+   <td align="right" >13.7</td>
+   <td align="right" >31.8</td>
+   <td align="right" >.201</td>
+   <td align="right" >.517</td>
+   <td align="right" >15.2</td>
+   <td align="right" >73.8</td>
+   <td align="right" >.218</td>
+   <td align="left" >The Palace of Auburn Hills</td>
+   <td align="right" >395,635</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="24">24</td>
+   <td align="left" ><a href="/teams/BOS/2014.html">Boston Celtics</a></td>
+   <td align="right" >25.6</td>
+   <td align="right" >20</td>
+   <td align="right" >33</td>
+   <td align="right" >-3.36</td>
+   <td align="right" >-0.62</td>
+   <td align="right" >-3.97</td>
+   <td align="right" >101.8</td>
+   <td align="right" >105.3</td>
+   <td align="right" >93.3</td>
+   <td align="right" >.250</td>
+   <td align="right" >.235</td>
+   <td align="right" >.475</td>
+   <td align="right" >14.4</td>
+   <td align="right" >26.6</td>
+   <td align="right" >.192</td>
+   <td align="right" >.489</td>
+   <td align="right" >13.4</td>
+   <td align="right" >73.5</td>
+   <td align="right" >.228</td>
+   <td align="left" >TD Garden</td>
+   <td align="right" >485,566</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="25">25</td>
+   <td align="left" ><a href="/teams/UTA/2014.html">Utah Jazz</a></td>
+   <td align="right" >24.8</td>
+   <td align="right" >15</td>
+   <td align="right" >36</td>
+   <td align="right" >-6.14</td>
+   <td align="right" >1.40</td>
+   <td align="right" >-4.74</td>
+   <td align="right" >102.8</td>
+   <td align="right" >109.5</td>
+   <td align="right" >91.2</td>
+   <td align="right" >.266</td>
+   <td align="right" >.235</td>
+   <td align="right" >.480</td>
+   <td align="right" >14.0</td>
+   <td align="right" >25.4</td>
+   <td align="right" >.198</td>
+   <td align="right" >.503</td>
+   <td align="right" >12.0</td>
+   <td align="right" >73.6</td>
+   <td align="right" >.230</td>
+   <td align="left" >EnergySolutions Arena</td>
+   <td align="right" >445,721</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="26">26</td>
+   <td align="left" ><a href="/teams/LAL/2014.html">Los Angeles Lakers</a></td>
+   <td align="right" >27.4</td>
+   <td align="right" >17</td>
+   <td align="right" >35</td>
+   <td align="right" >-5.19</td>
+   <td align="right" >0.26</td>
+   <td align="right" >-4.94</td>
+   <td align="right" >103.2</td>
+   <td align="right" >108.5</td>
+   <td align="right" >97.1</td>
+   <td align="right" >.268</td>
+   <td align="right" >.293</td>
+   <td align="right" >.496</td>
+   <td align="right" >13.8</td>
+   <td align="right" >21.1</td>
+   <td align="right" >.203</td>
+   <td align="right" >.496</td>
+   <td align="right" >11.8</td>
+   <td align="right" >71.2</td>
+   <td align="right" >.191</td>
+   <td align="left" >STAPLES Center</td>
+   <td align="right" >435,572</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="27">27</td>
+   <td align="left" ><a href="/teams/ORL/2014.html">Orlando Magic</a></td>
+   <td align="right" >25.0</td>
+   <td align="right" >17</td>
+   <td align="right" >36</td>
+   <td align="right" >-5.36</td>
+   <td align="right" >-0.16</td>
+   <td align="right" >-5.52</td>
+   <td align="right" >101.0</td>
+   <td align="right" >106.7</td>
+   <td align="right" >94.0</td>
+   <td align="right" >.265</td>
+   <td align="right" >.244</td>
+   <td align="right" >.484</td>
+   <td align="right" >13.9</td>
+   <td align="right" >21.3</td>
+   <td align="right" >.202</td>
+   <td align="right" >.501</td>
+   <td align="right" >12.9</td>
+   <td align="right" >75.5</td>
+   <td align="right" >.198</td>
+   <td align="left" >Amway Center</td>
+   <td align="right" >420,885</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="28">28</td>
+   <td align="left" ><a href="/teams/CLE/2014.html">Cleveland Cavaliers</a></td>
+   <td align="right" >24.9</td>
+   <td align="right" >16</td>
+   <td align="right" >36</td>
+   <td align="right" >-5.52</td>
+   <td align="right" >-0.84</td>
+   <td align="right" >-6.36</td>
+   <td align="right" >102.2</td>
+   <td align="right" >108.0</td>
+   <td align="right" >93.0</td>
+   <td align="right" >.263</td>
+   <td align="right" >.234</td>
+   <td align="right" >.467</td>
+   <td align="right" >13.2</td>
+   <td align="right" >27.7</td>
+   <td align="right" >.195</td>
+   <td align="right" >.513</td>
+   <td align="right" >13.4</td>
+   <td align="right" >75.6</td>
+   <td align="right" >.206</td>
+   <td align="left" >Quicken Loans Arena</td>
+   <td align="right" >442,892</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="29">29</td>
+   <td align="left" ><a href="/teams/MIL/2014.html">Milwaukee Bucks</a></td>
+   <td align="right" >24.9</td>
+   <td align="right" >10</td>
+   <td align="right" >41</td>
+   <td align="right" >-9.63</td>
+   <td align="right" >-0.42</td>
+   <td align="right" >-10.05</td>
+   <td align="right" >98.9</td>
+   <td align="right" >109.3</td>
+   <td align="right" >91.9</td>
+   <td align="right" >.243</td>
+   <td align="right" >.248</td>
+   <td align="right" >.465</td>
+   <td align="right" >14.6</td>
+   <td align="right" >25.6</td>
+   <td align="right" >.183</td>
+   <td align="right" >.508</td>
+   <td align="right" >13.6</td>
+   <td align="right" >71.1</td>
+   <td align="right" >.221</td>
+   <td align="left" >BMO Harris Bradley Center</td>
+   <td align="right" >338,716</td>
+</tr>
+<tr  class="">
+   <td align="right"  csk="30">30</td>
+   <td align="left" ><a href="/teams/PHI/2014.html">Philadelphia 76ers</a></td>
+   <td align="right" >23.5</td>
+   <td align="right" >11</td>
+   <td align="right" >42</td>
+   <td align="right" >-10.21</td>
+   <td align="right" >-0.20</td>
+   <td align="right" >-10.41</td>
+   <td align="right" >98.9</td>
+   <td align="right" >108.9</td>
+   <td align="right" >100.1</td>
+   <td align="right" >.262</td>
+   <td align="right" >.247</td>
+   <td align="right" >.473</td>
+   <td align="right" >15.0</td>
+   <td align="right" >25.3</td>
+   <td align="right" >.188</td>
+   <td align="right" >.519</td>
+   <td align="right" >14.5</td>
+   <td align="right" >73.0</td>
+   <td align="right" >.225</td>
+   <td align="left" >Wells Fargo Center</td>
+   <td align="right" >350,819</td>
+</tr>
+<tr  class="stat_average no_ranker">
+   <td align="right" ></td>
+   <td align="left"  csk="Zzz">League Average</td>
+   <td align="right" >26.6</td>
+   <td align="right" >26</td>
+   <td align="right" >26</td>
+   <td align="right" >0.00</td>
+   <td align="right" >0.00</td>
+   <td align="right" >0.00</td>
+   <td align="right" >105.8</td>
+   <td align="right" >105.8</td>
+   <td align="right" >94.0</td>
+   <td align="right" >.282</td>
+   <td align="right" >.255</td>
+   <td align="right" >.497</td>
+   <td align="right" >13.7</td>
+   <td align="right" >25.6</td>
+   <td align="right" >.213</td>
+   <td align="right" >.497</td>
+   <td align="right" >13.7</td>
+   <td align="right" >74.4</td>
+   <td align="right" >.213</td>
+   <td align="left" ></td>
+   <td align="right" >444,937</td>
+</tr>
+</tbody>
+</table>
+</div><!-- div.table_container#div_xxxx -->
+</div><div class="stw" id="all_awards">
+<div id="" class="table_heading">
+<h2 style="">Players of the Week &amp; Month</h2>
+<div class="table_heading_text"></div>
+</div>
+
+<table class="nav_table no_highlight stats_table">
+<tr class="valign_top">
+<td>
+<table>
+<tr><td colspan="3"><div class="align_center bold_text margin">November</div></td></tr>
+<tr valign="top">
+<td>Nov 4</td>
+<td>E</td>
+<td><a href="/players/c/cartemi01.html">Michael Carter-Williams</a><br>20.0/5.0/7.8</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/l/loveke01.html">Kevin Love</a><br>26.5/14.3/4.0</td>
+</tr>
+<tr valign="top">
+<td>Nov 11</td>
+<td>E</td>
+<td><a href="/players/g/georgpa01.html">Paul George</a><br>24.4/7.4/3.2</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/m/morrima02.html">Markieff Morris</a><br>22.8/8.0/2.3</td>
+</tr>
+<tr valign="top">
+<td>Nov 18</td>
+<td>E</td>
+<td><a href="/players/j/jamesle01.html">LeBron James</a><br>34.0/4.3/4.3</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/g/griffbl01.html">Blake Griffin</a><br>25.0/11.7/3.3</td>
+</tr>
+<tr valign="top">
+<td>Nov 25</td>
+<td>E</td>
+<td><a href="/players/w/walljo01.html">John Wall</a><br>24.3/4.8/8.8</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/a/aldrila01.html">LaMarcus Aldridge</a><br>20.3/12.0/3.3</td>
+</tr>
+<tr><td colspan="3"><div class="align_center bold_text margin">Players of the Month</div></td></tr>
+<tr class="valign_top"><td>Nov</td><td>E</td><td><a href="/players/g/georgpa01.html">Paul George</a><br>23.0/6.1/3.1</td></tr>
+<tr class="valign_top"><td>&nbsp</td><td>W</td><td><a href="/players/d/duranke01.html">Kevin Durant</a><br>26.9/8.1/5.4</td></tr>
+</table>
+</td>
+<td>
+<table>
+<tr><td colspan="3"><div class="align_center bold_text margin">December</div></td></tr>
+<tr valign="top">
+<td>Dec 2</td>
+<td>E</td>
+<td><a href="/players/j/jamesle01.html">LeBron James</a><br>27.0/6.3/5.0</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/d/duranke01.html">Kevin Durant</a><br>27.0/12.0/7.0</td>
+</tr>
+<tr valign="top">
+<td>Dec 9</td>
+<td>E</td>
+<td><a href="/players/c/crawfjo02.html">Jordan Crawford</a><br>23.3/3.0/6.7</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/a/aldrila01.html">LaMarcus Aldridge</a><br>25.3/11.8/3.8</td>
+</tr>
+<tr valign="top">
+<td>Dec 16</td>
+<td>E</td>
+<td><a href="/players/i/irvinky01.html">Kyrie Irving</a><br>29.0/1.3/6.3</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/a/aldrila01.html">LaMarcus Aldridge</a><br>26.0/17.7/3.0</td>
+</tr>
+<tr valign="top">
+<td>Dec 23</td>
+<td>E</td>
+<td><a href="/players/w/wadedw01.html">Dwyane Wade</a><br>26.0/4.0/3.0</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/g/griffbl01.html">Blake Griffin</a><br>25.7/12.0/3.7</td>
+</tr>
+<tr valign="top">
+<td>Dec 30</td>
+<td>E</td>
+<td><a href="/players/b/boshch01.html">Chris Bosh</a><br>23.8/8.3/1.0</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/d/duranke01.html">Kevin Durant</a><br>32.0/10.7/5.7</td>
+</tr>
+<tr><td colspan="3"><div class="align_center bold_text margin">Players of the Month</div></td></tr>
+<tr class="valign_top"><td>Dec</td><td>E</td><td><a href="/players/j/jamesle01.html">LeBron James</a><br>24.6/8.1/6.9</td></tr>
+<tr class="valign_top"><td>&nbsp</td><td>W</td><td><a href="/players/d/duranke01.html">Kevin Durant</a><br>29.4/9.0/4.5</td></tr>
+</table>
+</td>
+<td>
+<table>
+<tr><td colspan="3"><div class="align_center bold_text margin">January</div></td></tr>
+<tr valign="top">
+<td>Jan 6</td>
+<td>E</td>
+<td><a href="/players/y/youngth01.html">Thaddeus Young</a><br>23.8/6.3/2.5</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/l/leeda02.html">David Lee</a><br>24.5/10.5/3.5</td>
+</tr>
+<tr valign="top">
+<td>Jan 13</td>
+<td>E</td>
+<td><a href="/players/a/anthoca01.html">Carmelo Anthony</a><br>27.5/9.3/4.5</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/c/couside01.html">DeMarcus Cousins</a><br>25.0/12.7/3.3</td>
+</tr>
+<tr valign="top">
+<td>Jan 20</td>
+<td>E</td>
+<td><a href="/players/g/georgpa01.html">Paul George</a><br>28.8/5.0/2.3</td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>W</td>
+<td><a href="/players/d/duranke01.html">Kevin Durant</a><br>39.3/4.8/6.5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="all_leaders">
+<div id="" class="table_heading">
+<h2 style="">League Leaders</h2>
+<div class="table_heading_text"><a href="/about/rate_stat_req.html">Rate statistic requirements</a></div>
+</div>
+
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Minutes Played</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Minutes Played">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">2019</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/t/thompkl01.html">Klay Thompson</a>-GSW</td>
+<td class="align_right">1956</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/g/griffbl01.html">Blake Griffin</a>-LAC</td>
+<td class="align_right">1945</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">1937</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/a/aldrila01.html">LaMarcus Aldridge</a>-POR</td>
+<td class="align_right">1923</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Field Goals</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Field Goals">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">544</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/a/aldrila01.html">LaMarcus Aldridge</a>-POR</td>
+<td class="align_right">508</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/g/griffbl01.html">Blake Griffin</a>-LAC</td>
+<td class="align_right">482</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">470</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/a/anthoca01.html">Carmelo Anthony</a>-NYK</td>
+<td class="align_right">460</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Field Goal Attempts</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Field Goal Attempts">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/a/aldrila01.html">LaMarcus Aldridge</a>-POR</td>
+<td class="align_right">1093</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">1061</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/a/anthoca01.html">Carmelo Anthony</a>-NYK</td>
+<td class="align_right">1026</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/c/curryst01.html">Stephen Curry</a>-GSW</td>
+<td class="align_right">904</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/g/griffbl01.html">Blake Griffin</a>-LAC</td>
+<td class="align_right">898</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">3-Pt Field Goals</span></div>
+<table class="no_highlight wide_table" data-mobile-header="3-Pt Field Goals">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/c/curryst01.html">Stephen Curry</a>-GSW</td>
+<td class="align_right">167</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/t/thompkl01.html">Klay Thompson</a>-GSW</td>
+<td class="align_right">150</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/l/lillada01.html">Damian Lillard</a>-POR</td>
+<td class="align_right">146</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/m/matthwe02.html">Wesley Matthews</a>-POR</td>
+<td class="align_right">134</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/c/caldejo01.html">Jose Calderon</a>-DAL</td>
+<td class="align_right">128</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">3-Pt Field Goal Attempts</span></div>
+<table class="no_highlight wide_table" data-mobile-header="3-Pt Field Goal Attempts">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/c/curryst01.html">Stephen Curry</a>-GSW</td>
+<td class="align_right">408</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/t/thompkl01.html">Klay Thompson</a>-GSW</td>
+<td class="align_right">367</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/l/lillada01.html">Damian Lillard</a>-POR</td>
+<td class="align_right">364</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/c/crawfja01.html">Jamal Crawford</a>-LAC</td>
+<td class="align_right">337</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/g/georgpa01.html">Paul George</a>-IND</td>
+<td class="align_right">326</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Free Throws</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Free Throws">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">451</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">338</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/h/hardeja01.html">James Harden</a>-HOU</td>
+<td class="align_right">323</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/g/griffbl01.html">Blake Griffin</a>-LAC</td>
+<td class="align_right">320</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/c/couside01.html">DeMarcus Cousins</a>-SAC</td>
+<td class="align_right">294</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Free Throw Attempts</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Free Throw Attempts">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">513</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/h/howardw01.html">Dwight Howard</a>-HOU</td>
+<td class="align_right">495</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/g/griffbl01.html">Blake Griffin</a>-LAC</td>
+<td class="align_right">456</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">412</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/c/couside01.html">DeMarcus Cousins</a>-SAC</td>
+<td class="align_right">409</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Offensive Rebounds</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Offensive Rebounds">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/drumman01.html">Andre Drummond</a>-DET</td>
+<td class="align_right">273</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">228</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/l/lopezro01.html">Robin Lopez</a>-POR</td>
+<td class="align_right">206</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/n/noahjo01.html">Joakim Noah</a>-CHI</td>
+<td class="align_right">187</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/t/thomptr01.html">Tristan Thompson</a>-CLE</td>
+<td class="align_right">185</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Defensive Rebounds</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Defensive Rebounds">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">535</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">489</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/a/aldrila01.html">LaMarcus Aldridge</a>-POR</td>
+<td class="align_right">475</td>
+</tr>
+<tr class="">
+<td>&nbsp;</td>
+<td class="align_left"><a href="/players/h/howardw01.html">Dwight Howard</a>-HOU</td>
+<td class="align_right">475</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/g/griffbl01.html">Blake Griffin</a>-LAC</td>
+<td class="align_right">401</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Total Rebounds</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Total Rebounds">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">763</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/d/drumman01.html">Andre Drummond</a>-DET</td>
+<td class="align_right">659</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">650</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/h/howardw01.html">Dwight Howard</a>-HOU</td>
+<td class="align_right">646</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/a/aldrila01.html">LaMarcus Aldridge</a>-POR</td>
+<td class="align_right">599</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Assists</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Assists">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/c/curryst01.html">Stephen Curry</a>-GSW</td>
+<td class="align_right">443</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/r/rubiori01.html">Ricky Rubio</a>-MIN</td>
+<td class="align_right">429</td>
+</tr>
+<tr class="">
+<td>&nbsp;</td>
+<td class="align_left"><a href="/players/w/walljo01.html">John Wall</a>-WAS</td>
+<td class="align_right">429</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/jennibr01.html">Brandon Jennings</a>-DET</td>
+<td class="align_right">399</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/l/lawsoty01.html">Ty Lawson</a>-DEN</td>
+<td class="align_right">396</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Steals</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Steals">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/r/rubiori01.html">Ricky Rubio</a>-MIN</td>
+<td class="align_right">128</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/y/youngth01.html">Thaddeus Young</a>-PHI</td>
+<td class="align_right">105</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/w/walljo01.html">John Wall</a>-WAS</td>
+<td class="align_right">103</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/e/ellismo01.html">Monta Ellis</a>-DAL</td>
+<td class="align_right">95</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/g/georgpa01.html">Paul George</a>-IND</td>
+<td class="align_right">92</td>
+</tr>
+<tr class="">
+<td>&nbsp;</td>
+<td class="align_left"><a href="/players/m/millspa01.html">Paul Millsap</a>-ATL</td>
+<td class="align_right">92</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Blocks</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Blocks">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/davisan02.html">Anthony Davis</a>-NOP</td>
+<td class="align_right">134</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/i/ibakase01.html">Serge Ibaka</a>-OKC</td>
+<td class="align_right">133</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">128</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/h/hibbero01.html">Roy Hibbert</a>-IND</td>
+<td class="align_right">127</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/d/duncati01.html">Tim Duncan</a>-SAS</td>
+<td class="align_right">100</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Turnovers</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Turnovers">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/c/curryst01.html">Stephen Curry</a>-GSW</td>
+<td class="align_right">199</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">189</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/w/walljo01.html">John Wall</a>-WAS</td>
+<td class="align_right">181</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">173</td>
+</tr>
+<tr class="">
+<td>&nbsp;</td>
+<td class="align_left"><a href="/players/e/ellismo01.html">Monta Ellis</a>-DAL</td>
+<td class="align_right">173</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Personal Fouls</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Personal Fouls">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/h/howardw01.html">Dwight Howard</a>-HOU</td>
+<td class="align_right">185</td>
+</tr>
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_left"><a href="/players/g/griffbl01.html">Blake Griffin</a>-LAC</td>
+<td class="align_right">185</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">179</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/johnsam01.html">Amir Johnson</a>-TOR</td>
+<td class="align_right">178</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/t/thompja02.html">Jason Thompson</a>-SAC</td>
+<td class="align_right">177</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Points</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Points">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">1656</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/a/anthoca01.html">Carmelo Anthony</a>-NYK</td>
+<td class="align_right">1302</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/g/griffbl01.html">Blake Griffin</a>-LAC</td>
+<td class="align_right">1293</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">1288</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">1260</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Field Goal Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Field Goal Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">.656</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/d/drumman01.html">Andre Drummond</a>-DET</td>
+<td class="align_right">.613</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/h/howardw01.html">Dwight Howard</a>-HOU</td>
+<td class="align_right">.578</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">.572</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/h/horfoal01.html">Al Horford</a>-ATL</td>
+<td class="align_right">.567</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">3-Pt Field Goal Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="3-Pt Field Goal Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/m/morroan01.html">Anthony Morrow</a>-NOP</td>
+<td class="align_right">.484</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/m/marshke01.html">Kendall Marshall</a>-LAL</td>
+<td class="align_right">.478</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/k/korveky01.html">Kyle Korver</a>-ATL</td>
+<td class="align_right">.464</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/t/tollian01.html">Anthony Tolliver</a>-CHA</td>
+<td class="align_right">.450</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/c/caldejo01.html">Jose Calderon</a>-DAL</td>
+<td class="align_right">.449</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Free Throw Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Free Throw Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/r/redicjj01.html">J.J. Redick</a>-LAC</td>
+<td class="align_right">.914</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/n/nowitdi01.html">Dirk Nowitzki</a>-DAL</td>
+<td class="align_right">.912</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/a/augusdj01.html">D.J. Augustin</a>-TOT</td>
+<td class="align_right">.884</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/l/lillada01.html">Damian Lillard</a>-POR</td>
+<td class="align_right">.883</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">.879</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Minutes Per Game</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Minutes Per Game">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/a/anthoca01.html">Carmelo Anthony</a>-NYK</td>
+<td class="align_right">38.6</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/h/hardeja01.html">James Harden</a>-HOU</td>
+<td class="align_right">38.4</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">38.1</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/d/derozde01.html">DeMar DeRozan</a>-TOR</td>
+<td class="align_right">37.8</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/p/parsoch01.html">Chandler Parsons</a>-HOU</td>
+<td class="align_right">37.7</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Points Per Game</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Points Per Game">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">31.2</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/a/anthoca01.html">Carmelo Anthony</a>-NYK</td>
+<td class="align_right">27.1</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">26.3</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">25.7</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/c/curryst01.html">Stephen Curry</a>-GSW</td>
+<td class="align_right">24.6</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Rebounds Per Game</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Rebounds Per Game">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">14.1</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">13.3</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/d/drumman01.html">Andre Drummond</a>-DET</td>
+<td class="align_right">12.9</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/h/howardw01.html">Dwight Howard</a>-HOU</td>
+<td class="align_right">12.4</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/c/couside01.html">DeMarcus Cousins</a>-SAC</td>
+<td class="align_right">11.7</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Assists Per Game</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Assists Per Game">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/p/paulch01.html">Chris Paul</a>-LAC</td>
+<td class="align_right">11.1</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/c/curryst01.html">Stephen Curry</a>-GSW</td>
+<td class="align_right">9.0</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/l/lawsoty01.html">Ty Lawson</a>-DEN</td>
+<td class="align_right">8.8</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/w/walljo01.html">John Wall</a>-WAS</td>
+<td class="align_right">8.4</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/r/rubiori01.html">Ricky Rubio</a>-MIN</td>
+<td class="align_right">8.2</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Steals Per Game</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Steals Per Game">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/p/paulch01.html">Chris Paul</a>-LAC</td>
+<td class="align_right">2.5</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/r/rubiori01.html">Ricky Rubio</a>-MIN</td>
+<td class="align_right">2.5</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/c/cartemi01.html">Michael Carter-Williams</a>-PHI</td>
+<td class="align_right">2.1</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/y/youngth01.html">Thaddeus Young</a>-PHI</td>
+<td class="align_right">2.1</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/w/walljo01.html">John Wall</a>-WAS</td>
+<td class="align_right">2.0</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Blocks Per Game</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Blocks Per Game">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/davisan02.html">Anthony Davis</a>-NOP</td>
+<td class="align_right">3.1</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/i/ibakase01.html">Serge Ibaka</a>-OKC</td>
+<td class="align_right">2.5</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/h/hibbero01.html">Roy Hibbert</a>-IND</td>
+<td class="align_right">2.5</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">2.4</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/h/hensojo01.html">John Henson</a>-MIL</td>
+<td class="align_right">2.2</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Player Efficiency Rating</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Player Efficiency Rating">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">30.9</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">28.8</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">27.3</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/p/paulch01.html">Chris Paul</a>-LAC</td>
+<td class="align_right">27.2</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/d/davisan02.html">Anthony Davis</a>-NOP</td>
+<td class="align_right">26.5</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">True Shooting Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="True Shooting Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">.652</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/k/korveky01.html">Kyle Korver</a>-ATL</td>
+<td class="align_right">.652</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">.643</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/b/bogutan01.html">Andrew Bogut</a>-GSW</td>
+<td class="align_right">.619</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">.617</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Effective Field Goal Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Effective Field Goal Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">.656</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/d/drumman01.html">Andre Drummond</a>-DET</td>
+<td class="align_right">.613</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">.611</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/b/belinma01.html">Marco Belinelli</a>-SAS</td>
+<td class="align_right">.594</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/d/diawbo01.html">Boris Diaw</a>-SAS</td>
+<td class="align_right">.593</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Offensive Rebound Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Offensive Rebound Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/drumman01.html">Andre Drummond</a>-DET</td>
+<td class="align_right">17.3</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/h/hilljo01.html">Jordan Hill</a>-LAL</td>
+<td class="align_right">14.5</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/l/lopezro01.html">Robin Lopez</a>-POR</td>
+<td class="align_right">13.7</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">13.5</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/d/dalemsa01.html">Samuel Dalembert</a>-DAL</td>
+<td class="align_right">13.2</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Defensive Rebound Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Defensive Rebound Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">30.6</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/b/bogutan01.html">Andrew Bogut</a>-GSW</td>
+<td class="align_right">30.0</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/c/couside01.html">DeMarcus Cousins</a>-SAC</td>
+<td class="align_right">29.9</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">29.6</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/d/duncati01.html">Tim Duncan</a>-SAS</td>
+<td class="align_right">29.2</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Total Rebound Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Total Rebound Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/drumman01.html">Andre Drummond</a>-DET</td>
+<td class="align_right">22.1</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">21.8</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/b/bogutan01.html">Andrew Bogut</a>-GSW</td>
+<td class="align_right">21.1</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/c/couside01.html">DeMarcus Cousins</a>-SAC</td>
+<td class="align_right">20.3</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/h/howardw01.html">Dwight Howard</a>-HOU</td>
+<td class="align_right">20.1</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Assist Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Assist Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/p/paulch01.html">Chris Paul</a>-LAC</td>
+<td class="align_right">53.4</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/c/curryst01.html">Stephen Curry</a>-GSW</td>
+<td class="align_right">41.3</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/l/lawsoty01.html">Ty Lawson</a>-DEN</td>
+<td class="align_right">39.3</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/w/walljo01.html">John Wall</a>-WAS</td>
+<td class="align_right">39.0</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/h/holidjr01.html">Jrue Holiday</a>-NOP</td>
+<td class="align_right">38.5</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Steal Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Steal Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/r/rubiori01.html">Ricky Rubio</a>-MIN</td>
+<td class="align_right">3.9</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/p/paulch01.html">Chris Paul</a>-LAC</td>
+<td class="align_right">3.6</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/c/chalmma01.html">Mario Chalmers</a>-MIA</td>
+<td class="align_right">3.1</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/y/youngth01.html">Thaddeus Young</a>-PHI</td>
+<td class="align_right">3.0</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/l/leonaka01.html">Kawhi Leonard</a>-SAS</td>
+<td class="align_right">3.0</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Block Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Block Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/davisan02.html">Anthony Davis</a>-NOP</td>
+<td class="align_right">7.2</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/h/hensojo01.html">John Henson</a>-MIL</td>
+<td class="align_right">6.3</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/i/ibakase01.html">Serge Ibaka</a>-OKC</td>
+<td class="align_right">6.2</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/h/hibbero01.html">Roy Hibbert</a>-IND</td>
+<td class="align_right">6.1</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/b/bogutan01.html">Andrew Bogut</a>-GSW</td>
+<td class="align_right">5.2</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Turnover Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Turnover Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/c/caldwke01.html">Kentavious Caldwell-Pope</a>-DET</td>
+<td class="align_right">5.4</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/c/cunnida01.html">Dante Cunningham</a>-MIN</td>
+<td class="align_right">6.3</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/h/hardati02.html">Tim Hardaway</a>-NYK</td>
+<td class="align_right">6.6</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/jeffeal01.html">Al Jefferson</a>-CHA</td>
+<td class="align_right">6.7</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/n/nowitdi01.html">Dirk Nowitzki</a>-DAL</td>
+<td class="align_right">7.1</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Usage Pct</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Usage Pct">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/c/couside01.html">DeMarcus Cousins</a>-SAC</td>
+<td class="align_right">32.7</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">32.5</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/a/anthoca01.html">Carmelo Anthony</a>-NYK</td>
+<td class="align_right">32.2</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">30.1</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/a/aldrila01.html">LaMarcus Aldridge</a>-POR</td>
+<td class="align_right">29.4</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Offensive Rating</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Offensive Rating">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/l/lopezro01.html">Robin Lopez</a>-POR</td>
+<td class="align_right">124.4</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">123.6</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/p/paulch01.html">Chris Paul</a>-LAC</td>
+<td class="align_right">123.2</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/m/matthwe02.html">Wesley Matthews</a>-POR</td>
+<td class="align_right">121.8</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">120.8</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Defensive Rating</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Defensive Rating">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/h/hibbero01.html">Roy Hibbert</a>-IND</td>
+<td class="align_right">94.4</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/g/georgpa01.html">Paul George</a>-IND</td>
+<td class="align_right">94.9</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/b/bogutan01.html">Andrew Bogut</a>-GSW</td>
+<td class="align_right">95.1</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/w/westda01.html">David West</a>-IND</td>
+<td class="align_right">95.6</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/n/noahjo01.html">Joakim Noah</a>-CHI</td>
+<td class="align_right">96.3</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Offensive Win Shares</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Offensive Win Shares">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">10.2</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">7.9</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">7.1</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/d/dragigo01.html">Goran Dragic</a>-PHO</td>
+<td class="align_right">5.9</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/c/curryst01.html">Stephen Curry</a>-GSW</td>
+<td class="align_right">5.9</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Defensive Win Shares</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Defensive Win Shares">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/g/georgpa01.html">Paul George</a>-IND</td>
+<td class="align_right">4.4</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/j/jordade01.html">DeAndre Jordan</a>-LAC</td>
+<td class="align_right">3.9</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/h/hibbero01.html">Roy Hibbert</a>-IND</td>
+<td class="align_right">3.8</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/n/noahjo01.html">Joakim Noah</a>-CHI</td>
+<td class="align_right">3.7</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/w/westda01.html">David West</a>-IND</td>
+<td class="align_right">3.5</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Win Shares</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Win Shares">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">13.5</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">10.0</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">9.6</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/g/griffbl01.html">Blake Griffin</a>-LAC</td>
+<td class="align_right">8.6</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/c/curryst01.html">Stephen Curry</a>-GSW</td>
+<td class="align_right">8.6</td>
+</tr>
+</table>
+</td>
+<td class="stw align_center valign_top">
+<div class="margin_bottom"><span class="bold_text">Win Shares Per 48 Minutes</span></div>
+<table class="no_highlight wide_table" data-mobile-header="Win Shares Per 48 Minutes">
+<tr class="bold_text">
+<td class="align_right">1.</td>
+<td class="align_left"><a href="/players/d/duranke01.html">Kevin Durant</a>-OKC</td>
+<td class="align_right">.322</td>
+</tr>
+<tr class="">
+<td class="align_right">2.</td>
+<td class="align_left"><a href="/players/p/paulch01.html">Chris Paul</a>-LAC</td>
+<td class="align_right">.279</td>
+</tr>
+<tr class="">
+<td class="align_right">3.</td>
+<td class="align_left"><a href="/players/j/jamesle01.html">LeBron James</a>-MIA</td>
+<td class="align_right">.262</td>
+</tr>
+<tr class="">
+<td class="align_right">4.</td>
+<td class="align_left"><a href="/players/l/loveke01.html">Kevin Love</a>-MIN</td>
+<td class="align_right">.260</td>
+</tr>
+<tr class="">
+<td class="align_right">5.</td>
+<td class="align_left"><a href="/players/c/curryst01.html">Stephen Curry</a>-GSW</td>
+<td class="align_right">.223</td>
+</tr>
+</table>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+</div>
+<div class="stw" id="all_honors">
+</td>
+</tr>
+</table>
+</div>
+<div class="stw" id="all_all_star">
+</div></div>
+<div id="sr_js"></div>
+<script type="text/javascript">
+(function () {
+    var sr_js_file = 'http://d2ft4b0ve1aur1.cloudfront.net/js-352/sr-bbr-min.js';
+    if (sr_gzipEnabled) {
+       sr_js_file = 'http://d2ft4b0ve1aur1.cloudfront.net/js-352/sr-bbr-min.js.jgz';
+    }
+    var sr_script_tag = document.getElementById("sr_js");         
+    if (sr_script_tag) {
+	var scriptStyles = document.createElement("script");
+	scriptStyles.type = "text/javascript";
+	scriptStyles.src = sr_js_file;
+	sr_script_tag.appendChild(scriptStyles);
+	//alert('adding js to footer:'+sr_js_file);
+    }
+}());
+</script>
+
+<div id="site_footer">
+<script type="text/javascript">
+if (location.pathname != '/') {
+   googletag.cmd.push(function() {
+      googletag.defineSlot('/117033896/sr_pagebottom', [[728, 90], [970, 90]], 'sr_pagebottom').addService(googletag.pubads());
+      googletag.pubads().set("adsense_channel_ids", "5516762052");
+      googletag.enableServices();
+   });
+}
+else {
+    // for the front page.
+   googletag.cmd.push(function() {
+      googletag.defineSlot('/5702/yb_Sports_Reference', [728,90], 'sr_pagebottom').addService(googletag.pubads());
+      googletag.enableServices();
+  });
+}
+</script>
+<!-- sr_pagebottom -->
+<div id="sr_pagebottom" style="width:970px; height:90px;" class="margin_bottom">
+<script type="text/javascript">
+   googletag.cmd.push(function() { googletag.display('sr_pagebottom'); });
+</script>
+</div>
+
+
+<div id="sr_footer" class="margin_top">
+Copyright &copy; 2000-2014 <a href="http://www.sports-reference.com">Sports
+Reference LLC</a>. All rights reserved.
+
+<form class="inline margin_left" method="get" name="f_footer" action="/player_search.cgi">
+<input x-webkit-speech type="text" id="search_footer" name="search" class="search long"> 
+<input type="submit" value="Search" class="submit">
+</form>
+
+<div class="margin_top large_text"><a href="http://www.sports-reference.com/feedback/">Question, Comment, Feedback or Correction?</a></div>
+
+<div class="margin_top">Tools: <a href="/linker/">Automatic Player Linker</a>&nbsp;|&nbsp;<a
+href="/friv/linkify.cgi">Basic Player Linker</a></div>
+
+<div class="blockquote clear_both italic_text margin_top">
+Current season data provided by <a href="http://www.xmlteam.com">XML
+Team</a>&nbsp;|&nbsp;The NBA identifications are used with the permission
+of NBA Properties, Inc.
+</div>
+
+<div class="blockquote clear_both margin_top">
+<a href="http://www.sports-reference.com/">A Sports Reference Site</a>:
+<a href="/about/">About BBR</a>&nbsp;|
+<a href="http://www.sports-reference.com/privacy.shtml">Privacy Statement</a>&nbsp;|
+<a href="http://www.sports-reference.com/termsofuse.shtml">Conditions &amp; Terms of Service</a> | 
+<a href="http://www.sports-reference.com/data_use.shtml">Use of Data</a>
+</div>
+
+
+
+
+<div class="clear_both align_center large_text bold_text margin">Part of the <a href="http://www.yardbarker.com/"><img border="0" width="300" src="http://d2ft4b0ve1aur1.cloudfront.net/images-349/ybn_badge_300.gif" height="33"/></a> Network</div>
+
+
+
+
+</div><!-- div#sr_footer -->
+</div><!-- div#site_footer -->
+
+<script defersrc="http://network.yardbarker.com/network/ybn_pixel/12488" type="text/deferscript"></script> <noscript></noscript>
+
+
+<!-- Google +1 code -->
+<script type="text/deferscript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<!-- Google Analytics code -->
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+   var pageTracker = _gat._createTracker("UA-1890630-2");
+   pageTracker._trackPageview();
+   pageTracker._trackPageLoadTime();
+   var sr_tracker = _gat._createTracker("UA-1890630-9");
+   sr_tracker._setDomainName('none'); 
+   sr_tracker._setAllowLinker(true); 
+   sr_tracker._setAllowHash(false);
+   sr_tracker._setCustomVar(1,"site","bbr",3);
+   sr_tracker._trackPageview();
+} catch(err) {}</script>
+              
+
+<!-- Facebook code -->
+<script type="text/deferscript">
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=154659497934788";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+</div>
+</body>
+</html>

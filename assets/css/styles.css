@@ -1,0 +1,167 @@
+/******	RESET		******/
+
+html, body, div, span, applet, object, iframe, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+h1, h2, h3, h4, h5, h6,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	background: transparent;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/***** 		GLOBAL	 *****/
+
+.width100 { width: 100%; }
+.width75 { width: 75%; }
+.width50 { width: 50%; }
+.width33 { width: 33%; text-align: center;}
+.width25 { width: 25%; }
+
+.clear         {clear:both;}
+.float-left    {float:left;}
+.float-right   {float:right;}
+
+.text-left     {text-align:left;}
+.text-right    {text-align:right;}
+.text-center   {text-align:center;}
+.text-justify  {text-align:justify;}
+
+.bold          {font-weight:bold;}
+.italic        {font-style:italic;}
+.underline     { border-bottom:1px solid; }
+.highlight     {background:#ffc;}
+.upper		{text-transform: uppercase;}
+
+.pointer {cursor: pointer;}
+
+.img-left      { float:left;margin:4px 10px 4px 0; }
+.img-right     { float:right;margin:4px 0 4px 10px; }
+
+.nopadding     {padding:0;}
+.noindent      {margin-left:0;padding-left:0;}
+.nobullet      {list-style:none;list-style-image:none;}
+
+.hidden {display: none;}
+.unhidden {display: block;}
+
+.small {font-size: 0.75em;}
+
+/******	FONTS		******/
+/*
+@font-face {
+	font-family: FiraSans;
+	src: url('../fonts/FiraSansOT-Medium.otf') format('opentype');
+}
+@font-face {
+	font-family: FiraSans-Light;
+	src: url('../fonts/FiraSansOT-Light.otf') format('opentype');
+}
+*/
+/******	GENERAL		******/
+
+p {
+	font-family: FiraSans-Light;
+	margin-bottom: 10px;
+}
+
+/******	PAGE		******/
+
+body {
+	background: #333333;
+	font-family: 'Century Gothic', FiraSans, Arial;
+	color: #FAFBFF;
+	font-size: 12px;
+}
+
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 760px;
+}
+
+#header {
+	width: 760px;
+	float: left;
+	margin-top: 15px;
+	overflow: hidden;
+}
+
+#bin-scroll {
+	font-size: 10px;
+	color: #C3C3C3;
+	width: 100%; 
+	text-wrap: unrestricted; 
+	text-align: center;
+}
+
+#header h1 {
+/*	color: #00CC00; */
+	color: #00B000;
+	display: block;
+	font-size: 40px;
+	padding-bottom: 3px;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	text-decoration: none;
+	padding: 10px;
+}
+
+#content {
+	width: 760px;
+	margin-top: 5px;
+	padding-top: 5px;
+	min-height: 400px;
+}
+
+table, thead, tbody, tr, th, td {
+	border: 1px solid #242425;
+	border-collapse: collapse;
+	padding: 2px 3px;
+}
+
+table th:hover, button:hover {
+	cursor: pointer;
+}
+
+input.short {
+	width: 25px;
+}

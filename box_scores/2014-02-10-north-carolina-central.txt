@@ -1,0 +1,2199 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/website" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en">
+<head>
+<title>Florida A&amp;M vs. North Carolina Central Box Score, February 10, 2014 | College Basketball at Sports-Reference.com</title>
+<script type="text/javascript">var sr_gzipEnabled = false;</script>
+<script type="text/javascript" src="http://d2ft4b0ve1aur1.cloudfront.net/js-352/sr.gzipcheck.js.jgz"></script>
+
+<noscript>
+  <link type="text/css" rel="stylesheet" href="http://d2ft4b0ve1aur1.cloudfront.net/css-352/sr-cbb-min.css">
+</noscript>
+<script type="text/javascript">
+(function () {
+    var sr_css_file = 'http://d2ft4b0ve1aur1.cloudfront.net/css-352/sr-cbb-min.css';
+    if (sr_gzipEnabled) {
+       sr_css_file = 'http://d2ft4b0ve1aur1.cloudfront.net/css-352/sr-cbb-min-gz.css';
+    }
+    var head = document.getElementsByTagName("head")[0];
+    if (head) {
+	var scriptStyles = document.createElement("link");
+	scriptStyles.rel = "stylesheet";
+	scriptStyles.type = "text/css";
+	scriptStyles.href = sr_css_file;
+	head.appendChild(scriptStyles);
+	//alert('adding css to header:'+sr_css_file);
+    }
+}());
+</script>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="college, ncaa, basketball, stats, statistics, history, 2014-02-10, Florida A&amp;M, North Carolina Central, box score">
+
+ <meta property="fb:admins"     content="34208645" />
+ <meta property="fb:page_id"    content="178031712239487" />  
+ <meta property="og:site_name"  content="College Basketball at Sports-Reference.com"> 
+ <meta property="og:image"      content="http://d2ft4b0ve1aur1.cloudfront.net/images-352/SR-College-Basketball.png"> 
+ <meta itemprop="image" content="http://d2ft4b0ve1aur1.cloudfront.net/images-352/SR-College-Basketball.png"> 
+ 
+
+<div></div><!-- to prevent hangs on some browsers -->
+
+<link rel="icon"          type="image/vnd.microsoft.icon" href="http://d2ft4b0ve1aur1.cloudfront.net/images-352/favicon-cbb.ico">
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://d2ft4b0ve1aur1.cloudfront.net/images-352/favicon-cbb.ico">
+<link rel="search"        type="application/opensearchdescription+xml" href="http://d2ft4b0ve1aur1.cloudfront.net/os-352/opensearch-cbb.xml" title="CBB-Ref Search">
+<!--[if lte IE 6]>
+<style type="text/css">
+.hovermenu,.hovermenu_ajax,.sub_index,#quick_index {display:none!important}
+</style>
+<![endif]-->
+<!--  ASYNCHRONOUS:googletag -->
+<script type='text/javascript'>
+   var googletag = googletag || {};
+   googletag.cmd = googletag.cmd || [];
+   (function() {
+      var gads = document.createElement('script');
+      gads.async = true;
+      gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+   })();
+</script>
+
+</head>
+<body>
+<div id="page_container">
+<div id="top_nav">
+<div id="site_header">
+
+    <div id="sr_header">
+
+        <div class="float_right">
+            <a href="http://www.sports-reference.com">S-R</a>:
+            <a href="http://www.baseball-reference.com">MLB</a> |
+            <a href="http://www.basketball-reference.com/">NBA</a> &#183;
+            <span class="bold_text">CBB</span> |
+            <a href="http://www.pro-football-reference.com">NFL</a> &#183;
+            <a href="http://www.sports-reference.com/cfb/">CFB</a> |
+            <a href="http://www.hockey-reference.com">NHL</a> |
+            <a href="http://www.sports-reference.com/olympics/">Oly</a> |
+            <a href="http://www.sports-reference.com/blog/">Blog</a> &#183;
+            <a href="http://www.sports-reference.com/feedback/">Q?</a>
+        </div>
+
+        <div class="clear_both clearfix float_right margin_left padding_top_half">
+            <a class="sprite-twitter" title="Follow us on Twitter" href="http://twitter.com/sports_ref"></a>&nbsp;<a class="sprite-facebook" title="Become a Fan on Facebook" href="http://www.facebook.com/SR.CollegeBasketball"></a>
+        </div>
+
+        <div class="float_right">
+            <form method="get" id="f" name="f" action="/cbb/search.cgi">
+                <input x-webkit-speech type="search" placeholder="" id="search" name="search" class="search long"> 
+                <input type="submit" value="Search" class="submit">
+            </form>
+        </div>
+
+    </div>
+
+    <div class="float_left padding_bottom_half">
+        <a href="/cbb/"><img src="http://d2ft4b0ve1aur1.cloudfront.net/images-307/SR-College-Basketball-small.png" width="470" height="49" class="border0" alt="College Basketball Statistics & History | College Basketball at Sports-Reference.com"></a>
+    </div>
+
+</div>
+
+<div id="quick_index">
+  <ul class="hovermenu_ajax navbar">
+   <li class=""><a href="/cbb/play-index/">play index</a><ul class="li_margin" id="header_playindex"></ul></li>
+   <li class="active"><a href="/cbb/boxscores/">box scores</a><ul class="li_margin" id="header_boxscores"></ul></li>
+   <li class=""><a href="/cbb/players/">players</a><ul class="li_margin" id="header_players"></ul></li>
+   <li class=""><a href="/cbb/schools/">schools</a><ul class="li_margin" id="header_schools"></ul></li>
+   <li class=""><a href="/cbb/seasons/">seasons</a><ul class="li_margin" id="header_seasons"></ul></li>
+   <li class=""><a href="/cbb/conferences/">conferences</a><ul class="li_margin" id="header_conferences"></ul></li>
+   <li class=""><a href="/cbb/coaches/">coaches</a><ul class="li_margin" id="header_coaches"></ul></li>
+   <li class=""><a href="/cbb/leaders/">leaders</a><ul class="li_margin" id="header_leaders"></ul></li>
+   <li class=""><a href="/cbb/awards/">awards</a><ul class="li_margin" id="header_awards"></ul></li>
+   <li class=""><a href="/cbb/postseason/">postseason</a><ul class="li_margin" id="header_postseason"></ul></li>
+   <li class=""><a href="">more [+]</a>
+    <ul class="li_margin" id="header_more_links">
+	<li>
+	  <a class="bold_text" href="/cbb/about/">About</a>: 
+	  <a href="/cbb/about/ws.html">Win Shares</a>,
+	  <a href="/cbb/about/glossary.html#srs">Simple Rating System</a>,
+	  <a href="/cbb/about/glossary.html">Glossary</a>,
+	  <a href="/cbb/about/sources.html">Sources</a>,
+	  <a href="/cbb/about/contact.html">Contacts</a>,
+	  <a href="/cbb/about/philosophy.html">Philosophy</a>
+	</li>
+	<li><a class="bold_text" href="http://www.sports-reference.com/blog/category/cbb-at-sports-reference/">Blog</a>: News and notes about CBB at Sports-Reference.com</li>
+
+    </ul>
+   </li>
+  </ul>
+</div>
+<div id="you_are_here">
+<p><span class="bold_text">You Are Here</span>&nbsp;&gt;&nbsp;<a href="/cbb/">SR/CBB</a>&nbsp;&gt;&nbsp;<a href="/cbb/boxscores/">Box Scores</a>&nbsp;&gt;&nbsp;<a href="/cbb/boxscores/index.cgi?month=2&amp;day=10&amp;year=2014">February 10, 2014</a>&nbsp;&gt;&nbsp;<span class="bold_text">Florida A&amp;M vs. North Carolina Central</span></p>
+</div>
+<div class="site_news"><p><span class="bold_text">News:</span> <span class="poptip" tip="Though we've been quietly updating these data sets for several weeks, consider this our formal announcement of 2014 play-by-play and shooting data. You can find this data in several places on our site. For example, our boxscores now include links for play logs, shot charts, and plus minus summaries. You can find these links on [&#8230;]">s-r blog:<a onClick="try { pageTracker._trackEvent('blog','click','area-yah'); } catch (err) {};"
+ href="http://www.sports-reference.com/blog/2014/02/nba-play-by-play-and-shooting-data-for-2014/">NBA Play-by-Play and Shooting Data for 2014</a> <span class="small_text"></span></span></p></div>
+
+</div>
+
+<!-- div.#restofsite_728x90_atf1.advert728x90 -->
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/5702/yb_Sports_Reference', [728,90], 'restofsite_728x90_atf1').addService(googletag.pubads());
+
+googletag.enableServices();
+});
+</script>
+<div id="restofsite_728x90_atf1" class="advert728x90">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('restofsite_728x90_atf1'); });
+</script>
+</div>
+<!-- /div.#restofsite_728x90_atf1.advert728x90 -->
+
+<div id="page_content">
+<div class="margin_top"><span class="bold_text small_text tooltip" onclick="$('#scoreboard_div').toggle()">&raquo; Show/Hide Scoreboard for February 10, 2014</span></div>
+<div id="scoreboard_div" style="display:none;">
+<div class="table_heading">
+<h2 style="">24 Games</h2>
+<div class="table_heading_text">Click <span class="bold_text">Final</span> for box score, if available</div>
+</div>
+<table class="margin_top medium_text">
+<tr>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td>(7) <a href="/cbb/schools/kansas/2014.html">Kansas</a></td>
+<td class="align_right">82</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-kansas-state.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/kansas-state/2014.html">Kansas State</a></td>
+<td class="align_right">85</td>
+<td class="align_right">OT</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">OT</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/kansas/2014.html">Kansas</a></td><td class="align_right">29</td>
+<td class="align_right">40</td>
+<td class="align_right">13</td>
+<td class="align_right">82</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/kansas-state/2014.html">Kansas State</a></td>
+<td class="align_right">29</td>
+<td class="align_right">40</td>
+<td class="align_right">16</td>
+<td class="align_right">85</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td>(11) <a href="/cbb/schools/iowa-state/2014.html">Iowa State</a></td>
+<td class="align_right">77</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-west-virginia.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/west-virginia/2014.html">West Virginia</a></td>
+<td class="align_right">102</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/iowa-state/2014.html">Iowa State</a></td><td class="align_right">33</td>
+<td class="align_right">44</td>
+<td class="align_right">77</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/west-virginia/2014.html">West Virginia</a></td>
+<td class="align_right">52</td>
+<td class="align_right">50</td>
+<td class="align_right">102</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/maryland/2014.html">Maryland</a></td>
+<td class="align_right">53</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-virginia.html">Final</a></td>
+</tr>
+<tr>
+<td>(17) <a href="/cbb/schools/virginia/2014.html">Virginia</a></td>
+<td class="align_right">61</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/maryland/2014.html">Maryland</a></td><td class="align_right">26</td>
+<td class="align_right">27</td>
+<td class="align_right">53</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/virginia/2014.html">Virginia</a></td>
+<td class="align_right">25</td>
+<td class="align_right">36</td>
+<td class="align_right">61</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/alabama-state/2014.html">Alabama State</a></td>
+<td class="align_right">71</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-arkansas-pine-bluff.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/arkansas-pine-bluff/2014.html">Arkansas-Pine Bluff</a></td>
+<td class="align_right">76</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/alabama-state/2014.html">Alabama State</a></td><td class="align_right">19</td>
+<td class="align_right">52</td>
+<td class="align_right">71</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/arkansas-pine-bluff/2014.html">Arkansas-Pine Bluff</a></td>
+<td class="align_right">35</td>
+<td class="align_right">41</td>
+<td class="align_right">76</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/western-kentucky/2014.html">Western Kentucky</a></td>
+<td class="align_right">58</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-arkansas-state.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/arkansas-state/2014.html">Arkansas State</a></td>
+<td class="align_right">72</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/western-kentucky/2014.html">Western Kentucky</a></td><td class="align_right">20</td>
+<td class="align_right">38</td>
+<td class="align_right">58</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/arkansas-state/2014.html">Arkansas State</a></td>
+<td class="align_right">25</td>
+<td class="align_right">47</td>
+<td class="align_right">72</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/morgan-state/2014.html">Morgan State</a></td>
+<td class="align_right">82</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-coppin-state.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/coppin-state/2014.html">Coppin State</a></td>
+<td class="align_right">77</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/morgan-state/2014.html">Morgan State</a></td><td class="align_right">44</td>
+<td class="align_right">38</td>
+<td class="align_right">82</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/coppin-state/2014.html">Coppin State</a></td>
+<td class="align_right">36</td>
+<td class="align_right">41</td>
+<td class="align_right">77</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/savannah-state/2014.html">Savannah State</a></td>
+<td class="align_right">59</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-delaware-state.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/delaware-state/2014.html">Delaware State</a></td>
+<td class="align_right">79</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/savannah-state/2014.html">Savannah State</a></td><td class="align_right">27</td>
+<td class="align_right">32</td>
+<td class="align_right">59</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/delaware-state/2014.html">Delaware State</a></td>
+<td class="align_right">40</td>
+<td class="align_right">39</td>
+<td class="align_right">79</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/south-carolina-upstate/2014.html">South Carolina Upstate</a></td>
+<td class="align_right">75</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-east-tennessee-state.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/east-tennessee-state/2014.html">East Tennessee State</a></td>
+<td class="align_right">63</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/south-carolina-upstate/2014.html">South Carolina Upstate</a></td><td class="align_right">31</td>
+<td class="align_right">44</td>
+<td class="align_right">75</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/east-tennessee-state/2014.html">East Tennessee State</a></td>
+<td class="align_right">33</td>
+<td class="align_right">30</td>
+<td class="align_right">63</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/miami-fl/2014.html">Miami (FL)</a></td>
+<td class="align_right">77</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-florida-state.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/florida-state/2014.html">Florida State</a></td>
+<td class="align_right">73</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/miami-fl/2014.html">Miami (FL)</a></td><td class="align_right">34</td>
+<td class="align_right">43</td>
+<td class="align_right">77</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/florida-state/2014.html">Florida State</a></td>
+<td class="align_right">26</td>
+<td class="align_right">47</td>
+<td class="align_right">73</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/providence/2014.html">Providence</a></td>
+<td class="align_right">71</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-georgetown.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/georgetown/2014.html">Georgetown</a></td>
+<td class="align_right">83</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/providence/2014.html">Providence</a></td><td class="align_right">36</td>
+<td class="align_right">35</td>
+<td class="align_right">71</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/georgetown/2014.html">Georgetown</a></td>
+<td class="align_right">32</td>
+<td class="align_right">51</td>
+<td class="align_right">83</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/alcorn-state/2014.html">Alcorn State</a></td>
+<td class="align_right">80</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-grambling.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/grambling/2014.html">Grambling</a></td>
+<td class="align_right">95</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/alcorn-state/2014.html">Alcorn State</a></td><td class="align_right">36</td>
+<td class="align_right">44</td>
+<td class="align_right">80</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/grambling/2014.html">Grambling</a></td>
+<td class="align_right">46</td>
+<td class="align_right">49</td>
+<td class="align_right">95</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/maryland-eastern-shore/2014.html">Maryland-Eastern Shore</a></td>
+<td class="align_right">65</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-hampton.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/hampton/2014.html">Hampton</a></td>
+<td class="align_right">71</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/maryland-eastern-shore/2014.html">Maryland-Eastern Shore</a></td><td class="align_right">34</td>
+<td class="align_right">31</td>
+<td class="align_right">65</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/hampton/2014.html">Hampton</a></td>
+<td class="align_right">27</td>
+<td class="align_right">44</td>
+<td class="align_right">71</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/southern/2014.html">Southern</a></td>
+<td class="align_right">68</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-jackson-state.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/jackson-state/2014.html">Jackson State</a></td>
+<td class="align_right">63</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/southern/2014.html">Southern</a></td><td class="align_right">31</td>
+<td class="align_right">37</td>
+<td class="align_right">68</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/jackson-state/2014.html">Jackson State</a></td>
+<td class="align_right">22</td>
+<td class="align_right">41</td>
+<td class="align_right">63</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/hofstra/2014.html">Hofstra</a></td>
+<td class="align_right">53</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-james-madison.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/james-madison/2014.html">James Madison</a></td>
+<td class="align_right">59</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/hofstra/2014.html">Hofstra</a></td><td class="align_right">24</td>
+<td class="align_right">29</td>
+<td class="align_right">53</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/james-madison/2014.html">James Madison</a></td>
+<td class="align_right">34</td>
+<td class="align_right">25</td>
+<td class="align_right">59</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/alabama-am/2014.html">Alabama A&amp;M</a></td>
+<td class="align_right">91</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-mississippi-valley-state.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/mississippi-valley-state/2014.html">Mississippi Valley State</a></td>
+<td class="align_right">82</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/alabama-am/2014.html">Alabama A&amp;M</a></td><td class="align_right">37</td>
+<td class="align_right">54</td>
+<td class="align_right">91</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/mississippi-valley-state/2014.html">Mississippi Valley State</a></td>
+<td class="align_right">30</td>
+<td class="align_right">52</td>
+<td class="align_right">82</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/howard/2014.html">Howard</a></td>
+<td class="align_right">49</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-norfolk-state.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/norfolk-state/2014.html">Norfolk State</a></td>
+<td class="align_right">75</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/howard/2014.html">Howard</a></td><td class="align_right">18</td>
+<td class="align_right">31</td>
+<td class="align_right">49</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/norfolk-state/2014.html">Norfolk State</a></td>
+<td class="align_right">36</td>
+<td class="align_right">39</td>
+<td class="align_right">75</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/bethune-cookman/2014.html">Bethune-Cookman</a></td>
+<td class="align_right">72</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-north-carolina-at.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/north-carolina-at/2014.html">North Carolina A&amp;T</a></td>
+<td class="align_right">71</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/bethune-cookman/2014.html">Bethune-Cookman</a></td><td class="align_right">22</td>
+<td class="align_right">50</td>
+<td class="align_right">72</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/north-carolina-at/2014.html">North Carolina A&amp;T</a></td>
+<td class="align_right">30</td>
+<td class="align_right">41</td>
+<td class="align_right">71</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr class="background_yellow">
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/florida-am/2014.html">Florida A&amp;M</a></td>
+<td class="align_right">49</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-north-carolina-central.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/north-carolina-central/2014.html">North Carolina Central</a></td>
+<td class="align_right">92</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/florida-am/2014.html">Florida A&amp;M</a></td><td class="align_right">36</td>
+<td class="align_right">13</td>
+<td class="align_right">49</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/north-carolina-central/2014.html">North Carolina Central</a></td>
+<td class="align_right">47</td>
+<td class="align_right">45</td>
+<td class="align_right">92</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/towson/2014.html">Towson</a></td>
+<td class="align_right">53</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-north-carolina-wilmington.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/north-carolina-wilmington/2014.html">North Carolina-Wilmington</a></td>
+<td class="align_right">66</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/towson/2014.html">Towson</a></td><td class="align_right">25</td>
+<td class="align_right">28</td>
+<td class="align_right">53</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/north-carolina-wilmington/2014.html">North Carolina-Wilmington</a></td>
+<td class="align_right">30</td>
+<td class="align_right">36</td>
+<td class="align_right">66</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/marist/2014.html">Marist</a></td>
+<td class="align_right">78</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-quinnipiac.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/quinnipiac/2014.html">Quinnipiac</a></td>
+<td class="align_right">83</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/marist/2014.html">Marist</a></td><td class="align_right">40</td>
+<td class="align_right">38</td>
+<td class="align_right">78</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/quinnipiac/2014.html">Quinnipiac</a></td>
+<td class="align_right">40</td>
+<td class="align_right">43</td>
+<td class="align_right">83</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/southern-utah/2014.html">Southern Utah</a></td>
+<td class="align_right">56</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-sacramento-state.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/sacramento-state/2014.html">Sacramento State</a></td>
+<td class="align_right">68</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/southern-utah/2014.html">Southern Utah</a></td><td class="align_right">20</td>
+<td class="align_right">36</td>
+<td class="align_right">56</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/sacramento-state/2014.html">Sacramento State</a></td>
+<td class="align_right">36</td>
+<td class="align_right">32</td>
+<td class="align_right">68</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/fairfield/2014.html">Fairfield</a></td>
+<td class="align_right">75</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-siena.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/siena/2014.html">Siena</a></td>
+<td class="align_right">77</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/fairfield/2014.html">Fairfield</a></td><td class="align_right">37</td>
+<td class="align_right">38</td>
+<td class="align_right">75</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/siena/2014.html">Siena</a></td>
+<td class="align_right">36</td>
+<td class="align_right">41</td>
+<td class="align_right">77</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td><a href="/cbb/schools/furman/2014.html">Furman</a></td>
+<td class="align_right">75</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-western-carolina.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/western-carolina/2014.html">Western Carolina</a></td>
+<td class="align_right">83</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/furman/2014.html">Furman</a></td><td class="align_right">34</td>
+<td class="align_right">41</td>
+<td class="align_right">75</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/western-carolina/2014.html">Western Carolina</a></td>
+<td class="align_right">33</td>
+<td class="align_right">50</td>
+<td class="align_right">83</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=" valign_top">
+<table class="no_highlight stats_table wide_table">
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr>
+<td>Hiwassee</td>
+<td class="align_right">60</td>
+<td class="align_right bold_text"><a href="/cbb/boxscores/2014-02-10-wofford.html">Final</a></td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/wofford/2014.html">Wofford</a></td>
+<td class="align_right">95</td>
+<td class="align_right">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="no_highlight wide_table">
+<tr class="bold_text">
+<td>&nbsp;</td>
+<td class="align_right">1</td>
+<td class="align_right">2</td>
+<td class="align_right">T</td>
+</tr>
+<tr>
+<td>Hiwassee</td><td class="align_right">25</td>
+<td class="align_right">35</td>
+<td class="align_right">60</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/wofford/2014.html">Wofford</a></td>
+<td class="align_right">43</td>
+<td class="align_right">52</td>
+<td class="align_right">95</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<h1><a href="/cbb/schools/florida-am/2014.html">Florida A&amp;M</a> 49, <a href="/cbb/schools/north-carolina-central/2014.html">North Carolina Central</a> 92</h1>
+<table>
+<tr>
+<td><table class="nav_table stats_table">
+<tr>
+<th>&nbsp;</th>
+<th colspan="3">Scoring</th>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<th class="align_right">1</th>
+<th class="align_right">2</th>
+<th class="align_right">T</th>
+</tr>
+<tr>
+<td><a href="/cbb/schools/florida-am/2014.html">Florida A&amp;M</a></td>
+<td class="align_right">36</td>
+<td class="align_right">13</td>
+<td class="align_right bold_text">49</td>
+</tr>
+<tr>
+<td><a href="/cbb/schools/north-carolina-central/2014.html">North Carolina Central</a></td>
+<td class="align_right">47</td>
+<td class="align_right">45</td>
+<td class="align_right bold_text">92</td>
+</tr>
+</table>
+</td>
+<td><div class="table_container" id="div_four_factors">
+<table class=" nav_table stats_table" id="four_factors">
+<colgroup><col><col><col><col><col><col><col></colgroup>
+<thead>
+<tr class=" over_header">
+  <th data-stat="" align="CENTER" colspan=2  class=" over_header" ></th>
+  <th data-stat="header_tmp" align="center" colspan=4  class="bold_text over_header" >Four Factors</th>
+  <th></th>
+</tr>
+<tr class="">
+  <th data-stat="school_name" align="left"  class=" sort_default_asc"  tip="* = NCAA Tournament appearance<br>R = Conference regular season champion<br>T = Conference tournament champion<br>F = Final Four appearance<br>N = NCAA Tournament champion">School</th>
+  <th data-stat="pace" align="right"  class=""  tip="Pace Factor; an estimate of school possessions per 40 minutes.">Pace</th>
+  <th data-stat="efg_pct" align="right"  class=""  tip="Effective Field Goal Percentage; this statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.">eFG%</th>
+  <th data-stat="tov_pct" align="right"  class=" sort_default_asc"  tip="Turnover Percentage; an estimate of turnovers per 100 plays.">TOV%</th>
+  <th data-stat="orb_pct" align="right"  class=""  tip="Offensive Rebound Percentage; an estimate of the percentage of available offensive rebounds a player grabbed while he was on the floor.">ORB%</th>
+  <th data-stat="ft_rate" align="right"  class=""  tip="Free Throws Per Field Goal Attempt">FT/FGA</th>
+  <th data-stat="team_off_rtg" align="right"  class=""  tip="Offensive Rating; an estimate of points scored per 100 possessions.">ORtg</th>
+</tr>
+</thead>
+<tbody>
+<tr  class="">
+   <td align="left" ><a href="/cbb/schools/florida-am/">Florida A&amp;M</a></td>
+   <td align="right" >69.1</td>
+   <td align="right" >.412</td>
+   <td align="right" >24.2</td>
+   <td align="right" >21.9</td>
+   <td align="right" >.137</td>
+   <td align="right" >71.0</td>
+</tr>
+<tr  class="">
+   <td align="left" ><a href="/cbb/schools/north-carolina-central/">North Carolina Central</a></td>
+   <td align="right" >69.1</td>
+   <td align="right"  class=" background_yellow">.608</td>
+   <td align="right"  class=" background_yellow">9.0</td>
+   <td align="right"  class=" background_yellow">29.6</td>
+   <td align="right"  class=" background_yellow">.317</td>
+   <td align="right"  class=" background_yellow">133.3</td>
+</tr>
+</tbody>
+</table>
+</div><!-- div.table_container#div_xxxx -->
+</td>
+</tr>
+</table>
+<div class="table_heading">
+<h2 style="background-color:rgb(255,165,0)!important">Florida A&M (8-16)</h2>
+<div class="table_heading_text"></div>
+</div>
+<div class="table_container" id="div_florida-am">
+<table class="sortable  stats_table" id="florida-am">
+<colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup>
+<thead>
+<tr class="">
+  <th data-stat="player" align="left"  class="tooltip sort_default_asc" >Starters</th>
+  <th data-stat="mp" align="right"  class="tooltip"  tip="Minutes Played">MP</th>
+  <th data-stat="fg" align="right"  class="tooltip"  tip="Field Goals">FG</th>
+  <th data-stat="fga" align="right"  class="tooltip"  tip="Field Goal Attempts">FGA</th>
+  <th data-stat="fg_pct" align="right"  class="tooltip"  tip="Field Goal Percentage">FG%</th>
+  <th data-stat="fg2" align="right"  class="tooltip"  tip="2-Point Field Goals">2P</th>
+  <th data-stat="fg2a" align="right"  class="tooltip"  tip="2-Point Field Goal Attempts">2PA</th>
+  <th data-stat="fg2_pct" align="right"  class="tooltip"  tip="2-Point Field Goal Percentage">2P%</th>
+  <th data-stat="fg3" align="right"  class="tooltip"  tip="3-Point Field Goals">3P</th>
+  <th data-stat="fg3a" align="right"  class="tooltip"  tip="3-Point Field Goal Attempts">3PA</th>
+  <th data-stat="fg3_pct" align="right"  class="tooltip"  tip="3-Point Field Goal Percentage">3P%</th>
+  <th data-stat="ft" align="right"  class="tooltip"  tip="Free Throws">FT</th>
+  <th data-stat="fta" align="right"  class="tooltip"  tip="Free Throw Attempts">FTA</th>
+  <th data-stat="ft_pct" align="right"  class="tooltip"  tip="Free Throw Percentage">FT%</th>
+  <th data-stat="orb" align="right"  class="tooltip"  tip="Offensive Rebounds">ORB</th>
+  <th data-stat="drb" align="right"  class="tooltip"  tip="Defensive Rebounds">DRB</th>
+  <th data-stat="trb" align="right"  class="tooltip"  tip="Total Rebounds">TRB</th>
+  <th data-stat="ast" align="right"  class="tooltip"  tip="Assists">AST</th>
+  <th data-stat="stl" align="right"  class="tooltip"  tip="Steals">STL</th>
+  <th data-stat="blk" align="right"  class="tooltip"  tip="Blocks">BLK</th>
+  <th data-stat="tov" align="right"  class="tooltip"  tip="Turnovers">TOV</th>
+  <th data-stat="pf" align="right"  class="tooltip"  tip="Personal Fouls">PF</th>
+  <th data-stat="pts" align="right"  class="tooltip"  tip="Points">PTS</th>
+</tr>
+</thead>
+<tbody>
+<tr  class="">
+   <td align="left"  csk="Adams,Jamie"><a href="/cbb/players/jamie-adams-1.html">Jamie Adams</a></td>
+   <td align="right" >34</td>
+   <td align="right" >5</td>
+   <td align="right" >14</td>
+   <td align="right" >.357</td>
+   <td align="right" >3</td>
+   <td align="right" >6</td>
+   <td align="right" >.500</td>
+   <td align="right" >2</td>
+   <td align="right" >8</td>
+   <td align="right" >.250</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >.000</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >5</td>
+   <td align="right" >2</td>
+   <td align="right" >0</td>
+   <td align="right" >3</td>
+   <td align="right" >1</td>
+   <td align="right" >12</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Lewis,Reggie"><a href="/cbb/players/reggie-lewis-2.html">Reggie Lewis</a></td>
+   <td align="right" >34</td>
+   <td align="right" >3</td>
+   <td align="right" >14</td>
+   <td align="right" >.214</td>
+   <td align="right" >2</td>
+   <td align="right" >6</td>
+   <td align="right" >.333</td>
+   <td align="right" >1</td>
+   <td align="right" >8</td>
+   <td align="right" >.125</td>
+   <td align="right" >3</td>
+   <td align="right" >4</td>
+   <td align="right" >.750</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >2</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >10</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Bradshaw,Jamari"><a href="/cbb/players/jamari-bradshaw-1.html">Jamari Bradshaw</a></td>
+   <td align="right" >27</td>
+   <td align="right" >3</td>
+   <td align="right" >4</td>
+   <td align="right" >.750</td>
+   <td align="right" >2</td>
+   <td align="right" >2</td>
+   <td align="right" >1.000</td>
+   <td align="right" >1</td>
+   <td align="right" >2</td>
+   <td align="right" >.500</td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >.000</td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >2</td>
+   <td align="right" >3</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >2</td>
+   <td align="right" >7</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="King,Bobby"><a href="/cbb/players/bobby-king-1.html">Bobby King</a></td>
+   <td align="right" >27</td>
+   <td align="right" >3</td>
+   <td align="right" >4</td>
+   <td align="right" >.750</td>
+   <td align="right" >3</td>
+   <td align="right" >4</td>
+   <td align="right" >.750</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >1</td>
+   <td align="right" >6</td>
+   <td align="right" >7</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >4</td>
+   <td align="right" >4</td>
+   <td align="right" >4</td>
+   <td align="right" >6</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Kellum,Trey"><a href="/cbb/players/trey-kellum-1.html">Trey Kellum</a></td>
+   <td align="right" >26</td>
+   <td align="right" >3</td>
+   <td align="right" >6</td>
+   <td align="right" >.500</td>
+   <td align="right" >3</td>
+   <td align="right" >6</td>
+   <td align="right" >.500</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >4</td>
+   <td align="right" >4</td>
+   <td align="right" >1.000</td>
+   <td align="right" >2</td>
+   <td align="right" >2</td>
+   <td align="right" >4</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >5</td>
+   <td align="right" >10</td>
+</tr>
+<tr class="no_ranker thead">
+  <th data-stat="player" align="left"  class=" sort_default_asc" >Reserves</th>
+  <th data-stat="mp" align="right"  class=""  tip="Minutes Played">MP</th>
+  <th data-stat="fg" align="right"  class=""  tip="Field Goals">FG</th>
+  <th data-stat="fga" align="right"  class=""  tip="Field Goal Attempts">FGA</th>
+  <th data-stat="fg_pct" align="right"  class=""  tip="Field Goal Percentage">FG%</th>
+  <th data-stat="fg2" align="right"  class=""  tip="2-Point Field Goals">2P</th>
+  <th data-stat="fg2a" align="right"  class=""  tip="2-Point Field Goal Attempts">2PA</th>
+  <th data-stat="fg2_pct" align="right"  class=""  tip="2-Point Field Goal Percentage">2P%</th>
+  <th data-stat="fg3" align="right"  class=""  tip="3-Point Field Goals">3P</th>
+  <th data-stat="fg3a" align="right"  class=""  tip="3-Point Field Goal Attempts">3PA</th>
+  <th data-stat="fg3_pct" align="right"  class=""  tip="3-Point Field Goal Percentage">3P%</th>
+  <th data-stat="ft" align="right"  class=""  tip="Free Throws">FT</th>
+  <th data-stat="fta" align="right"  class=""  tip="Free Throw Attempts">FTA</th>
+  <th data-stat="ft_pct" align="right"  class=""  tip="Free Throw Percentage">FT%</th>
+  <th data-stat="orb" align="right"  class=""  tip="Offensive Rebounds">ORB</th>
+  <th data-stat="drb" align="right"  class=""  tip="Defensive Rebounds">DRB</th>
+  <th data-stat="trb" align="right"  class=""  tip="Total Rebounds">TRB</th>
+  <th data-stat="ast" align="right"  class=""  tip="Assists">AST</th>
+  <th data-stat="stl" align="right"  class=""  tip="Steals">STL</th>
+  <th data-stat="blk" align="right"  class=""  tip="Blocks">BLK</th>
+  <th data-stat="tov" align="right"  class=""  tip="Turnovers">TOV</th>
+  <th data-stat="pf" align="right"  class=""  tip="Personal Fouls">PF</th>
+  <th data-stat="pts" align="right"  class=""  tip="Points">PTS</th>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Davis III,Walter"><a href="/cbb/players/walter-davis-3.html">Walter Davis III</a></td>
+   <td align="right" >15</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Odi,Onyekachukwu"><a href="/cbb/players/onyekachukwu-odi-1.html">Onyekachukwu Odi</a></td>
+   <td align="right" >11</td>
+   <td align="right" >2</td>
+   <td align="right" >3</td>
+   <td align="right" >.667</td>
+   <td align="right" >2</td>
+   <td align="right" >3</td>
+   <td align="right" >.667</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >.000</td>
+   <td align="right" >2</td>
+   <td align="right" >2</td>
+   <td align="right" >4</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >5</td>
+   <td align="right" >4</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Conner,Willie"><a href="/cbb/players/willie-conner-1.html">Willie Conner</a></td>
+   <td align="right" >8</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >.000</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >2</td>
+   <td align="right" >0</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Spiller,Richie"><a href="/cbb/players/richie-spiller-1.html">Richie Spiller</a></td>
+   <td align="right" >7</td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >2</td>
+   <td align="right" >2</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Bullard,D`Andre"><a href="/cbb/players/dandre-bullard-1.html">D`Andre Bullard</a></td>
+   <td align="right" >5</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Nelson,Greg"><a href="/cbb/players/greg-nelson-2.html">Greg Nelson</a></td>
+   <td align="right" >4</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Rozier,Christopher"><a href="/cbb/players/christopher-rozier-1.html">Christopher Rozier</a></td>
+   <td align="right" >2</td>
+   <td align="right" >0</td>
+   <td align="right" >3</td>
+   <td align="right" >.000</td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >.000</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >2</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+</tr>
+</tbody>
+<tfoot>
+<tr  class="bold_text stat_total">
+   <td align="left" >School Totals</td>
+   <td align="right" >200</td>
+   <td align="right" >19</td>
+   <td align="right" >51</td>
+   <td align="right" >.373</td>
+   <td align="right" >15</td>
+   <td align="right" >30</td>
+   <td align="right" >.500</td>
+   <td align="right" >4</td>
+   <td align="right" >21</td>
+   <td align="right" >.190</td>
+   <td align="right" >7</td>
+   <td align="right" >12</td>
+   <td align="right" >.583</td>
+   <td align="right" >7</td>
+   <td align="right" >19</td>
+   <td align="right" >26</td>
+   <td align="right" >11</td>
+   <td align="right" >4</td>
+   <td align="right" >5</td>
+   <td align="right" >18</td>
+   <td align="right" >21</td>
+   <td align="right" >49</td>
+</tr>
+</tfoot>
+</table>
+</div><!-- div.table_container#div_xxxx -->
+<div class="table_heading">
+<h2 style="background-color:rgb(128,0,0)!important">North Carolina Central (18-5)</h2>
+<div class="table_heading_text"></div>
+</div>
+<div class="table_container" id="div_north-carolina-central">
+<table class="sortable  stats_table" id="north-carolina-central">
+<colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup>
+<thead>
+<tr class="">
+  <th data-stat="player" align="left"  class="tooltip sort_default_asc" >Starters</th>
+  <th data-stat="mp" align="right"  class="tooltip"  tip="Minutes Played">MP</th>
+  <th data-stat="fg" align="right"  class="tooltip"  tip="Field Goals">FG</th>
+  <th data-stat="fga" align="right"  class="tooltip"  tip="Field Goal Attempts">FGA</th>
+  <th data-stat="fg_pct" align="right"  class="tooltip"  tip="Field Goal Percentage">FG%</th>
+  <th data-stat="fg2" align="right"  class="tooltip"  tip="2-Point Field Goals">2P</th>
+  <th data-stat="fg2a" align="right"  class="tooltip"  tip="2-Point Field Goal Attempts">2PA</th>
+  <th data-stat="fg2_pct" align="right"  class="tooltip"  tip="2-Point Field Goal Percentage">2P%</th>
+  <th data-stat="fg3" align="right"  class="tooltip"  tip="3-Point Field Goals">3P</th>
+  <th data-stat="fg3a" align="right"  class="tooltip"  tip="3-Point Field Goal Attempts">3PA</th>
+  <th data-stat="fg3_pct" align="right"  class="tooltip"  tip="3-Point Field Goal Percentage">3P%</th>
+  <th data-stat="ft" align="right"  class="tooltip"  tip="Free Throws">FT</th>
+  <th data-stat="fta" align="right"  class="tooltip"  tip="Free Throw Attempts">FTA</th>
+  <th data-stat="ft_pct" align="right"  class="tooltip"  tip="Free Throw Percentage">FT%</th>
+  <th data-stat="orb" align="right"  class="tooltip"  tip="Offensive Rebounds">ORB</th>
+  <th data-stat="drb" align="right"  class="tooltip"  tip="Defensive Rebounds">DRB</th>
+  <th data-stat="trb" align="right"  class="tooltip"  tip="Total Rebounds">TRB</th>
+  <th data-stat="ast" align="right"  class="tooltip"  tip="Assists">AST</th>
+  <th data-stat="stl" align="right"  class="tooltip"  tip="Steals">STL</th>
+  <th data-stat="blk" align="right"  class="tooltip"  tip="Blocks">BLK</th>
+  <th data-stat="tov" align="right"  class="tooltip"  tip="Turnovers">TOV</th>
+  <th data-stat="pf" align="right"  class="tooltip"  tip="Personal Fouls">PF</th>
+  <th data-stat="pts" align="right"  class="tooltip"  tip="Points">PTS</th>
+</tr>
+</thead>
+<tbody>
+<tr  class="">
+   <td align="left"  csk="Ingram,Jeremy"><a href="/cbb/players/jeremy-ingram-2.html">Jeremy Ingram</a></td>
+   <td align="right" >32</td>
+   <td align="right" >8</td>
+   <td align="right" >17</td>
+   <td align="right" >.471</td>
+   <td align="right" >8</td>
+   <td align="right" >14</td>
+   <td align="right" >.571</td>
+   <td align="right" >0</td>
+   <td align="right" >3</td>
+   <td align="right" >.000</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >1.000</td>
+   <td align="right" >2</td>
+   <td align="right" >4</td>
+   <td align="right" >6</td>
+   <td align="right" >2</td>
+   <td align="right" >1</td>
+   <td align="right" >2</td>
+   <td align="right" >1</td>
+   <td align="right" >3</td>
+   <td align="right" >17</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Jawara,Karamo"><a href="/cbb/players/karamo-jawara-1.html">Karamo Jawara</a></td>
+   <td align="right" >32</td>
+   <td align="right" >3</td>
+   <td align="right" >4</td>
+   <td align="right" >.750</td>
+   <td align="right" >2</td>
+   <td align="right" >3</td>
+   <td align="right" >.667</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >1.000</td>
+   <td align="right" >7</td>
+   <td align="right" >8</td>
+   <td align="right" >.875</td>
+   <td align="right" >1</td>
+   <td align="right" >3</td>
+   <td align="right" >4</td>
+   <td align="right" >3</td>
+   <td align="right" >5</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >14</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Houston,Alfonzo"><a href="/cbb/players/alfonzo-houston-1.html">Alfonzo Houston</a></td>
+   <td align="right" >25</td>
+   <td align="right" >3</td>
+   <td align="right" >8</td>
+   <td align="right" >.375</td>
+   <td align="right" >3</td>
+   <td align="right" >7</td>
+   <td align="right" >.429</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >.000</td>
+   <td align="right" >2</td>
+   <td align="right" >4</td>
+   <td align="right" >.500</td>
+   <td align="right" >1</td>
+   <td align="right" >4</td>
+   <td align="right" >5</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >8</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Copeland,Jay"><a href="/cbb/players/jay-copeland-1.html">Jay Copeland</a></td>
+   <td align="right" >18</td>
+   <td align="right" >4</td>
+   <td align="right" >6</td>
+   <td align="right" >.667</td>
+   <td align="right" >4</td>
+   <td align="right" >6</td>
+   <td align="right" >.667</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >3</td>
+   <td align="right" >4</td>
+   <td align="right" >.750</td>
+   <td align="right" >2</td>
+   <td align="right" >4</td>
+   <td align="right" >6</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >11</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Chapman,Emanuel"><a href="/cbb/players/emanuel-chapman-1.html">Emanuel Chapman</a></td>
+   <td align="right" >15</td>
+   <td align="right" >3</td>
+   <td align="right" >4</td>
+   <td align="right" >.750</td>
+   <td align="right" >3</td>
+   <td align="right" >4</td>
+   <td align="right" >.750</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >2</td>
+   <td align="right" >2</td>
+   <td align="right" >1.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >3</td>
+   <td align="right" >2</td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >4</td>
+   <td align="right" >8</td>
+</tr>
+<tr class="no_ranker thead">
+  <th data-stat="player" align="left"  class=" sort_default_asc" >Reserves</th>
+  <th data-stat="mp" align="right"  class=""  tip="Minutes Played">MP</th>
+  <th data-stat="fg" align="right"  class=""  tip="Field Goals">FG</th>
+  <th data-stat="fga" align="right"  class=""  tip="Field Goal Attempts">FGA</th>
+  <th data-stat="fg_pct" align="right"  class=""  tip="Field Goal Percentage">FG%</th>
+  <th data-stat="fg2" align="right"  class=""  tip="2-Point Field Goals">2P</th>
+  <th data-stat="fg2a" align="right"  class=""  tip="2-Point Field Goal Attempts">2PA</th>
+  <th data-stat="fg2_pct" align="right"  class=""  tip="2-Point Field Goal Percentage">2P%</th>
+  <th data-stat="fg3" align="right"  class=""  tip="3-Point Field Goals">3P</th>
+  <th data-stat="fg3a" align="right"  class=""  tip="3-Point Field Goal Attempts">3PA</th>
+  <th data-stat="fg3_pct" align="right"  class=""  tip="3-Point Field Goal Percentage">3P%</th>
+  <th data-stat="ft" align="right"  class=""  tip="Free Throws">FT</th>
+  <th data-stat="fta" align="right"  class=""  tip="Free Throw Attempts">FTA</th>
+  <th data-stat="ft_pct" align="right"  class=""  tip="Free Throw Percentage">FT%</th>
+  <th data-stat="orb" align="right"  class=""  tip="Offensive Rebounds">ORB</th>
+  <th data-stat="drb" align="right"  class=""  tip="Defensive Rebounds">DRB</th>
+  <th data-stat="trb" align="right"  class=""  tip="Total Rebounds">TRB</th>
+  <th data-stat="ast" align="right"  class=""  tip="Assists">AST</th>
+  <th data-stat="stl" align="right"  class=""  tip="Steals">STL</th>
+  <th data-stat="blk" align="right"  class=""  tip="Blocks">BLK</th>
+  <th data-stat="tov" align="right"  class=""  tip="Turnovers">TOV</th>
+  <th data-stat="pf" align="right"  class=""  tip="Personal Fouls">PF</th>
+  <th data-stat="pts" align="right"  class=""  tip="Points">PTS</th>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Groves,Reggie"><a href="/cbb/players/reggie-groves-1.html">Reggie Groves</a></td>
+   <td align="right" >20</td>
+   <td align="right" >2</td>
+   <td align="right" >4</td>
+   <td align="right" >.500</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >.000</td>
+   <td align="right" >2</td>
+   <td align="right" >3</td>
+   <td align="right" >.667</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >4</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >6</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Parks,Jordan"><a href="/cbb/players/jordan-parks-1.html">Jordan Parks</a></td>
+   <td align="right" >19</td>
+   <td align="right" >4</td>
+   <td align="right" >6</td>
+   <td align="right" >.667</td>
+   <td align="right" >3</td>
+   <td align="right" >5</td>
+   <td align="right" >.600</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >1.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >1</td>
+   <td align="right" >5</td>
+   <td align="right" >6</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >9</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Holmes,Dante">Dante Holmes</td>
+   <td align="right" >14</td>
+   <td align="right" >1</td>
+   <td align="right" >5</td>
+   <td align="right" >.200</td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >.000</td>
+   <td align="right" >1</td>
+   <td align="right" >3</td>
+   <td align="right" >.333</td>
+   <td align="right" >3</td>
+   <td align="right" >4</td>
+   <td align="right" >.750</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >2</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >1</td>
+   <td align="right" >6</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Moody,Juwan"><a href="/cbb/players/juwan-moody-1.html">Juwan Moody</a></td>
+   <td align="right" >11</td>
+   <td align="right" >2</td>
+   <td align="right" >2</td>
+   <td align="right" >1.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >2</td>
+   <td align="right" >2</td>
+   <td align="right" >1.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >3</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >3</td>
+   <td align="right" >6</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Anyaorah,Ebuka"><a href="/cbb/players/ebuka-anyaorah-2.html">Ebuka Anyaorah</a></td>
+   <td align="right" >6</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >1.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >1.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+   <td align="right" >3</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Galaya,Antonin"><a href="/cbb/players/antonin-galaya-1.html">Antonin Galaya</a></td>
+   <td align="right" >4</td>
+   <td align="right" >1</td>
+   <td align="right" >2</td>
+   <td align="right" >.500</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >1</td>
+   <td align="right" >2</td>
+   <td align="right" >.500</td>
+   <td align="right" >1</td>
+   <td align="right" >1</td>
+   <td align="right" >1.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >4</td>
+</tr>
+<tr  class="">
+   <td align="left"  csk="Eaton,Ramon"><a href="/cbb/players/ramon-eaton-1.html">Ramon Eaton</a></td>
+   <td align="right" >4</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >.000</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" ></td>
+   <td align="right" >0</td>
+   <td align="right" >2</td>
+   <td align="right" >2</td>
+   <td align="right" >0</td>
+   <td align="right" >1</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+   <td align="right" >0</td>
+</tr>
+</tbody>
+<tfoot>
+<tr  class="bold_text stat_total">
+   <td align="left" >School Totals</td>
+   <td align="right" >200</td>
+   <td align="right" >32</td>
+   <td align="right" >60</td>
+   <td align="right" >.533</td>
+   <td align="right" >23</td>
+   <td align="right" >42</td>
+   <td align="right" >.548</td>
+   <td align="right" >9</td>
+   <td align="right" >18</td>
+   <td align="right" >.500</td>
+   <td align="right" >19</td>
+   <td align="right" >24</td>
+   <td align="right" >.792</td>
+   <td align="right" >8</td>
+   <td align="right" >25</td>
+   <td align="right" >33</td>
+   <td align="right" >18</td>
+   <td align="right" >11</td>
+   <td align="right" >3</td>
+   <td align="right" >7</td>
+   <td align="right" >16</td>
+   <td align="right" >92</td>
+</tr>
+</tfoot>
+</table>
+</div><!-- div.table_container#div_xxxx -->
+</div>
+<div id="sr_js"></div>
+<script type="text/javascript">
+(function () {
+    var sr_js_file = 'http://d2ft4b0ve1aur1.cloudfront.net/js-352/sr-cbb-min.js';
+    if (sr_gzipEnabled) {
+       sr_js_file = 'http://d2ft4b0ve1aur1.cloudfront.net/js-352/sr-cbb-min.js.jgz';
+    }
+    var sr_script_tag = document.getElementById("sr_js");         
+    if (sr_script_tag) {
+	var scriptStyles = document.createElement("script");
+	scriptStyles.type = "text/javascript";
+	scriptStyles.src = sr_js_file;
+	sr_script_tag.appendChild(scriptStyles);
+	//alert('adding js to footer:'+sr_js_file);
+    }
+}());
+</script>
+
+
+<div id="site_footer">
+
+<script type="text/javascript">
+if (location.pathname != '/') {
+   googletag.cmd.push(function() {
+      googletag.defineSlot('/117033896/sr_pagebottom', [[728, 90], [970, 90]], 'sr_pagebottom').addService(googletag.pubads());
+      googletag.pubads().set("adsense_channel_ids", "5516762052");
+      googletag.enableServices();
+   });
+}
+else {
+    // for the front page.
+   googletag.cmd.push(function() {
+      googletag.defineSlot('/5702/yb_Sports_Reference', [728,90], 'sr_pagebottom').addService(googletag.pubads());
+      googletag.enableServices();
+  });
+}
+</script>
+<!-- sr_pagebottom -->
+<div id="sr_pagebottom" style="width:970px; height:90px;" class="margin_bottom">
+<script type="text/javascript">
+   googletag.cmd.push(function() { googletag.display('sr_pagebottom'); });
+</script>
+</div>
+
+
+<div id="sr_footer">
+  Copyright &copy; 2000-2014
+<a href="http://www.sports-reference.com">Sports Reference LLC</a>.
+All rights reserved.
+
+<form class="inline margin_left" method="get" name="f_footer" action="/cbb/search.cgi">
+<input x-webkit-speech type="text" id="search_footer" name="search" class="search long"> 
+<input type="submit" value="Search" class="submit">
+</form>
+
+<div class="margin_top large_text"><a href="http://www.sports-reference.com/feedback/">Question, Comment, Feedback or Correction?</a></div>
+
+<div class="blockquote clear_both margin_top">
+<a href="http://www.sports-reference.com/">A Sports Reference Site</a>:
+<a href="/cbb/about/">About SR/CBB</a>&nbsp;|
+<a href="http://www.sports-reference.com/privacy.shtml">Privacy Statement</a>&nbsp;|
+<a href="http://www.sports-reference.com/termsofuse.shtml">Conditions &amp; Terms of Service</a> | 
+<a href="http://www.sports-reference.com/data_use.shtml">Use of Data</a>
+</div>
+
+
+
+<div class="clear_both align_center large_text bold_text margin">Part of the <a href="http://www.yardbarker.com/"><img border="0" width="300" src="http://d2ft4b0ve1aur1.cloudfront.net/images-349/ybn_badge_300.gif" height="33"/></a> Network</div>
+
+
+
+</div><!-- div#sr_footer -->
+</div><!-- div#site_footer -->
+
+
+
+<script defersrc="http://network.yardbarker.com/network/ybn_pixel/12488" type="text/deferscript"></script> <noscript></noscript>
+
+
+<!-- google +1 code -->
+<script type="text/deferscript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<!-- google analytics code -->
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+   var pageTracker = _gat._createTracker("UA-1890630-8");
+   pageTracker._setCookiePath("/cbb/");
+   pageTracker._trackPageview();
+   pageTracker._trackPageLoadTime();
+
+   var sr_tracker = _gat._createTracker("UA-1890630-9");
+   sr_tracker._setDomainName('none'); 
+   sr_tracker._setAllowLinker(true); 
+   sr_tracker._setAllowHash(false);
+   sr_tracker._setCustomVar(1,"site","cbb",3);
+   sr_tracker._trackPageview();
+} catch(err) {}</script>
+<!-- End Google Analytics Tag -->
+
+<script type="text/deferscript">
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=217889038235002";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- google +1 code -->
+<script type="text/deferscript">
+ (function() {
+   var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+   po.src = 'https://apis.google.com/js/plusone.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+ })();
+</script>
+
+
+
+</div>
+</body>
+</html>
